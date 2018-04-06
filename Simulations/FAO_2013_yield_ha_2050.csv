@@ -1,0 +1,222 @@
+Country,Region,Wheat_crop_ha,Maize_crop_ha,Soybeans_crop_ha,Rapeseed_crop_ha,Pulses_crop_ha,Barley_crop_ha,Cassava_crop/ha
+Afghanistan,Asia,0.34,0.31,0,0,0.62,0.45,0
+Albania,Europe,0.18,0.1,0.72,0,0.86,0.3,0
+Algeria,Africa,0.36,0.21,0,0.21,0.56,0.5,0
+American Samoa,Small Island Nations,0.07,0.27,0,0,0.4,0,0.12
+Angola,Africa,0.6,0.73,1.63,0,0,0,0.05
+Antigua and Barbuda,North America,0,0.35,0,0,0,0,0.13
+Argentina,South America,0.27,0.11,0.28,0.35,0,0.21,0.07
+Armenia,East Europe and CIS,0.22,0.1,0,0,0.13,0.28,0
+Aruba,North America,0,0.35,0,0,0.19,0,0.07
+Australia,Australia and New Zealand,0.41,0.11,0.32,0.45,0.35,0.36,0
+Austria,Europe,0.14,0.09,0.37,0.17,0.2,0.16,0
+Azerbaijan,Asia,0.26,0.13,1.2,0,0.22,0.34,0
+Bahamas,North America,0,0.09,0,0,0,0,0.03
+Bahrain,Asia,0,0,0,0,0.65,0,0
+Bangladesh,Asia,0.23,0.1,0.45,0.5,0.51,0.93,0
+Barbados,North America,0,0.24,0,0,0.21,0,0.03
+Belarus,East Europe and CIS,0.23,0.12,0,0.34,0,0.28,0
+Belgium,Europe,0.08,0.07,0,0.13,0,0.1,0
+Belize,Central America,0,0.2,0.45,0,0,0,0.04
+Benin,Africa,0,0.53,0.81,0,0.39,0,0.05
+Bermuda,North America,0,0,0,0,0,0,0
+Bhutan,Asia,0.29,0.26,1.04,0,0.79,0.65,0
+Bolivia (Plurinational State of),South America,0.6,0.28,0.32,0,0,0.88,0.08
+Bosnia and Herzegovina,Europe,0.19,0.17,0.4,0.26,0,0.24,0
+Botswana,Africa,0,8.13,0,0,2.52,0,0
+Brazil,South America,0.27,0.14,0.25,0.71,0,0.22,0.05
+British Virgin Islands,Central America,0,0.33,0,0,0.19,0,0.07
+Brunei Darussalam,Asia,0,0,0,0,0,0,0.04
+Bulgaria,Europe,0.17,0.11,0.4,0.23,0.21,0.22,0
+Burkina Faso,Africa,0,0.4,0.53,0,0.49,0,0.49
+Burundi,Africa,0.95,0.52,0.75,0,0,0,0.1
+Cabo Verde,Africa,0,3.78,0,0,2.32,0,0.09
+Cambodia,Asia,0,0.16,0.46,0,0,0,0.03
+Cameroon,Africa,0.54,0.35,0.54,0,0.44,0,0.05
+Canada,North America,0.2,0.08,0.25,0.25,0,0.22,0
+Cayman Islands,Central America,0,0.33,0,0,0.19,0,0.22
+Central African Republic,Africa,0,0.39,0,0,0.49,0,0.23
+Chad,Africa,0.37,0.53,0,0,0.47,0,0.1
+Chile,South America,0.13,0.07,0,0.15,0,0.14,0
+"China, Hong Kong SAR",Asia,0.36,0.14,0.36,0.29,0.22,0.44,0
+"China, Macao SAR",Asia,0.36,0.14,0.36,0.29,0.22,0.44,0
+"China, mainland",Asia,0.14,0.11,0.41,0.3,0.23,0.23,0.04
+"China, Taiwan Province of",Asia,0.35,0.11,0.38,0.61,0,0,0.03
+Colombia,South America,0.43,0.26,0.26,0,0,0.39,0.07
+Comoros,Africa,0,0.27,0,0,0.57,0,0.11
+Congo,Africa,0,0.68,0,0,0,0,0.03
+Cook Islands,Small Island Nations,0.07,0.27,0,0,0.4,0,0.03
+Costa Rica,Central America,0,0.31,0,0,0,0,0.05
+Cote d'Ivoire,Africa,0,0.35,0.68,0,0.63,0,0.1
+Croatia,Europe,0.15,0.11,0.31,0.21,0,0.22,0
+Cuba,Central America,0,0.29,0,0,0,0,0.09
+Cyprus,Asia,0.31,0,0,0,0.4,0.54,0
+Czech Republic,Europe,0.16,0.08,0.19,0.2,0.17,0.21,0
+Czechia,Europe,0.13,0.1,0.35,0.17,0.32,0.18,0
+Democratic People's Republic of Korea,Asia,0.46,0.18,0.62,0,0,0.55,0
+Democratic Republic of the Congo,Africa,0.56,0.88,1.31,0,0.2,1.22,0.08
+Denmark,Europe,0.1,0.12,0,0.15,0.15,0.14,0
+Djibouti,Africa,0,0.35,0,0,0,0,0
+Dominica,North America,0,0.41,0,0,0.68,0,0.09
+Dominican Republic,North America,0,0.44,0,0,0,0,0.09
+Ecuador,South America,1.03,0.2,0.44,0,0,1.03,0.27
+Egypt,Africa,0.1,0.09,0.21,0,0.23,0.53,0
+El Salvador,Central America,0,0.23,0.37,0,0,0,0.04
+Equatorial Guinea,Africa,0.26,0.65,0.54,0,0.25,0.15,0.22
+Eritrea,Africa,0.58,0.69,0,0,0.6,0.57,0
+Estonia,Europe,0.22,0,0,0.28,0,0.25,0
+Ethiopia,Africa,0.28,0.21,0.36,0.4,0.32,0.44,0
+Falkland Islands (Malvinas),South America,0.29,0.25,0.29,0.14,0.06,0.3,0
+Faroe Islands,Europe,0.07,0.27,0,0,0.4,0,0
+Fiji,Small Island Nations,0,0.43,0,0,1.1,0,0.07
+Finland,Europe,0.19,0,0,0.37,0,0.22,0
+France,Europe,0.1,0.09,0.28,0.19,0.15,0.13,0
+French Guiana,South America,0,0.71,0,0,0,0,0.13
+French Polynesia,Small Island Nations,0.07,0.27,0,0,0.4,0,0.04
+Gabon,Africa,0,0.41,0.81,0,0.39,0,0.16
+Gambia,Africa,0,0.69,0,0,2.4,0,0.17
+Georgia,Asia,0.38,0.28,0.28,0,0,0.65,0
+Germany,Europe,0.09,0.08,0.36,0.14,0.24,0.13,0
+Ghana,Africa,0,0.4,0,0,5.2,0,0.03
+Greece,Europe,0.26,0.07,0.22,0.38,0.26,0.29,0
+Greenland,Europe,0.16,0.08,0.19,0.2,0.17,0.21,0
+Grenada,Central America,0,0.69,0,0,0,0,0.08
+Guadeloupe,Central America,0,0,0,0,1,0,0.05
+Guam,Small Island Nations,0,0.28,0,0,0,0,0
+Guatemala,Central America,0.31,0.33,0.28,0,0.08,0.65,0.21
+Guinea,Africa,0,0.51,0,0,0.54,0,0.09
+Guinea-Bissau,Africa,0,1.41,0,0,0.92,0,0.07
+Guyana,South America,0,0.58,0,0,0,0,0.06
+Haiti,Central America,0,0.81,0,0,0,0,0.15
+Honduras,Central America,1.79,0.44,0.29,0,0,0,0.09
+Hungary,Europe,0.16,0.13,0.39,0.21,0.33,0.2,0
+Iceland,Europe,0.16,0.08,0.19,0.2,0.17,0.21,0
+India,Asia,0.22,0.28,0.74,0.46,1.01,0.37,0.02
+Indonesia,Asia,0,0.14,0.51,0,0.82,0,0.03
+Iran (Islamic Republic of),Asia,0.47,0.11,0.29,0.28,0.17,0.48,0
+Iraq,Asia,0.3,0.16,0.54,0,0,0.67,0
+Ireland,Europe,0.08,0,0,0.16,0,0.11,0
+Israel,Asia,0.29,0.03,0,0,0.4,0.29,0
+Italy,Europe,0.19,0.08,0.21,0.27,0.14,0.22,0
+Jamaica,Central America,0,0.58,0,0,0,0,0.03
+Japan,Asia,0.18,0.25,0.46,0.51,0,0.27,0
+Jordan,Asia,0.5,0.04,0,0,0,0.78,0
+Kazakhstan,East Europe and CIS,0.64,0.13,0.37,0.6,0,0.6,0
+Kenya,Africa,0.25,0.41,0.47,0,1.79,0.25,0.05
+Kiribati,Small Island Nations,0.07,0.27,0,0,0.4,0,0
+Kuwait,Asia,0.17,0.02,0,0,0,0.13,0
+Kyrgyzstan,East Europe and CIS,0.29,0.11,0.9,0,0.83,0.39,0
+Lao People's Democratic Republic,Asia,0,0.12,0.46,0,0.51,0,0.03
+Latvia,Europe,0.19,0,0,0.24,0.2,0.3,0
+Lebanon,Asia,0.18,0.21,0,0,0.12,0.34,0
+Lesotho,Africa,0.8,0.8,0,0,0,2.3,0
+Liberia,Africa,0,0,1.66,0,0.74,0,0.09
+Libya,Africa,0.55,0.35,0,0,0,1.71,0
+Liechtenstein,Europe,0.16,0.08,0.19,0.2,0.17,0.21,0
+Lithuania,Europe,0.17,0.1,0,0.27,0.26,0.25,0
+Luxembourg,Europe,0.11,0.07,0,0.17,0.15,0.15,0
+Madagascar,Africa,0.39,0.51,1.23,0,0.44,0,0.09
+Malawi,Africa,0.49,0.32,0.74,0,0,0,0.03
+Malaysia,Asia,0,0.08,0,0,0,0,0.04
+Maldives,Asia,0,0.14,0,0,0.61,0,0.44
+Mali,Africa,0.17,0.29,1.07,0,0.5,0,0.04
+Malta,Europe,0.14,0,0,0,0,0.21,0
+Martinique,North America,0,0.33,0,0,0.19,0,0.27
+Mauritania,Africa,0.42,1.03,0,0,1.25,0.31,0
+Mauritius,Africa,0,0.1,0,0,0,0,0.05
+Mayotte,Africa,0.42,0.49,0.45,0.02,0.42,0.16,0
+Mexico,Central America,0.13,0.22,0.47,0.38,0.63,0.41,0.05
+Micronesia (Federated States of),Small Island Nations,0,0.46,0,0,0,0,0.06
+Mongolia,Asia,0.52,0,0,0.19,0.5,0.61,0
+Montenegro,Europe,0.21,0.14,0,0,0,0.28,0
+Montserrat,Central America,0,0.12,0,0,0,0,0
+Morocco,Africa,0.32,1.04,0.72,0.57,0.42,0.6,0
+Mozambique,Africa,0.63,0.92,0,0,0.83,0,0.12
+Myanmar,Asia,0.37,0.19,0.69,0,0,0,0.05
+Namibia,Africa,0.09,0.48,0,0,0.46,0,0
+Nauru,Small Island Nations,0.07,0.27,0,0,0.4,0,0
+Nepal,Asia,0.3,0.29,0.61,0,0.47,0.73,0
+Netherlands,Europe,0.08,0.06,0,0.19,0,0.12,0
+New Caledonia,Small Island Nations,0.77,0.2,0,0,0.7,0,0.11
+New Zealand,Australia and New Zealand,0.08,0.06,0,0.53,0,0.12,0
+Nicaragua,Central America,0,0.42,0.32,0,0,0,0.09
+Niger,Africa,0.22,0.98,0,0,1.3,0,0.03
+Nigeria,Africa,0.69,0.47,0.95,0,1.09,0,0.09
+Niue,Small Island Nations,0.07,0.27,0,0,0.4,0,0.11
+Norfolk Island,Australia and New Zealand,0.42,0.12,0.32,0.45,0.35,0.36,0
+Northern Mariana Is.,North America,0,0,0,0,0,0,0
+Norway,Europe,0.19,0,0,0.33,0,0.26,0
+Occupied Palestinian Territory,Asia,0.41,0,0,0,0,0.57,0
+Oman,Asia,0.22,0,0,0,0,0.28,0
+Pakistan,Asia,0.25,0.16,1,0.61,0.71,0.9,0
+Palau,Small Island Nations,0.07,0.27,0,0,0.4,0,0
+Panama,Central America,0,0.29,1.95,0,0.54,0,0.04
+Papua New Guinea,Small Island Nations,0,0.13,0,0,1,0,0.07
+Paraguay,South America,0.28,0.18,0.24,0.41,0,0,0.04
+Peru,South America,0.49,0.22,0.4,0,0.35,0.57,0.05
+Philippines,Asia,0,0.24,0.2,0,0.57,0,0.06
+Poland,Europe,0.16,0.11,0,0.2,0.19,0.23,0
+Portugal,Europe,0.42,0.09,0,0,0,0.46,0
+Puerto Rico,Central America,0,0.37,0,0,0,0,0.07
+Qatar,Asia,0.3,0.06,0,0,0,0.28,0
+R'union,Africa,0,0.07,0,0,0.47,0,0.07
+Republic of Korea,Asia,0.27,0.14,0.37,0.46,0.36,0.35,0
+Republic of Moldova,East Europe and CIS,0.25,0.22,0.43,0.34,0,0.39,0
+Romania,Europe,0.21,0.16,0.32,0.24,0.59,0.27,0
+Russian Federation,East Europe and CIS,0.33,0.15,0.53,0.45,0.55,0.43,0
+Rwanda,Africa,0.35,0.3,1.07,0,0,0,0.04
+Saint Kitts and Nevis,Central America,0,0,0,0,0.43,0,0
+Saint Lucia,Central America,0,0,0,0,0.24,0,0.31
+Saint Pierre and Miquelon,North America,0.2,0.08,0.25,0.25,0,0.22,0
+Saint Vincent and the Grenadines,North America,0,0.03,0,0,0.42,0,0.1
+Samoa,Small Island Nations,0.07,0.27,0,0,0.4,0,0.05
+Sao Tome and Principe,Africa,0,1.2,0,0,0,0,0.14
+Saudi Arabia,Asia,0.15,0.13,0,0,0.17,0.12,0
+Senegal,Africa,0,0.48,0,0,0.53,0,0.09
+Serbia,Europe,0.17,0.12,0.3,0.2,0,0.21,0
+Seychelles,Africa,0.42,0.49,0.45,0.02,0.42,0.16,0.05
+Sierra Leone,Africa,0,0.33,0,0,0.78,0,0.06
+Singapore,Asia,0.17,0.63,0.3,0.06,0.43,0.22,0.12
+Slovakia,Europe,0.16,0.14,0.53,0.21,0.32,0.23,0
+Slovenia,Europe,0.17,0.13,0.43,0.23,0.22,0.21,0
+Solomon Islands,Small Island Nations,0,0,0,0,0.45,0,0.04
+Somalia,Africa,1.73,0.57,0,0,0,0,0.07
+South Africa,Africa,0.19,0.18,0.47,0.37,0,0.25,0
+South Sudan,Africa,0,1.3,0,0,0.56,0,0.44
+Spain,Europe,0.2,0.06,0.26,0.22,0.41,0.23,0
+Sri Lanka,Asia,0,0.22,0.42,0,0,0,0.05
+Sudan,Africa,0.35,0.43,0,0,0.57,0,0
+Suriname,South America,0,0.3,0.72,0,0.47,0,0.02
+Swaziland,Africa,0.35,0.5,0,0,0.47,0,0
+Sweden,Europe,0.13,0,0,0.21,0,0.17,0
+Switzerland,Europe,0.14,0.09,0.29,0.17,0,0.14,0
+Syrian Arab Republic,Asia,0.3,0.19,0.29,0,0.34,1.15,0
+Tajikistan,East Europe and CIS,0.23,0.06,2.16,0.47,0.06,0.49,0
+Thailand,Asia,0.55,0.16,0.12,0,0.43,0.21,0.03
+The former Yugoslav Republic of Macedonia,Europe,0.23,0.17,0.29,0.28,0.48,0.28,0
+Timor-Leste,Asia,0,0.29,0.47,0,0,0,0.17
+Togo,Africa,0,0.83,1.44,0,1.71,0,0.19
+Tokelau,Small Island Nations,0.07,0.27,0,0,0.4,0,0
+Tonga,Small Island Nations,0.07,0.27,0,0,0.4,0,0.05
+Trinidad and Tobago,North America,0,0.28,0,0,0.12,0,0.03
+Tunisia,Africa,0.37,0,0,1.52,0.57,0.66,0
+Turkey,Asia,0.24,0.08,0.17,0.17,0.5,0.29,0
+Turkmenistan,East Europe and CIS,0.35,0.62,0,0,0,0.44,0
+Tuvalu,Small Island Nations,0.07,0.27,0,0,0.4,0,0
+Uganda,Africa,0.48,0.28,1.44,0,0,0,0.19
+Ukraine,East Europe and CIS,0.2,0.11,0.35,0.24,0.56,0.35,0
+United Arab Emirates,Asia,0.09,0.02,0,0,0,0.11,0
+United Kingdom,Europe,0.1,0,0,0.19,0.17,0.14,0
+United Republic of Tanzania,Africa,0.71,0.53,0.65,0,0.51,0.5,0.12
+United States of America,North America,0.23,0.07,0.24,0.29,0,0.22,0
+United States Virgin Islands,North America,0,0.33,0,0,0.19,0,0
+Uruguay,South America,0.22,0.13,0.27,0.26,0,0.41,0
+Uzbekistan,East Europe and CIS,0.15,0.06,0,0.68,0.16,0.55,0
+Vanuatu,Small Island Nations,0,1.09,0,0,0,0,0
+Venezuela (Bolivarian Republic of),South America,0.24,0.19,0.64,0,0,0,0.05
+Viet Nam,Asia,0,0.16,0.5,0,0.59,0,0.04
+Wallis and Futuna Islands,Small Island Nations,0.07,0.27,0,0,0.4,0,0.05
+Western Sahara,Africa,0,0,0,0,0,1.53,0
+Yemen,Asia,0.41,0.46,0,0,0.37,1.07,0
+Zambia,Africa,0.11,0.27,0.34,0,0.97,0.83,0.11
+Zimbabwe,Africa,0.28,0.78,0.53,0,0.58,0.11,0.15

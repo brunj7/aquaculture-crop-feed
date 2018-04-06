@@ -1,0 +1,9 @@
+Scenario,ha_total,ha_total_sd,id
+Current,3379850795,,Graze
+Current,259847679.1,,Crop
+BAU,4772075112,,Graze
+BAU,442606248.6,73748718.9,Crop
+Mixed,4025002722,,Graze
+Mixed,366691995.9,60204980.68,Crop
+Marine,4043107379,,Graze
+Marine,372736254.8,60441937.51,Crop

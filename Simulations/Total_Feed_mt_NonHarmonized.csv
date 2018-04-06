@@ -1,0 +1,1956 @@
+Country,Country.Region,ID,animals,Taxon,Current_onfeed,mean_wheat,mean_corn,mean_soy,mean_rs,mean_pulses,mean_barley,mean_cv
+Albania,Europe,Europe_beef,beef,Meat,35020,0,128149,0,23842,44703,0,0
+Australia,Australia,Australia_beef,beef,Meat,1604454,0,5871179,0,1092312,2048086,0,0
+Austria,Europe,Europe_beef,beef,Meat,194568,0,711981,0,132462,248365,0,0
+Belgium,Europe,Europe_beef,beef,Meat,212477,0,777517,0,144654,271227,0,0
+Bermuda,USA,USA_beef,beef,Meat,25,0,90,0,17,31,0,0
+Bosnia and Herzegovina,Europe,Europe_beef,beef,Meat,13953,0,51057,0,9499,17811,0,0
+Bulgaria,Europe,Europe_beef,beef,Meat,16241,0,59431,0,11057,20732,0,0
+Canada,Canada,Canada_beef,beef,Meat,865822,0,3168301,0,589451,1105221,0,0
+Croatia,Europe,Europe_beef,beef,Meat,24183,0,88491,0,16463,30869,0,0
+Czechia,Europe,Europe_beef,beef,Meat,55524,0,203178,0,37801,70876,0,0
+Denmark,Europe,Europe_beef,beef,Meat,108800,0,398132,0,74071,138883,0,0
+Estonia,Europe,Europe_beef,beef,Meat,9759,0,35711,0,6644,12457,0,0
+Faroe Islands,Europe,Europe_beef,beef,Meat,66,0,243,0,45,85,0,0
+Finland,Europe,Europe_beef,beef,Meat,69012,0,252534,0,46983,88093,0,0
+France,Europe,Europe_beef,beef,Meat,1190340,0,4355811,0,810383,1519469,0,0
+Germany,Europe,Europe_beef,beef,Meat,940436,0,3441337,0,640249,1200466,0,0
+Greece,Europe,Europe_beef,beef,Meat,65025,0,237946,0,44269,83004,0,0
+Greenland,Europe,Europe_beef,beef,Meat,0,0,0,0,0,0,0,0
+Hungary,Europe,Europe_beef,beef,Meat,19938,0,72961,0,13574,25451,0,0
+Iceland,Europe,Europe_beef,beef,Meat,3470,0,12697,0,2362,4429,0,0
+Ireland,Europe,Europe_beef,beef,Meat,439943,0,1609883,0,299513,561587,0,0
+Italy,Europe,Europe_beef,beef,Meat,715804,0,2619340,0,487319,913723,0,0
+Latvia,Europe,Europe_beef,beef,Meat,14185,0,51906,0,9657,18107,0,0
+Lithuania,Europe,Europe_beef,beef,Meat,32053,0,117290,0,21821,40915,0,0
+Luxembourg,Europe,Europe_beef,beef,Meat,6851,0,25070,0,4664,8745,0,0
+Malta,Europe,Europe_beef,beef,Meat,964,0,3527,0,656,1230,0,0
+Montenegro,Europe,Europe_beef,beef,Meat,3910,0,14308,0,2662,4991,0,0
+Netherlands,Europe,Europe_beef,beef,Meat,317696,0,1162545,0,216287,405539,0,0
+New Caledonia,Island nation,Other_beef,beef,Meat,2273,0,8317,0,1547,2901,0,0
+New Zealand,New Zealand,New Zealand_beef,beef,Meat,388987,0,1423419,0,264822,496542,0,0
+Norway,Europe,Europe_beef,beef,Meat,71142,0,260328,0,48433,90812,0,0
+Poland,Europe,Europe_beef,beef,Meat,328100,0,1200616,0,223370,418820,0,0
+Portugal,Europe,Europe_beef,beef,Meat,78710,0,288024,0,53586,100473,0,0
+Romania,Europe,Europe_beef,beef,Meat,81752,0,299156,0,55657,104357,0,0
+Saint Pierre and Miquelon,Canada,Canada_beef,beef,Meat,0,0,0,0,0,0,0,0
+Serbia,Europe,Europe_beef,beef,Meat,59500,0,217728,0,40508,75952,0,0
+Slovakia,Europe,Europe_beef,beef,Meat,10625,0,38880,0,7234,13563,0,0
+Slovenia,Europe,Europe_beef,beef,Meat,27288,0,99856,0,18578,34834,0,0
+Spain,Europe,Europe_beef,beef,Meat,493714,0,1806648,0,336120,630226,0,0
+Sweden,Europe,Europe_beef,beef,Meat,103420,0,378443,0,70408,132015,0,0
+Switzerland,Europe,Europe_beef,beef,Meat,121494,0,444583,0,82713,155087,0,0
+The former Yugoslav Republic of Macedonia,Europe,Europe_beef,beef,Meat,4662,0,17061,0,3174,5951,0,0
+United Kingdom,Europe,Europe_beef,beef,Meat,719950,0,2634513,0,490142,919016,0,0
+United States of America,USA,USA_beef,beef,Meat,9592753,0,35102760,0,6530746,12245149,0,0
+Albania,Europe,Europe_goat,goat,Meat,6630,5947,5032,9607,0,8692,7777,0
+Australia,Australia,Australia_goat,goat,Meat,17825,15989,13529,25829,0,23369,20909,0
+Austria,Europe,Europe_goat,goat,Meat,604,541,458,874,0,791,708,0
+Belgium,Europe,Europe_goat,goat,Meat,94,85,72,137,0,124,111,0
+Bermuda,USA,USA_goat,goat,Meat,2,1,1,2,0,2,2,0
+Bosnia and Herzegovina,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+Bulgaria,Europe,Europe_goat,goat,Meat,1885,1691,1431,2732,0,2472,2211,0
+Canada,Canada,Canada_goat,goat,Meat,0,0,0,0,0,0,0,0
+Croatia,Europe,Europe_goat,goat,Meat,260,233,197,377,0,341,305,0
+Czechia,Europe,Europe_goat,goat,Meat,207,186,157,301,0,272,243,0
+Denmark,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+Estonia,Europe,Europe_goat,goat,Meat,13,11,10,18,0,17,15,0
+Faroe Islands,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+Finland,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+France,Europe,Europe_goat,goat,Meat,10480,9400,7954,15185,0,13739,12293,0
+Germany,Europe,Europe_goat,goat,Meat,410,368,311,594,0,537,481,0
+Greece,Europe,Europe_goat,goat,Meat,31490,28246,23901,45629,0,41283,36938,0
+Greenland,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+Hungary,Europe,Europe_goat,goat,Meat,139,125,106,202,0,183,164,0
+Iceland,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+Ireland,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+Italy,Europe,Europe_goat,goat,Meat,1115,1000,846,1616,0,1462,1308,0
+Latvia,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+Lithuania,Europe,Europe_goat,goat,Meat,167,149,126,241,0,218,195,0
+Luxembourg,Europe,Europe_goat,goat,Meat,3,2,2,4,0,3,3,0
+Malta,Europe,Europe_goat,goat,Meat,27,24,21,39,0,36,32,0
+Montenegro,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+Netherlands,Europe,Europe_goat,goat,Meat,1388,1245,1054,2011,0,1820,1628,0
+New Caledonia,Island nation,Other_goat,goat,Meat,15,14,12,22,0,20,18,0
+New Zealand,New Zealand,New Zealand_goat,goat,Meat,796,714,604,1153,0,1043,933,0
+Norway,Europe,Europe_goat,goat,Meat,279,250,212,404,0,366,327,0
+Poland,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+Portugal,Europe,Europe_goat,goat,Meat,673,604,511,975,0,883,790,0
+Romania,Europe,Europe_goat,goat,Meat,7217,6474,5478,10458,0,9462,8466,0
+Saint Pierre and Miquelon,Canada,Canada_goat,goat,Meat,0,0,0,0,0,0,0,0
+Serbia,Europe,Europe_goat,goat,Meat,3651,3275,2771,5290,0,4786,4282,0
+Slovakia,Europe,Europe_goat,goat,Meat,221,198,168,320,0,290,259,0
+Slovenia,Europe,Europe_goat,goat,Meat,250,224,190,362,0,328,293,0
+Spain,Europe,Europe_goat,goat,Meat,7599,6816,5768,11011,0,9962,8914,0
+Sweden,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+Switzerland,Europe,Europe_goat,goat,Meat,431,387,327,624,0,565,506,0
+The former Yugoslav Republic of Macedonia,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+United Kingdom,Europe,Europe_goat,goat,Meat,0,0,0,0,0,0,0,0
+United States of America,USA,USA_goat,goat,Meat,0,0,0,0,0,0,0,0
+Albania,Europe,Europe_sheep,sheep,Meat,13430,19851,16797,32067,0,29013,25959,0
+Australia,Australia,Australia_sheep,sheep,Meat,457182,675761,571798,1091614,0,987650,883687,0
+Austria,Europe,Europe_sheep,sheep,Meat,6144,9081,7684,14670,0,13272,11875,0
+Belgium,Europe,Europe_sheep,sheep,Meat,1951,2883,2440,4658,0,4214,3771,0
+Bermuda,USA,USA_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Bosnia and Herzegovina,Europe,Europe_sheep,sheep,Meat,1248,1844,1561,2979,0,2696,2412,0
+Bulgaria,Europe,Europe_sheep,sheep,Meat,9009,13316,11268,21511,0,19462,17414,0
+Canada,Canada,Canada_sheep,sheep,Meat,13830,20442,17297,33022,0,29877,26732,0
+Croatia,Europe,Europe_sheep,sheep,Meat,1761,2603,2203,4205,0,3805,3404,0
+Czechia,Europe,Europe_sheep,sheep,Meat,2632,3890,3291,6283,0,5685,5087,0
+Denmark,Europe,Europe_sheep,sheep,Meat,1305,1929,1632,3115,0,2819,2522,0
+Estonia,Europe,Europe_sheep,sheep,Meat,592,874,740,1413,0,1278,1144,0
+Faroe Islands,Europe,Europe_sheep,sheep,Meat,449,663,561,1072,0,970,867,0
+Finland,Europe,Europe_sheep,sheep,Meat,833,1231,1042,1989,0,1800,1610,0
+France,Europe,Europe_sheep,sheep,Meat,94296,139378,117936,225150,0,203707,182264,0
+Germany,Europe,Europe_sheep,sheep,Meat,29526,43643,36929,70500,0,63786,57072,0
+Greece,Europe,Europe_sheep,sheep,Meat,65450,96742,81858,156275,0,141392,126508,0
+Greenland,Europe,Europe_sheep,sheep,Meat,289,427,361,690,0,624,559,0
+Hungary,Europe,Europe_sheep,sheep,Meat,729,1078,912,1741,0,1576,1410,0
+Iceland,Europe,Europe_sheep,sheep,Meat,8407,12427,10515,20074,0,18162,16251,0
+Ireland,Europe,Europe_sheep,sheep,Meat,48850,72204,61096,116638,0,105530,94421,0
+Italy,Europe,Europe_sheep,sheep,Meat,29031,42911,36309,69317,0,62715,56114,0
+Latvia,Europe,Europe_sheep,sheep,Meat,574,848,718,1370,0,1239,1109,0
+Lithuania,Europe,Europe_sheep,sheep,Meat,399,589,499,952,0,861,771,0
+Luxembourg,Europe,Europe_sheep,sheep,Meat,43,63,53,101,0,92,82,0
+Malta,Europe,Europe_sheep,sheep,Meat,89,132,112,213,0,193,173,0
+Montenegro,Europe,Europe_sheep,sheep,Meat,879,1299,1099,2099,0,1899,1699,0
+Netherlands,Europe,Europe_sheep,sheep,Meat,10298,15221,12879,24588,0,22246,19905,0
+New Caledonia,Island nation,Other_sheep,sheep,Meat,9,13,11,21,0,19,17,0
+New Zealand,New Zealand,New Zealand_sheep,sheep,Meat,310552,459027,388407,741504,0,670885,600265,0
+Norway,Europe,Europe_sheep,sheep,Meat,19910,29430,24902,47540,0,43012,38485,0
+Poland,Europe,Europe_sheep,sheep,Meat,765,1131,957,1827,0,1653,1479,0
+Portugal,Europe,Europe_sheep,sheep,Meat,8456,12499,10576,20190,0,18267,16344,0
+Romania,Europe,Europe_sheep,sheep,Meat,57892,85570,72405,138228,0,125064,111899,0
+Saint Pierre and Miquelon,Canada,Canada_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Serbia,Europe,Europe_sheep,sheep,Meat,25389,37527,31754,60620,0,54847,49074,0
+Slovakia,Europe,Europe_sheep,sheep,Meat,860,1271,1076,2054,0,1858,1663,0
+Slovenia,Europe,Europe_sheep,sheep,Meat,1114,1646,1393,2659,0,2405,2152,0
+Spain,Europe,Europe_sheep,sheep,Meat,100522,148581,125723,240016,0,217157,194299,0
+Sweden,Europe,Europe_sheep,sheep,Meat,4157,6144,5199,9924,0,8979,8034,0
+Switzerland,Europe,Europe_sheep,sheep,Meat,4074,6022,5095,9728,0,8801,7875,0
+The former Yugoslav Republic of Macedonia,Europe,Europe_sheep,sheep,Meat,4016,5936,5023,9590,0,8676,7763,0
+United Kingdom,Europe,Europe_sheep,sheep,Meat,245650,363095,307234,586539,0,530678,474817,0
+United States of America,USA,USA_sheep,sheep,Meat,59921,88569,74943,143073,0,129447,115821,0
+Albania,Europe,Europe_chicken,chicken,Meat,20952,4167,7872,24541,0,0,0,0
+Australia,Australia,Australia_chicken,chicken,Meat,1059532,210741,398066,1241030,0,0,0,0
+Austria,Europe,Europe_chicken,chicken,Meat,109500,21780,41139,128257,0,0,0,0
+Belgium,Europe,Europe_chicken,chicken,Meat,379933,75569,142741,445016,0,0,0,0
+Bermuda,USA,USA_chicken,chicken,Meat,120,24,45,141,0,0,0,0
+Bosnia and Herzegovina,Europe,Europe_chicken,chicken,Meat,41549,8264,15610,48666,0,0,0,0
+Bulgaria,Europe,Europe_chicken,chicken,Meat,76768,15269,28842,89918,0,0,0,0
+Canada,Canada,Canada_chicken,chicken,Meat,1076753,214166,404536,1261201,0,0,0,0
+Croatia,Europe,Europe_chicken,chicken,Meat,24800,4933,9317,29048,0,0,0,0
+Czechia,Europe,Europe_chicken,chicken,Meat,146308,29101,54968,171371,0,0,0,0
+Denmark,Europe,Europe_chicken,chicken,Meat,168268,33469,63218,197092,0,0,0,0
+Estonia,Europe,Europe_chicken,chicken,Meat,18118,3604,6807,21222,0,0,0,0
+Faroe Islands,Europe,Europe_chicken,chicken,Meat,0,0,0,0,0,0,0,0
+Finland,Europe,Europe_chicken,chicken,Meat,103730,20632,38971,121499,0,0,0,0
+France,Europe,Europe_chicken,chicken,Meat,1120318,222831,420903,1312228,0,0,0,0
+Germany,Europe,Europe_chicken,chicken,Meat,950939,189142,357268,1113835,0,0,0,0
+Greece,Europe,Europe_chicken,chicken,Meat,126300,25121,47451,147935,0,0,0,0
+Greenland,Europe,Europe_chicken,chicken,Meat,0,0,0,0,0,0,0,0
+Hungary,Europe,Europe_chicken,chicken,Meat,244240,48579,91761,286078,0,0,0,0
+Iceland,Europe,Europe_chicken,chicken,Meat,7879,1567,2960,9229,0,0,0,0
+Ireland,Europe,Europe_chicken,chicken,Meat,89000,17702,33437,104246,0,0,0,0
+Italy,Europe,Europe_chicken,chicken,Meat,904914,179987,339976,1059926,0,0,0,0
+Latvia,Europe,Europe_chicken,chicken,Meat,26830,5336,10080,31426,0,0,0,0
+Lithuania,Europe,Europe_chicken,chicken,Meat,87489,17402,32870,102476,0,0,0,0
+Luxembourg,Europe,Europe_chicken,chicken,Meat,244,49,92,286,0,0,0,0
+Malta,Europe,Europe_chicken,chicken,Meat,4115,818,1546,4820,0,0,0,0
+Montenegro,Europe,Europe_chicken,chicken,Meat,3350,666,1259,3924,0,0,0,0
+Netherlands,Europe,Europe_chicken,chicken,Meat,920794,183146,345942,1078526,0,0,0,0
+New Caledonia,Island nation,Other_chicken,chicken,Meat,832,165,313,975,0,0,0,0
+New Zealand,New Zealand,New Zealand_chicken,chicken,Meat,169078,33630,63523,198041,0,0,0,0
+Norway,Europe,Europe_chicken,chicken,Meat,104030,20692,39084,121850,0,0,0,0
+Poland,Europe,Europe_chicken,chicken,Meat,1517300,301791,570050,1777213,0,0,0,0
+Portugal,Europe,Europe_chicken,chicken,Meat,298253,59323,112054,349344,0,0,0,0
+Romania,Europe,Europe_chicken,chicken,Meat,322893,64223,121311,378205,0,0,0,0
+Saint Pierre and Miquelon,Canada,Canada_chicken,chicken,Meat,4,1,2,5,0,0,0,0
+Serbia,Europe,Europe_chicken,chicken,Meat,95250,18945,35785,111566,0,0,0,0
+Slovakia,Europe,Europe_chicken,chicken,Meat,65000,12929,24421,76135,0,0,0,0
+Slovenia,Europe,Europe_chicken,chicken,Meat,52611,10464,19766,61623,0,0,0,0
+Spain,Europe,Europe_chicken,chicken,Meat,1171695,233050,440206,1372406,0,0,0,0
+Sweden,Europe,Europe_chicken,chicken,Meat,117400,23351,44107,137511,0,0,0,0
+Switzerland,Europe,Europe_chicken,chicken,Meat,78298,15573,29417,91710,0,0,0,0
+The former Yugoslav Republic of Macedonia,Europe,Europe_chicken,chicken,Meat,1801,358,677,2110,0,0,0,0
+United Kingdom,Europe,Europe_chicken,chicken,Meat,1443000,287013,542135,1690186,0,0,0,0
+United States of America,USA,USA_chicken,chicken,Meat,17396881,3460240,6536008,20376967,0,0,0,0
+Albania,Europe,Europe_pig,pig,Meat,13000,10202,5526,16579,2551,2551,3826,425
+Australia,Australia,Australia_pig,pig,Meat,360866,283208,153404,460212,70802,70802,106203,11800
+Austria,Europe,Europe_pig,pig,Meat,529284,415382,224999,674996,103846,103846,155768,17308
+Belgium,Europe,Europe_pig,pig,Meat,1130572,887273,480606,1441818,221818,221818,332727,36970
+Bermuda,USA,USA_pig,pig,Meat,72,57,31,92,14,14,21,2
+Bosnia and Herzegovina,Europe,Europe_pig,pig,Meat,13013,10213,5532,16595,2553,2553,3830,426
+Bulgaria,Europe,Europe_pig,pig,Meat,72905,57216,30992,92976,14304,14304,21456,2384
+Canada,Canada,Canada_pig,pig,Meat,1977119,1551643,840473,2521420,387911,387911,581866,64652
+Croatia,Europe,Europe_pig,pig,Meat,106500,83581,45273,135819,20895,20895,31343,3483
+Czechia,Europe,Europe_pig,pig,Meat,242833,190575,103228,309685,47644,47644,71466,7941
+Denmark,Europe,Europe_pig,pig,Meat,1589400,1247361,675654,2026962,311840,311840,467760,51973
+Estonia,Europe,Europe_pig,pig,Meat,49488,38838,21037,63112,9710,9710,14564,1618
+Faroe Islands,Europe,Europe_pig,pig,Meat,0,0,0,0,0,0,0,0
+Finland,Europe,Europe_pig,pig,Meat,194600,152722,82724,248173,38181,38181,57271,6363
+France,Europe,Europe_pig,pig,Meat,2120947,1664519,901615,2704844,416130,416130,624195,69355
+Germany,Europe,Europe_pig,pig,Meat,5494164,4311820,2335569,7006707,1077955,1077955,1616932,179659
+Greece,Europe,Europe_pig,pig,Meat,99750,78284,42404,127211,19571,19571,29356,3262
+Greenland,Europe,Europe_pig,pig,Meat,0,0,0,0,0,0,0,0
+Hungary,Europe,Europe_pig,pig,Meat,368153,288926,156502,469506,72232,72232,108347,12039
+Iceland,Europe,Europe_pig,pig,Meat,6404,5026,2722,8167,1256,1256,1885,209
+Ireland,Europe,Europe_pig,pig,Meat,239310,187810,101731,305192,46953,46953,70429,7825
+Italy,Europe,Europe_pig,pig,Meat,1625480,1275677,690992,2072975,318919,318919,478379,53153
+Latvia,Europe,Europe_pig,pig,Meat,35924,28193,15271,45814,7048,7048,10572,1175
+Lithuania,Europe,Europe_pig,pig,Meat,86965,68250,36969,110906,17063,17063,25594,2844
+Luxembourg,Europe,Europe_pig,pig,Meat,11121,8728,4728,14183,2182,2182,3273,364
+Malta,Europe,Europe_pig,pig,Meat,5920,4646,2517,7550,1162,1162,1742,194
+Montenegro,Europe,Europe_pig,pig,Meat,4000,3139,1700,5101,785,785,1177,131
+Netherlands,Europe,Europe_pig,pig,Meat,1282330,1006373,545118,1635355,251593,251593,377390,41932
+New Caledonia,Island nation,Other_pig,pig,Meat,2670,2095,1135,3405,524,524,786,87
+New Zealand,New Zealand,New Zealand_pig,pig,Meat,39455,30964,16772,50317,7741,7741,11612,1290
+Norway,Europe,Europe_pig,pig,Meat,127516,100075,54207,162621,25019,25019,37528,4170
+Poland,Europe,Europe_pig,pig,Meat,1744900,1369398,741757,2225271,342349,342349,513524,57058
+Portugal,Europe,Europe_pig,pig,Meat,345673,271284,146946,440837,67821,67821,101732,11304
+Romania,Europe,Europe_pig,pig,Meat,396070,310836,168369,505108,77709,77709,116563,12951
+Saint Pierre and Miquelon,Canada,Canada_pig,pig,Meat,2,2,1,3,0,0,1,0
+Serbia,Europe,Europe_pig,pig,Meat,249487,195797,106057,318171,48949,48949,73424,8158
+Slovakia,Europe,Europe_pig,pig,Meat,64866,50907,27575,82724,12727,12727,19090,2121
+Slovenia,Europe,Europe_pig,pig,Meat,29569,23206,12570,37709,5801,5801,8702,967
+Spain,Europe,Europe_pig,pig,Meat,3431214,2692817,1458609,4375827,673204,673204,1009806,112201
+Sweden,Europe,Europe_pig,pig,Meat,234100,183722,99516,298548,45930,45930,68896,7655
+Switzerland,Europe,Europe_pig,pig,Meat,235460,184789,100094,300282,46197,46197,69296,7700
+The former Yugoslav Republic of Macedonia,Europe,Europe_pig,pig,Meat,8845,6942,3760,11280,1735,1735,2603,289
+United Kingdom,Europe,Europe_pig,pig,Meat,833000,653738,354108,1062325,163435,163435,245152,27239
+United States of America,USA,USA_pig,pig,Meat,10509740,8248044,4467690,13403071,2062011,2062011,3093016,343668
+Albania,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,67842,17503,93350,175031,163362,58344,40841,0
+Australia,Australia,Australia_dairy cow,dairy cow,Dairy & eggs,269546,69543,370895,695429,649067,231810,162267,0
+Austria,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,102971,26567,141688,265665,247954,88555,61989,0
+Belgium,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,90238,23281,124168,232814,217293,77605,54323,0
+Bermuda,USA,USA_dairy cow,dairy cow,Dairy & eggs,76,20,104,195,182,65,46,0
+Bosnia and Herzegovina,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,49194,12692,67691,126921,118459,42307,29615,0
+Bulgaria,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,56606,14604,77890,146043,136307,48681,34077,0
+Canada,Canada,Canada_dairy cow,dairy cow,Dairy & eggs,181650,46866,249950,468656,437412,156219,109353,0
+Croatia,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,32542,8396,44778,83959,78362,27986,19591,0
+Czech Republic,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,73073,18853,100549,188528,175960,62843,43990,0
+Denmark,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,114161,29454,157086,294536,274900,98179,68725,0
+Estonia,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,19153,4941,26354,49415,46120,16472,11530,0
+Finland,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,55502,14319,76370,143194,133648,47731,33412,0
+France,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,724801,186999,997326,1869986,1745321,623329,436330,0
+Germany,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,836617,215847,1151185,2158472,2014574,719491,503644,0
+Greece,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,41521,10712,57133,107124,99983,35708,24996,0
+Hungary,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,50186,12948,69056,129480,120848,43160,30212,0
+Iceland,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,4474,1154,6156,11542,10773,3847,2693,0
+Ireland,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,228032,58832,313772,588323,549102,196108,137275,0
+Italy,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,393842,101611,541927,1016112,948371,338704,237093,0
+Latvia,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,32346,8345,44509,83454,77890,27818,19473,0
+Liechtenstein,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,463,120,637,1195,1116,398,279,0
+Lithuania,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,61889,15967,85160,159675,149030,53225,37257,0
+Luxembourg,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,8304,2143,11427,21425,19997,7142,4999,0
+Malta,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,1261,325,1735,3252,3035,1084,759,0
+Montenegro,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,11958,3085,16454,30852,28795,10284,7199,0
+Netherlands,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,313074,80773,430790,807731,753882,269244,188471,0
+New Caledonia,Island nation,Other_dairy cow,dairy cow,Dairy & eggs,84,22,116,218,203,73,51,0
+New Zealand,New Zealand,New Zealand_dairy cow,dairy cow,Dairy & eggs,761353,196429,1047622,1964291,1833338,654764,458335,0
+Norway,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,44707,11535,61517,115345,107656,38448,26914,0
+Poland,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,462769,119394,636770,1193943,1114347,397981,278587,0
+Portugal,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,48304,12462,66466,124624,116316,41541,29079,0
+Romania,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,227934,58807,313638,588070,548866,196023,137216,0
+Serbia,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,87614,22605,120557,226045,210976,75348,52744,0
+Slovakia,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,29365,7576,40406,75761,70710,25254,17677,0
+Slovenia,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,21765,5615,29948,56153,52409,18718,13102,0
+Spain,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,167966,43335,231121,433352,404462,144451,101116,0
+Sweden,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,67441,17400,92799,173999,162399,58000,40600,0
+Switzerland,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,115629,29832,159105,298323,278435,99441,69609,0
+The former Yugoslav Republic of Macedonia,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,24802,6399,34128,63990,59724,21330,14931,0
+United Kingdom,Europe,Europe_dairy cow,dairy cow,Dairy & eggs,352282,90889,484740,908887,848294,302962,212074,0
+United States of America,USA,USA_dairy cow,dairy cow,Dairy & eggs,1743287,449768,2398763,4497681,4197836,1499227,1049459,0
+Albania,Europe,Europe_hen,hen,Dairy & eggs,62972,33381,31624,72033,0,0,1757,0
+Australia,Australia,Australia_hen,hen,Dairy & eggs,199766,105896,100322,228512,0,0,5573,0
+Austria,Europe,Europe_hen,hen,Dairy & eggs,88007,46653,44197,100672,0,0,2455,0
+Belgium,Europe,Europe_hen,hen,Dairy & eggs,123743,65596,62144,141550,0,0,3452,0
+Bermuda,USA,USA_hen,hen,Dairy & eggs,410,217,206,469,0,0,11,0
+Bosnia and Herzegovina,Europe,Europe_hen,hen,Dairy & eggs,51629,27369,25928,59059,0,0,1440,0
+Bulgaria,Europe,Europe_hen,hen,Dairy & eggs,73248,38829,36785,83789,0,0,2044,0
+Canada,Canada,Canada_hen,hen,Dairy & eggs,372897,197673,187269,426557,0,0,10404,0
+Croatia,Europe,Europe_hen,hen,Dairy & eggs,54663,28977,27452,62529,0,0,1525,0
+Czech Republic,Europe,Europe_hen,hen,Dairy & eggs,119603,63401,60064,136813,0,0,3337,0
+Denmark,Europe,Europe_hen,hen,Dairy & eggs,63491,33657,31885,72627,0,0,1771,0
+Estonia,Europe,Europe_hen,hen,Dairy & eggs,8719,4622,4379,9973,0,0,243,0
+Finland,Europe,Europe_hen,hen,Dairy & eggs,46901,24862,23554,53650,0,0,1309,0
+France,Europe,Europe_hen,hen,Dairy & eggs,802097,425192,402813,917519,0,0,22379,0
+Germany,Europe,Europe_hen,hen,Dairy & eggs,594050,314906,298332,679534,0,0,16574,0
+Greece,Europe,Europe_hen,hen,Dairy & eggs,155790,82584,78237,178208,0,0,4347,0
+Hungary,Europe,Europe_hen,hen,Dairy & eggs,165000,87467,82863,188744,0,0,4604,0
+Iceland,Europe,Europe_hen,hen,Dairy & eggs,2733,1449,1373,3126,0,0,76,0
+Ireland,Europe,Europe_hen,hen,Dairy & eggs,54663,28977,27452,62529,0,0,1525,0
+Italy,Europe,Europe_hen,hen,Dairy & eggs,970268,514339,487269,1109889,0,0,27070,0
+Latvia,Europe,Europe_hen,hen,Dairy & eggs,31486,16691,15812,36017,0,0,878,0
+Lithuania,Europe,Europe_hen,hen,Dairy & eggs,46300,24543,23252,52962,0,0,1292,0
+Luxembourg,Europe,Europe_hen,hen,Dairy & eggs,1326,703,666,1516,0,0,37,0
+Malta,Europe,Europe_hen,hen,Dairy & eggs,3826,2028,1922,4377,0,0,107,0
+Montenegro,Europe,Europe_hen,hen,Dairy & eggs,7516,3984,3775,8598,0,0,210,0
+Netherlands,Europe,Europe_hen,hen,Dairy & eggs,612444,324657,307569,700575,0,0,17087,0
+New Caledonia,Island nation,Other_hen,hen,Dairy & eggs,2351,1246,1180,2689,0,0,66,0
+New Zealand,New Zealand,New Zealand_hen,hen,Dairy & eggs,45097,23906,22648,51586,0,0,1258,0
+Norway,Europe,Europe_hen,hen,Dairy & eggs,57246,30346,28749,65483,0,0,1597,0
+Poland,Europe,Europe_hen,hen,Dairy & eggs,681825,361435,342413,779940,0,0,19023,0
+Portugal,Europe,Europe_hen,hen,Dairy & eggs,85411,45276,42893,97702,0,0,2383,0
+Romania,Europe,Europe_hen,hen,Dairy & eggs,613182,325048,307940,701419,0,0,17108,0
+Saint Pierre and Miquelon,Canada,Canada_hen,hen,Dairy & eggs,82,43,41,94,0,0,2,0
+Serbia,Europe,Europe_hen,hen,Dairy & eggs,132517,70247,66550,151586,0,0,3697,0
+Slovakia,Europe,Europe_hen,hen,Dairy & eggs,86094,45639,43237,98483,0,0,2402,0
+Slovenia,Europe,Europe_hen,hen,Dairy & eggs,15647,8295,7858,17899,0,0,437,0
+Spain,Europe,Europe_hen,hen,Dairy & eggs,610422,323584,306554,698261,0,0,17031,0
+Sweden,Europe,Europe_hen,hen,Dairy & eggs,94977,50347,47697,108644,0,0,2650,0
+Switzerland,Europe,Europe_hen,hen,Dairy & eggs,34178,18118,17164,39096,0,0,954,0
+The former Yugoslav Republic of Macedonia,Europe,Europe_hen,hen,Dairy & eggs,16959,8990,8517,19400,0,0,473,0
+United Kingdom,Europe,Europe_hen,hen,Dairy & eggs,629499,333697,316134,720084,0,0,17563,0
+United States of America,USA,USA_hen,hen,Dairy & eggs,4819033,2554570,2420119,5512492,0,0,134451,0
+Albania,Europe,Europe_marine fish,marine fish,Seafood,594,409,55,191,27,0,0,0
+Australia,Australia,Australia_marine fish,marine fish,Seafood,53310,36704,4894,17129,2447,0,0,0
+Bosnia and Herzegovina,Europe,Europe_marine fish,marine fish,Seafood,180,124,17,58,8,0,0,0
+Canada,Canada,Canada_marine fish,marine fish,Seafood,92577,63739,8499,29745,4249,0,0,0
+Croatia,Europe,Europe_marine fish,marine fish,Seafood,8595,5918,789,2762,395,0,0,0
+Denmark,Europe,Europe_marine fish,marine fish,Seafood,15835,10902,1454,5088,727,0,0,0
+Faroe Islands,Europe,Europe_marine fish,marine fish,Seafood,86454,59524,7936,27778,3968,0,0,0
+France,Europe,Europe_marine fish,marine fish,Seafood,5990,4124,550,1925,275,0,0,0
+Greece,Europe,Europe_marine fish,marine fish,Seafood,85889,59135,7885,27596,3942,0,0,0
+Iceland,Europe,Europe_marine fish,marine fish,Seafood,7686,5292,706,2470,353,0,0,0
+Ireland,Europe,Europe_marine fish,marine fish,Seafood,9368,6450,860,3010,430,0,0,0
+Italy,Europe,Europe_marine fish,marine fish,Seafood,13492,9289,1239,4335,619,0,0,0
+Malta,Europe,Europe_marine fish,marine fish,Seafood,4917,3385,451,1580,226,0,0,0
+Montenegro,Europe,Europe_marine fish,marine fish,Seafood,83,57,8,27,4,0,0,0
+Netherlands,Europe,Europe_marine fish,marine fish,Seafood,120,83,11,39,6,0,0,0
+New Caledonia,Island nation,Other_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+New Zealand,New Zealand,New Zealand_marine fish,marine fish,Seafood,9756,6866,1045,2985,448,0,0,0
+Norway,Europe,Europe_marine fish,marine fish,Seafood,1330406,915984,122131,427459,61066,0,0,0
+Portugal,Europe,Europe_marine fish,marine fish,Seafood,5736,3949,527,1843,263,0,0,0
+Romania,Europe,Europe_marine fish,marine fish,Seafood,16,11,1,5,1,0,0,0
+Slovenia,Europe,Europe_marine fish,marine fish,Seafood,66,45,6,21,3,0,0,0
+Spain,Europe,Europe_marine fish,marine fish,Seafood,44002,30296,4039,14138,2020,0,0,0
+Sweden,Europe,Europe_marine fish,marine fish,Seafood,2493,1716,229,801,114,0,0,0
+United Kingdom,Europe,Europe_marine fish,marine fish,Seafood,181620,125045,16673,58355,8336,0,0,0
+United States of America,USA,USA_marine fish,marine fish,Seafood,21219,14609,1948,6818,974,0,0,0
+Serbia and Montenegro,Europe,Europe_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Germany,Europe,Europe_marine fish,marine fish,Seafood,20,14,2,6,1,0,0,0
+Finland,Europe,Europe_marine fish,marine fish,Seafood,11503,7920,1056,3696,528,0,0,0
+Australia,Australia,Australia_marine crustacean,marine crustacean,Seafood,3774,1987,265,927,132,0,0,0
+France,Europe,Europe_marine crustacean,marine crustacean,Seafood,40,21,3,10,1,0,0,0
+Greece,Europe,Europe_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+Italy,Europe,Europe_marine crustacean,marine crustacean,Seafood,8,4,1,2,0,0,0,0
+New Caledonia,Island nation,Other_marine crustacean,marine crustacean,Seafood,1636,632,517,555,19,0,0,0
+Portugal,Europe,Europe_marine crustacean,marine crustacean,Seafood,5,3,0,1,0,0,0,0
+Spain,Europe,Europe_marine crustacean,marine crustacean,Seafood,159,84,11,39,6,0,0,0
+Turks and Caicos Islands,Caribbean,Caribbean_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+United States of America,USA,USA_marine crustacean,marine crustacean,Seafood,2209,1163,155,543,78,0,0,0
+Northern Mariana Is.,USA,USA_marine crustacean,marine crustacean,Seafood,23,12,2,6,1,0,0,0
+Albania,Europe,Europe_fw fish,fw fish,Seafood,330,181,24,85,12,89,0,0
+Australia,Australia,Australia_fw fish,fw fish,Seafood,846,464,62,217,31,227,0,0
+Austria,Europe,Europe_fw fish,fw fish,Seafood,3379,1855,247,866,124,907,0,0
+Belgium,Europe,Europe_fw fish,fw fish,Seafood,214,117,16,55,8,57,0,0
+Bosnia and Herzegovina,Europe,Europe_fw fish,fw fish,Seafood,3177,1744,233,814,116,853,0,0
+Bulgaria,Europe,Europe_fw fish,fw fish,Seafood,6983,3834,511,1789,256,1874,0,0
+Canada,Canada,Canada_fw fish,fw fish,Seafood,8682,4766,636,2224,318,2330,0,0
+Croatia,Europe,Europe_fw fish,fw fish,Seafood,3095,1699,227,793,113,831,0,0
+Czechia,Europe,Europe_fw fish,fw fish,Seafood,19693,10811,1442,5045,721,5286,0,0
+Denmark,Europe,Europe_fw fish,fw fish,Seafood,21654,11888,1585,5548,793,5812,0,0
+Estonia,Europe,Europe_fw fish,fw fish,Seafood,873,479,64,224,32,234,0,0
+Finland,Europe,Europe_fw fish,fw fish,Seafood,1962,1077,144,503,72,527,0,0
+France,Europe,Europe_fw fish,fw fish,Seafood,43500,23882,3184,11145,1592,11675,0,0
+Germany,Europe,Europe_fw fish,fw fish,Seafood,20652,11338,1512,5291,756,5543,0,0
+Greece,Europe,Europe_fw fish,fw fish,Seafood,1947,1069,142,499,71,522,0,0
+Hungary,Europe,Europe_fw fish,fw fish,Seafood,13830,7593,1012,3543,506,3712,0,0
+Iceland,Europe,Europe_fw fish,fw fish,Seafood,604,331,44,155,22,162,0,0
+Ireland,Europe,Europe_fw fish,fw fish,Seafood,886,486,65,227,32,238,0,0
+Italy,Europe,Europe_fw fish,fw fish,Seafood,34850,19132,2551,8928,1275,9354,0,0
+Latvia,Europe,Europe_fw fish,fw fish,Seafood,686,377,50,176,25,184,0,0
+Lithuania,Europe,Europe_fw fish,fw fish,Seafood,3739,2053,274,958,137,1003,0,0
+The former Yugoslav Republic of Macedonia,Europe,Europe_fw fish,fw fish,Seafood,1214,666,89,311,44,326,0,0
+Republic of Moldova,Europe,Europe_fw fish,fw fish,Seafood,3306,1815,242,847,121,887,0,0
+Montenegro,Europe,Europe_fw fish,fw fish,Seafood,597,328,44,153,22,160,0,0
+Netherlands,Europe,Europe_fw fish,fw fish,Seafood,5555,3050,407,1423,203,1491,0,0
+New Zealand,New Zealand,New Zealand_fw fish,fw fish,Seafood,1084,608,93,264,40,278,0,0
+Northern Mariana Is.,USA,USA_fw fish,fw fish,Seafood,19,10,1,5,1,5,0,0
+Norway,Europe,Europe_fw fish,fw fish,Seafood,76,41,6,19,3,20,0,0
+Poland,Europe,Europe_fw fish,fw fish,Seafood,39739,21817,2909,10181,1454,10666,0,0
+Portugal,Europe,Europe_fw fish,fw fish,Seafood,752,413,55,193,28,202,0,0
+Romania,Europe,Europe_fw fish,fw fish,Seafood,6456,3545,473,1654,236,1733,0,0
+Serbia,Europe,Europe_fw fish,fw fish,Seafood,6635,3643,486,1700,243,1781,0,0
+Serbia and Montenegro,Europe,Europe_fw fish,fw fish,Seafood,0,0,0,0,0,0,0,0
+Slovakia,Europe,Europe_fw fish,fw fish,Seafood,1224,672,90,314,45,329,0,0
+Slovenia,Europe,Europe_fw fish,fw fish,Seafood,901,494,66,231,33,242,0,0
+Spain,Europe,Europe_fw fish,fw fish,Seafood,15531,8526,1137,3979,568,4168,0,0
+Sweden,Europe,Europe_fw fish,fw fish,Seafood,8659,4754,634,2218,317,2324,0,0
+Switzerland,Europe,Europe_fw fish,fw fish,Seafood,1593,875,117,408,58,428,0,0
+United Kingdom,Europe,Europe_fw fish,fw fish,Seafood,11469,6296,840,2938,420,3078,0,0
+United States of America,USA,USA_fw fish,fw fish,Seafood,176372,96828,12910,45187,6455,47338,0,0
+US Virgin Islands,USA,USA_fw fish,fw fish,Seafood,8,4,1,2,0,2,0,0
+Australia,Australia,Australia_fw crustacean,fw crustacean,Seafood,131,105,14,49,7,51,0,0
+Austria,Europe,Europe_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Bulgaria,Europe,Europe_fw crustacean,fw crustacean,Seafood,17,14,2,7,1,7,0,0
+Estonia,Europe,Europe_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Italy,Europe,Europe_fw crustacean,fw crustacean,Seafood,8,6,1,3,0,3,0,0
+Latvia,Europe,Europe_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Republic of Moldova,Europe,Europe_fw crustacean,fw crustacean,Seafood,20,16,2,8,1,8,0,0
+New Caledonia,Island nation,Other_fw crustacean,fw crustacean,Seafood,3,2,1,2,0,0,0,0
+Poland,Europe,Europe_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Spain,Europe,Europe_fw crustacean,fw crustacean,Seafood,4,3,0,1,0,1,0,0
+Sweden,Europe,Europe_fw crustacean,fw crustacean,Seafood,1,1,0,0,0,0,0,0
+United States of America,USA,USA_fw crustacean,fw crustacean,Seafood,60925,49075,6543,22902,3272,23992,0,0
+Albania,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Australia,Australia,Australia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Bosnia and Herzegovina,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Bulgaria,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Canada,Canada,Canada_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Channel Islands,USA,USA_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Croatia,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Denmark,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+France,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Germany,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Greece,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Iceland,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Ireland,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Italy,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Montenegro,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Netherlands,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+New Caledonia,Island nation,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+New Zealand,New Zealand,New Zealand_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Norway,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Portugal,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Romania,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Serbia and Montenegro,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Slovenia,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Spain,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Saint Pierre and Miquelon,Canada,Canada_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Sweden,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Turks and Caicos Islands,Caribbean,Caribbean_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+United Kingdom,Europe,Europe_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+United States of America,USA,USA_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Afghanistan,Middle East,Middle East_beef,beef,Meat,72360,0,264787,0,49263,92368,0,0
+Algeria,Northern Africa,Northern Africa_beef,beef,Meat,75572,0,276540,0,51449,96468,0,0
+American Samoa,Island nation,Other_beef,beef,Meat,3,0,10,0,2,4,0,0
+Angola,Central Africa,Central Africa_beef,beef,Meat,46376,0,169704,0,31573,59199,0,0
+Antigua and Barbuda,Caribbean,Caribbean_beef,beef,Meat,108,0,394,0,73,137,0,0
+Argentina,South America,South America_beef,beef,Meat,1806080,0,6608989,0,1229579,2305461,0,0
+Armenia,East Europe and CIS,Other_beef,beef,Meat,33768,0,123567,0,22989,43105,0,0
+Azerbaijan,Middle East,Middle East_beef,beef,Meat,66419,0,243047,0,45218,84784,0,0
+Bahamas,Caribbean,Caribbean_beef,beef,Meat,12,0,45,0,8,16,0,0
+Bahrain,Middle East,Middle East_beef,beef,Meat,557,0,2039,0,379,711,0,0
+Bangladesh,Middle East,Southern Asia_beef,beef,Meat,104760,0,383348,0,71321,133726,0,0
+Barbados,Caribbean,Caribbean_beef,beef,Meat,110,0,404,0,75,141,0,0
+Belarus,East Europe and CIS,Other_beef,beef,Meat,198891,0,727802,0,135405,253884,0,0
+Belize,Central America,Central America_beef,beef,Meat,1183,0,4328,0,805,1510,0,0
+Benin,Western Africa,Western Africa_beef,beef,Meat,13794,0,50476,0,9391,17608,0,0
+Bhutan,Middle East,Middle East_beef,beef,Meat,2754,0,10078,0,1875,3515,0,0
+Bolivia (Plurinational State of),South America,South America_beef,beef,Meat,139347,0,509913,0,94868,177877,0,0
+Botswana,Southern Africa,Southern Africa_beef,beef,Meat,20680,0,75674,0,14079,26398,0,0
+Brazil,South America,South America_beef,beef,Meat,6192000,0,22658386,0,4215514,7904088,0,0
+British Virgin Islands,Caribbean,Caribbean_beef,beef,Meat,96,0,351,0,65,122,0,0
+Brunei Darussalam,Southern Asia,Southern Asia_beef,beef,Meat,693,0,2537,0,472,885,0,0
+Burkina Faso,Western Africa,Western Africa_beef,beef,Meat,33370,0,122113,0,22719,42597,0,0
+Burundi,Eastern Africa,Eastern Africa_beef,beef,Meat,3987,0,14589,0,2714,5089,0,0
+Cote d'Ivoire,Western Africa,Western Africa_beef,beef,Meat,14007,0,51257,0,9536,17880,0,0
+Cabo Verde,Western Africa,Western Africa_beef,beef,Meat,240,0,879,0,164,307,0,0
+Cambodia,Southern Asia,Southern Asia_beef,beef,Meat,57876,0,211786,0,39402,73879,0,0
+Cameroon,Central Africa,Central Africa_beef,beef,Meat,56320,0,206092,0,38343,71892,0,0
+Central African Republic,Central Africa,Central Africa_beef,beef,Meat,39600,0,144908,0,26960,50549,0,0
+Chad,Central Africa,Central Africa_beef,beef,Meat,43296,0,158433,0,29476,55267,0,0
+Chile,South America,South America_beef,beef,Meat,132022,0,483110,0,89881,168527,0,0
+"China, Hong Kong SAR",Eastern Asia,Eastern Asia_beef,beef,Meat,7110,0,26018,0,4840,9076,0,0
+"China, Macao SAR",Eastern Asia,Eastern Asia_beef,beef,Meat,720,0,2635,0,490,919,0,0
+"China, mainland",China,China_beef,beef,Meat,5754150,0,21056161,0,3917425,7345172,0,0
+"China, Taiwan Province of",China,China_beef,beef,Meat,5400,0,19760,0,3676,6893,0,0
+Colombia,South America,South America_beef,beef,Meat,542982,0,1986933,0,369662,693116,0,0
+Comoros,Eastern Africa,Eastern Africa_beef,beef,Meat,557,0,2037,0,379,710,0,0
+Congo,Central Africa,Central Africa_beef,beef,Meat,2883,0,10549,0,1963,3680,0,0
+Cook Islands,Island nation,Other_beef,beef,Meat,3,0,10,0,2,4,0,0
+Costa Rica,Central America,Central America_beef,beef,Meat,54421,0,199143,0,37050,69469,0,0
+Cuba,Caribbean,Caribbean_beef,beef,Meat,46161,0,168917,0,31426,58925,0,0
+Cyprus,Western Asia,Western Asia_beef,beef,Meat,1884,0,6894,0,1283,2405,0,0
+Democratic People's Republic of Korea,Eastern Asia,Eastern Asia_beef,beef,Meat,19778,0,72372,0,13465,25246,0,0
+Democratic Republic of the Congo,Central Africa,Central Africa_beef,beef,Meat,5368,0,19643,0,3655,6852,0,0
+Djibouti,Eastern Africa,Eastern Africa_beef,beef,Meat,2662,0,9741,0,1812,3398,0,0
+Dominica,Caribbean,Caribbean_beef,beef,Meat,397,0,1454,0,271,507,0,0
+Dominican Republic,Caribbean,Caribbean_beef,beef,Meat,69451,0,254143,0,47282,88655,0,0
+Ecuador,South America,South America_beef,beef,Meat,166720,0,610078,0,113503,212818,0,0
+Egypt,Northern Africa,Northern Africa_beef,beef,Meat,254880,0,932682,0,173522,325354,0,0
+El Salvador,Central America,Central America_beef,beef,Meat,11784,0,43120,0,8022,15042,0,0
+Equatorial Guinea,Central Africa,Central Africa_beef,beef,Meat,22,0,81,0,15,28,0,0
+Eritrea,Eastern Africa,Eastern Africa_beef,beef,Meat,10560,0,38642,0,7189,13480,0,0
+Ethiopia,Eastern Africa,Eastern Africa_beef,beef,Meat,149930,0,548639,0,102072,191386,0,0
+Falkland Islands (Malvinas),South America,South America_beef,beef,Meat,100,0,368,0,68,128,0,0
+Fiji,Island nation,Other_beef,beef,Meat,5244,0,19189,0,3570,6694,0,0
+French Guiana,South America,South America_beef,beef,Meat,227,0,831,0,155,290,0,0
+French Polynesia,Island nation,Other_beef,beef,Meat,90,0,328,0,61,115,0,0
+Gabon,Central Africa,Central Africa_beef,beef,Meat,511,0,1871,0,348,653,0,0
+Gambia,Western Africa,Western Africa_beef,beef,Meat,1637,0,5990,0,1114,2089,0,0
+Georgia,Western Asia,Western Asia_beef,beef,Meat,10908,0,39916,0,7426,13924,0,0
+Ghana,Western Africa,Western Africa_beef,beef,Meat,9620,0,35201,0,6549,12280,0,0
+Grenada,Caribbean,Caribbean_beef,beef,Meat,97,0,353,0,66,123,0,0
+Guadeloupe,Caribbean,Caribbean_beef,beef,Meat,2070,0,7575,0,1409,2642,0,0
+Guam,Island nation,Other_beef,beef,Meat,6,0,20,0,4,7,0,0
+Guatemala,Central America,Central America_beef,beef,Meat,53376,0,195319,0,36338,68134,0,0
+Guinea,Western Africa,Western Africa_beef,beef,Meat,24662,0,90246,0,16790,31481,0,0
+Guinea-Bissau,Western Africa,Western Africa_beef,beef,Meat,2952,0,10804,0,2010,3769,0,0
+Guyana,South America,South America_beef,beef,Meat,1448,0,5297,0,986,1848,0,0
+Haiti,Caribbean,Caribbean_beef,beef,Meat,32085,0,117409,0,21843,40957,0,0
+Honduras,Central America,Central America_beef,beef,Meat,40320,0,147543,0,27450,51468,0,0
+India,Southern Asia,Southern Asia_beef,beef,Meat,879583,0,3218659,0,598820,1122788,0,0
+Indonesia,Southern Asia,Southern Asia_beef,beef,Meat,496515,0,1816898,0,338027,633802,0,0
+Iran (Islamic Republic of),Middle East,Middle East_beef,beef,Meat,134460,0,492029,0,91540,171638,0,0
+Iraq,Middle East,Middle East_beef,beef,Meat,27702,0,101370,0,18860,35362,0,0
+Israel,Middle East,Middle East_beef,beef,Meat,71409,0,261307,0,48615,91154,0,0
+Jamaica,Caribbean,Caribbean_beef,beef,Meat,3864,0,14140,0,2631,4932,0,0
+Japan,Eastern Asia,Eastern Asia_beef,beef,Meat,457208,0,1673062,0,311267,583626,0,0
+Jordan,Western Asia,Western Asia_beef,beef,Meat,10692,0,39125,0,7279,13648,0,0
+Kazakhstan,East Europe and CIS,Other_beef,beef,Meat,241585,0,884031,0,164471,308383,0,0
+Kenya,Eastern Africa,Eastern Africa_beef,beef,Meat,187000,0,684289,0,127310,238706,0,0
+Kiribati,Island nation,Other_beef,beef,Meat,0,0,0,0,0,0,0,0
+Kuwait,Western Asia,Western Asia_beef,beef,Meat,1485,0,5434,0,1011,1896,0,0
+Kyrgyzstan,East Europe and CIS,Other_beef,beef,Meat,62118,0,227308,0,42290,79294,0,0
+Lao People's Democratic Republic,Southern Asia,Southern Asia_beef,beef,Meat,26044,0,95304,0,17731,33245,0,0
+Lebanon,Middle East,Middle East_beef,beef,Meat,25674,0,93950,0,17479,32773,0,0
+Lesotho,Southern Africa,Southern Africa_beef,beef,Meat,5940,0,21736,0,4044,7582,0,0
+Liberia,Western Africa,Western Africa_beef,beef,Meat,501,0,1832,0,341,639,0,0
+Libya,Northern Africa,Northern Africa_beef,beef,Meat,4806,0,17587,0,3272,6135,0,0
+Madagascar,Eastern Africa,Eastern Africa_beef,beef,Meat,75735,0,277137,0,51560,96676,0,0
+Malawi,Eastern Africa,Eastern Africa_beef,beef,Meat,16888,0,61799,0,11497,21558,0,0
+Malaysia,Southern Asia,Southern Asia_beef,beef,Meat,24353,0,89116,0,16580,31087,0,0
+Mali,Western Africa,Western Africa_beef,beef,Meat,74360,0,272106,0,50624,94921,0,0
+Martinique,Caribbean,Caribbean_beef,beef,Meat,690,0,2525,0,470,881,0,0
+Mauritania,Western Africa,Western Africa_beef,beef,Meat,12936,0,47337,0,8807,16513,0,0
+Mauritius,Eastern Africa,Eastern Africa_beef,beef,Meat,1166,0,4267,0,794,1488,0,0
+Mexico,Central America,Central America_beef,beef,Meat,1156325,0,4231341,0,787226,1476049,0,0
+Micronesia (Federated States of),Island nation,Other_beef,beef,Meat,178,0,651,0,121,227,0,0
+Mongolia,Eastern Asia,Eastern Asia_beef,beef,Meat,50792,0,185865,0,34579,64836,0,0
+Montserrat,Caribbean,Caribbean_beef,beef,Meat,497,0,1818,0,338,634,0,0
+Morocco,Northern Africa,Northern Africa_beef,beef,Meat,137160,0,501910,0,93379,175085,0,0
+Mozambique,Eastern Africa,Eastern Africa_beef,beef,Meat,11220,0,41057,0,7639,14322,0,0
+Myanmar,Southern Asia,Southern Asia_beef,beef,Meat,196560,0,719272,0,133818,250909,0,0
+Namibia,Southern Africa,Southern Africa_beef,beef,Meat,15752,0,57641,0,10724,20107,0,0
+Nauru,Island nation,Other_beef,beef,Meat,0,0,0,0,0,0,0,0
+Nepal,Southern Asia,Southern Asia_beef,beef,Meat,47184,0,172659,0,32123,60230,0,0
+Nicaragua,Central America,Central America_beef,beef,Meat,77240,0,282643,0,52585,98596,0,0
+Niger,Western Africa,Western Africa_beef,beef,Meat,62832,0,229921,0,42776,80205,0,0
+Nigeria,Western Africa,Western Africa_beef,beef,Meat,177320,0,648867,0,120719,226349,0,0
+Niue,Island nation,Other_beef,beef,Meat,2,0,8,0,1,3,0,0
+Occupied Palestinian Territory,Middle East,Middle East_beef,beef,Meat,4050,0,14820,0,2757,5170,0,0
+Oman,Middle East,Middle East_beef,beef,Meat,11232,0,41101,0,7647,14338,0,0
+Pakistan,Middle East,Middle East_beef,beef,Meat,439020,0,1606506,0,298885,560409,0,0
+Panama,Central America,Central America_beef,beef,Meat,54336,0,198832,0,36992,69360,0,0
+Papua New Guinea,Island nation,Other_beef,beef,Meat,2277,0,8332,0,1550,2907,0,0
+Paraguay,South America,South America_beef,beef,Meat,239360,0,875890,0,162956,305543,0,0
+Peru,South America,South America_beef,beef,Meat,121964,0,446303,0,83033,155687,0,0
+Philippines,Southern Asia,Southern Asia_beef,beef,Meat,179959,0,658523,0,122516,229717,0,0
+Puerto Rico,Central America,Central America_beef,beef,Meat,6592,0,24122,0,4488,8415,0,0
+Qatar,Middle East,Middle East_beef,beef,Meat,267,0,978,0,182,341,0,0
+R'union,Eastern Africa,Eastern Africa_beef,beef,Meat,691,0,2528,0,470,882,0,0
+Republic of Korea,Eastern Asia,Eastern Asia_beef,beef,Meat,302400,0,1106572,0,205874,386014,0,0
+Republic of Moldova,East Europe and CIS,Other_beef,beef,Meat,6111,0,22362,0,4160,7801,0,0
+Russian Federation,East Europe and CIS,Other_beef,beef,Meat,1028953,0,3765246,0,700511,1313458,0,0
+Rwanda,Eastern Africa,Eastern Africa_beef,beef,Meat,15540,0,56865,0,10580,19837,0,0
+Saint Kitts and Nevis,Central America,Central America_beef,beef,Meat,61,0,222,0,41,78,0,0
+Saint Lucia,Central America,Central America_beef,beef,Meat,291,0,1066,0,198,372,0,0
+Saint Vincent and the Grenadines,Caribbean,Caribbean_beef,beef,Meat,141,0,518,0,96,181,0,0
+Samoa,Island nation,Other_beef,beef,Meat,759,0,2777,0,517,969,0,0
+Sao Tome and Principe,Central Africa,Central Africa_beef,beef,Meat,63,0,232,0,43,81,0,0
+Saudi Arabia,Middle East,Middle East_beef,beef,Meat,28080,0,102753,0,19117,35844,0,0
+Senegal,Western Africa,Western Africa_beef,beef,Meat,27995,0,102444,0,19059,35736,0,0
+Seychelles,Eastern Africa,Eastern Africa_beef,beef,Meat,3,0,10,0,2,3,0,0
+Sierra Leone,Western Africa,Western Africa_beef,beef,Meat,4435,0,16230,0,3019,5662,0,0
+Singapore,Southern Asia,Southern Asia_beef,beef,Meat,46,0,166,0,31,58,0,0
+Solomon Islands,Island nation,Other_beef,beef,Meat,511,0,1868,0,348,652,0,0
+Somalia,Eastern Africa,Eastern Africa_beef,beef,Meat,26620,0,97411,0,18123,33980,0,0
+South Africa,Southern Africa,Southern Africa_beef,beef,Meat,374440,0,1370188,0,254919,477973,0,0
+South Sudan,Eastern Africa,Eastern Africa_beef,beef,Meat,93720,0,342950,0,63805,119634,0,0
+Sri Lanka,Southern Asia,Southern Asia_beef,beef,Meat,22250,0,81418,0,15147,28401,0,0
+Sudan,Northern Africa,Northern Africa_beef,beef,Meat,193320,0,707416,0,131612,246773,0,0
+Suriname,South America,South America_beef,beef,Meat,1045,0,3824,0,712,1334,0,0
+Swaziland,Southern Africa,Southern Africa_beef,beef,Meat,7524,0,27533,0,5122,9604,0,0
+Syrian Arab Republic,Middle East,Middle East_beef,beef,Meat,37735,0,138084,0,25690,48169,0,0
+Tajikistan,East Europe and CIS,Other_beef,beef,Meat,21798,0,79765,0,14840,27825,0,0
+Thailand,Southern Asia,Southern Asia_beef,beef,Meat,145600,0,532794,0,99124,185858,0,0
+Timor-Leste,Southern Asia,Southern Asia_beef,beef,Meat,1047,0,3829,0,712,1336,0,0
+Togo,Western Africa,Western Africa_beef,beef,Meat,4318,0,15800,0,2940,5512,0,0
+Tokelau,Island nation,Other_beef,beef,Meat,0,0,0,0,0,0,0,0
+Tonga,Island nation,Other_beef,beef,Meat,255,0,934,0,174,326,0,0
+Trinidad and Tobago,Caribbean,Caribbean_beef,beef,Meat,715,0,2616,0,487,912,0,0
+Tunisia,Northern Africa,Northern Africa_beef,beef,Meat,30240,0,110657,0,20587,38601,0,0
+Turkey,Middle East,Middle East_beef,beef,Meat,469418,0,1717740,0,319580,599212,0,0
+Turkmenistan,East Europe and CIS,Other_beef,beef,Meat,92106,0,337043,0,62706,117573,0,0
+Tuvalu,Island nation,Other_beef,beef,Meat,0,0,0,0,0,0,0,0
+Uganda,Eastern Africa,Eastern Africa_beef,beef,Meat,87564,0,320421,0,59613,111775,0,0
+Ukraine,East Europe and CIS,Other_beef,beef,Meat,269514,0,986233,0,183485,344035,0,0
+United Arab Emirates,Middle East,Middle East_beef,beef,Meat,8640,0,31616,0,5882,11029,0,0
+United Republic of Tanzania,Eastern Africa,Eastern Africa_beef,beef,Meat,131816,0,482353,0,89740,168263,0,0
+United States Virgin Islands,Caribbean,Caribbean_beef,beef,Meat,380,0,1389,0,258,484,0,0
+Uruguay,South America,South America_beef,beef,Meat,321920,0,1178002,0,219163,410931,0,0
+Uzbekistan,East Europe and CIS,Other_beef,beef,Meat,512190,0,1874257,0,348699,653811,0,0
+Vanuatu,Island nation,Other_beef,beef,Meat,2139,0,7827,0,1456,2730,0,0
+Venezuela (Bolivarian Republic of),South America,South America_beef,beef,Meat,330303,0,1208679,0,224871,421632,0,0
+Viet Nam,Southern Asia,Southern Asia_beef,beef,Meat,259714,0,950371,0,176813,331525,0,0
+Wallis and Futuna Islands,Island nation,Other_beef,beef,Meat,2,0,8,0,1,3,0,0
+Western Sahara,Northern Africa,Northern Africa_beef,beef,Meat,0,0,0,0,0,0,0,0
+Yemen,Middle East,Middle East_beef,beef,Meat,60480,0,221314,0,41175,77203,0,0
+Zambia,Eastern Africa,Eastern Africa_beef,beef,Meat,87044,0,318520,0,59259,111112,0,0
+Zimbabwe,Eastern Africa,Eastern Africa_beef,beef,Meat,45650,0,167047,0,31079,58272,0,0
+Afghanistan,Middle East,Middle East_goat,goat,Meat,23868,21410,18116,34585,0,31291,27997,0
+Algeria,Northern Africa,Northern Africa_goat,goat,Meat,9990,8961,7582,14476,0,13097,11718,0
+American Samoa,Island nation,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Angola,Central Africa,Central Africa_goat,goat,Meat,8250,7400,6262,11954,0,10816,9677,0
+Antigua and Barbuda,Caribbean,Caribbean_goat,goat,Meat,1,1,1,1,0,1,1,0
+Argentina,South America,South America_goat,goat,Meat,6336,5683,4809,9181,0,8306,7432,0
+Armenia,East Europe and CIS,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Azerbaijan,Middle East,Middle East_goat,goat,Meat,0,0,0,0,0,0,0,0
+Bahamas,Caribbean,Caribbean_goat,goat,Meat,50,45,38,72,0,65,58,0
+Bahrain,Middle East,Middle East_goat,goat,Meat,105,94,80,153,0,138,124,0
+Bangladesh,Middle East,Southern Asia_goat,goat,Meat,110160,98814,83611,159622,0,144420,129218,0
+Barbados,Caribbean,Caribbean_goat,goat,Meat,21,19,16,31,0,28,25,0
+Belarus,East Europe and CIS,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Belize,Central America,Central America_goat,goat,Meat,1,1,0,1,0,1,1,0
+Benin,Western Africa,Western Africa_goat,goat,Meat,2398,2151,1820,3475,0,3144,2813,0
+Bhutan,Middle East,Middle East_goat,goat,Meat,88,79,67,128,0,115,103,0
+Bolivia (Plurinational State of),South America,South America_goat,goat,Meat,3563,3196,2704,5163,0,4671,4179,0
+Botswana,Southern Africa,Southern Africa_goat,goat,Meat,2534,2273,1924,3672,0,3323,2973,0
+Brazil,South America,South America_goat,goat,Meat,19136,17165,14524,27728,0,25087,22447,0
+British Virgin Islands,Caribbean,Caribbean_goat,goat,Meat,25,22,19,36,0,33,29,0
+Brunei Darussalam,Southern Asia,Southern Asia_goat,goat,Meat,33,29,25,47,0,43,38,0
+Burkina Faso,Western Africa,Western Africa_goat,goat,Meat,11645,10445,8838,16873,0,15266,13659,0
+Burundi,Eastern Africa,Eastern Africa_goat,goat,Meat,1249,1120,948,1809,0,1637,1465,0
+Cote d'Ivoire,Western Africa,Western Africa_goat,goat,Meat,1756,1575,1333,2544,0,2302,2059,0
+Cabo Verde,Western Africa,Western Africa_goat,goat,Meat,376,337,286,545,0,493,441,0
+Cambodia,Southern Asia,Southern Asia_goat,goat,Meat,0,0,0,0,0,0,0,0
+Cameroon,Central Africa,Central Africa_goat,goat,Meat,9108,8170,6913,13197,0,11941,10684,0
+Central African Republic,Central Africa,Central Africa_goat,goat,Meat,9442,8470,7167,13682,0,12379,11076,0
+Chad,Central Africa,Central Africa_goat,goat,Meat,11880,10656,9017,17214,0,15575,13935,0
+Chile,South America,South America_goat,goat,Meat,3599,3228,2731,5215,0,4718,4221,0
+"China, Hong Kong SAR",Eastern Asia,Eastern Asia_goat,goat,Meat,106,95,81,154,0,139,125,0
+"China, Macao SAR",Eastern Asia,Eastern Asia_goat,goat,Meat,0,0,0,0,0,0,0,0
+"China, mainland",China,China_goat,goat,Meat,1800000,1614600,1366200,2608200,0,2359800,2111400,0
+"China, Taiwan Province of",China,China_goat,goat,Meat,2070,1857,1571,2999,0,2714,2428,0
+Colombia,South America,South America_goat,goat,Meat,4029,3614,3058,5839,0,5283,4727,0
+Comoros,Eastern Africa,Eastern Africa_goat,goat,Meat,172,154,130,249,0,225,201,0
+Congo,Central Africa,Central Africa_goat,goat,Meat,484,434,367,701,0,635,568,0
+Cook Islands,Island nation,Other_goat,goat,Meat,1,1,1,2,0,2,2,0
+Costa Rica,Central America,Central America_goat,goat,Meat,13,11,10,19,0,17,15,0
+Cuba,Caribbean,Caribbean_goat,goat,Meat,2415,2166,1833,3499,0,3166,2833,0
+Cyprus,Western Asia,Western Asia_goat,goat,Meat,1230,1103,934,1782,0,1613,1443,0
+Democratic People's Republic of Korea,Eastern Asia,Eastern Asia_goat,goat,Meat,13230,11867,10042,19170,0,17345,15519,0
+Democratic Republic of the Congo,Central Africa,Central Africa_goat,goat,Meat,8140,7302,6178,11795,0,10672,9548,0
+Djibouti,Eastern Africa,Eastern Africa_goat,goat,Meat,1073,962,814,1554,0,1406,1258,0
+Dominica,Caribbean,Caribbean_goat,goat,Meat,29,26,22,42,0,38,34,0
+Dominican Republic,Caribbean,Caribbean_goat,goat,Meat,697,625,529,1010,0,914,817,0
+Ecuador,South America,South America_goat,goat,Meat,762,683,578,1104,0,998,893,0
+Egypt,Northern Africa,Northern Africa_goat,goat,Meat,29970,26883,22747,43427,0,39291,35155,0
+El Salvador,Central America,Central America_goat,goat,Meat,59,53,45,85,0,77,69,0
+Equatorial Guinea,Central Africa,Central Africa_goat,goat,Meat,21,19,16,31,0,28,25,0
+Eritrea,Eastern Africa,Eastern Africa_goat,goat,Meat,2693,2415,2044,3902,0,3530,3159,0
+Ethiopia,Eastern Africa,Eastern Africa_goat,goat,Meat,32560,29206,24713,47179,0,42686,38193,0
+Falkland Islands (Malvinas),South America,South America_goat,goat,Meat,0,0,0,0,0,0,0,0
+Fiji,Island nation,Other_goat,goat,Meat,144,129,109,209,0,189,169,0
+French Guiana,South America,South America_goat,goat,Meat,1,1,1,2,0,2,2,0
+French Polynesia,Island nation,Other_goat,goat,Meat,52,46,39,75,0,68,61,0
+Gabon,Central Africa,Central Africa_goat,goat,Meat,145,130,110,210,0,190,170,0
+Gambia,Western Africa,Western Africa_goat,goat,Meat,378,339,287,547,0,495,443,0
+Georgia,Western Asia,Western Asia_goat,goat,Meat,11,10,8,16,0,14,13,0
+Ghana,Western Africa,Western Africa_goat,goat,Meat,9869,8852,7490,14300,0,12938,11576,0
+Grenada,Caribbean,Caribbean_goat,goat,Meat,21,19,16,30,0,27,24,0
+Guadeloupe,Caribbean,Caribbean_goat,goat,Meat,105,94,80,152,0,137,123,0
+Guam,Island nation,Other_goat,goat,Meat,3,3,3,5,0,5,4,0
+Guatemala,Central America,Central America_goat,goat,Meat,365,327,277,529,0,478,428,0
+Guinea,Western Africa,Western Africa_goat,goat,Meat,3960,3552,3006,5738,0,5192,4645,0
+Guinea-Bissau,Western Africa,Western Africa_goat,goat,Meat,531,476,403,769,0,696,622,0
+Guyana,South America,South America_goat,goat,Meat,177,158,134,256,0,232,207,0
+Haiti,Caribbean,Caribbean_goat,goat,Meat,3830,3435,2907,5549,0,5020,4492,0
+Honduras,Central America,Central America_goat,goat,Meat,104,93,79,150,0,136,122,0
+India,Southern Asia,Southern Asia_goat,goat,Meat,463190,415481,351561,671162,0,607242,543322,0
+Indonesia,Southern Asia,Southern Asia_goat,goat,Meat,60961,54682,46269,88332,0,79920,71507,0
+Iran (Islamic Republic of),Middle East,Middle East_goat,goat,Meat,77436,69460,58774,112205,0,101519,90832,0
+Iraq,Middle East,Middle East_goat,goat,Meat,6290,5642,4774,9114,0,8246,7378,0
+Israel,Middle East,Middle East_goat,goat,Meat,2210,1983,1678,3203,0,2898,2593,0
+Jamaica,Caribbean,Caribbean_goat,goat,Meat,762,684,579,1105,0,1000,894,0
+Japan,Eastern Asia,Eastern Asia_goat,goat,Meat,43,39,33,63,0,57,51,0
+Jordan,Western Asia,Western Asia_goat,goat,Meat,3888,3488,2951,5634,0,5097,4561,0
+Kazakhstan,East Europe and CIS,Other_goat,goat,Meat,13224,11862,10037,19161,0,17336,15511,0
+Kenya,Eastern Africa,Eastern Africa_goat,goat,Meat,18480,16577,14026,26778,0,24227,21677,0
+Kiribati,Island nation,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Kuwait,Western Asia,Western Asia_goat,goat,Meat,330,296,250,478,0,433,387,0
+Kyrgyzstan,East Europe and CIS,Other_goat,goat,Meat,5103,4577,3873,7394,0,6690,5986,0
+Lao People's Democratic Republic,Southern Asia,Southern Asia_goat,goat,Meat,1554,1394,1180,2252,0,2038,1823,0
+Lebanon,Middle East,Middle East_goat,goat,Meat,1884,1690,1430,2729,0,2469,2209,0
+Lesotho,Southern Africa,Southern Africa_goat,goat,Meat,986,884,748,1428,0,1292,1156,0
+Liberia,Western Africa,Western Africa_goat,goat,Meat,463,416,352,671,0,607,543,0
+Libya,Northern Africa,Northern Africa_goat,goat,Meat,7128,6394,5410,10328,0,9345,8361,0
+Madagascar,Eastern Africa,Eastern Africa_goat,goat,Meat,4303,3860,3266,6235,0,5641,5048,0
+Malawi,Eastern Africa,Eastern Africa_goat,goat,Meat,14252,12784,10818,20652,0,18685,16718,0
+Malaysia,Southern Asia,Southern Asia_goat,goat,Meat,1458,1308,1106,2112,0,1911,1710,0
+Mali,Western Africa,Western Africa_goat,goat,Meat,34250,30722,25995,49628,0,44901,40175,0
+Martinique,Caribbean,Caribbean_goat,goat,Meat,14,13,11,21,0,19,17,0
+Mauritania,Western Africa,Western Africa_goat,goat,Meat,7260,6512,5510,10520,0,9518,8516,0
+Mauritius,Eastern Africa,Eastern Africa_goat,goat,Meat,40,36,30,57,0,52,46,0
+Mexico,Central America,Central America_goat,goat,Meat,25380,22766,19263,36775,0,33273,29771,0
+Micronesia (Federated States of),Island nation,Other_goat,goat,Meat,10,9,7,14,0,13,11,0
+Mongolia,Eastern Asia,Eastern Asia_goat,goat,Meat,57721,51775,43810,83637,0,75672,67706,0
+Montserrat,Caribbean,Caribbean_goat,goat,Meat,18,16,14,26,0,24,21,0
+Morocco,Northern Africa,Northern Africa_goat,goat,Meat,14040,12594,10656,20344,0,18406,16469,0
+Mozambique,Eastern Africa,Eastern Africa_goat,goat,Meat,9768,8762,7414,14154,0,12806,11458,0
+Myanmar,Southern Asia,Southern Asia_goat,goat,Meat,36473,32716,27683,52849,0,47816,42783,0
+Namibia,Southern Africa,Southern Africa_goat,goat,Meat,1690,1516,1282,2448,0,2215,1982,0
+Nauru,Island nation,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Nepal,Southern Asia,Southern Asia_goat,goat,Meat,50576,45367,38387,73285,0,66305,59326,0
+Nicaragua,Central America,Central America_goat,goat,Meat,26,23,19,37,0,34,30,0
+Niger,Western Africa,Western Africa_goat,goat,Meat,19448,17445,14761,28180,0,25496,22813,0
+Nigeria,Western Africa,Western Africa_goat,goat,Meat,130200,116790,98822,188660,0,170693,152725,0
+Niue,Island nation,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Occupied Palestinian Territory,Middle East,Middle East_goat,goat,Meat,2229,2000,1692,3230,0,2922,2615,0
+Oman,Middle East,Middle East_goat,goat,Meat,8708,7811,6609,12617,0,11416,10214,0
+Pakistan,Middle East,Middle East_goat,goat,Meat,160380,143861,121728,232391,0,210258,188126,0
+Panama,Central America,Central America_goat,goat,Meat,0,0,0,0,0,0,0,0
+Papua New Guinea,Island nation,Other_goat,goat,Meat,8,7,6,12,0,11,10,0
+Paraguay,South America,South America_goat,goat,Meat,634,568,481,918,0,831,743,0
+Peru,South America,South America_goat,goat,Meat,4121,3697,3128,5971,0,5403,4834,0
+Philippines,Southern Asia,Southern Asia_goat,goat,Meat,49658,44543,37690,71954,0,65101,58249,0
+Puerto Rico,Central America,Central America_goat,goat,Meat,9,8,7,13,0,12,11,0
+Qatar,Middle East,Middle East_goat,goat,Meat,1270,1139,964,1840,0,1665,1490,0
+R'union,Eastern Africa,Eastern Africa_goat,goat,Meat,40,36,30,57,0,52,46,0
+Republic of Korea,Eastern Asia,Eastern Asia_goat,goat,Meat,1296,1163,984,1878,0,1699,1520,0
+Republic of Moldova,East Europe and CIS,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Russian Federation,East Europe and CIS,Other_goat,goat,Meat,10486,9406,7959,15195,0,13748,12300,0
+Rwanda,Eastern Africa,Eastern Africa_goat,goat,Meat,3204,2874,2432,4643,0,4201,3758,0
+Saint Kitts and Nevis,Central America,Central America_goat,goat,Meat,6,6,5,9,0,8,8,0
+Saint Lucia,Central America,Central America_goat,goat,Meat,31,28,23,45,0,40,36,0
+Saint Vincent and the Grenadines,Caribbean,Caribbean_goat,goat,Meat,22,20,17,32,0,29,26,0
+Samoa,Island nation,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Sao Tome and Principe,Central Africa,Central Africa_goat,goat,Meat,2,2,1,3,0,2,2,0
+Saudi Arabia,Middle East,Middle East_goat,goat,Meat,16286,14609,12361,23599,0,21351,19104,0
+Senegal,Western Africa,Western Africa_goat,goat,Meat,6536,5863,4961,9470,0,8568,7666,0
+Seychelles,Eastern Africa,Eastern Africa_goat,goat,Meat,9,8,7,13,0,12,11,0
+Sierra Leone,Western Africa,Western Africa_goat,goat,Meat,887,796,673,1285,0,1163,1040,0
+Singapore,Southern Asia,Southern Asia_goat,goat,Meat,11,10,8,16,0,14,13,0
+Solomon Islands,Island nation,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Somalia,Eastern Africa,Eastern Africa_goat,goat,Meat,17446,15649,13242,25279,0,22872,20464,0
+South Africa,Southern Africa,Southern Africa_goat,goat,Meat,15598,13991,11839,22602,0,20449,18296,0
+South Sudan,Eastern Africa,Eastern Africa_goat,goat,Meat,19800,17761,15028,28690,0,25958,23225,0
+Sri Lanka,Southern Asia,Southern Asia_goat,goat,Meat,1274,1143,967,1846,0,1670,1494,0
+Sudan,Northern Africa,Northern Africa_goat,goat,Meat,84240,75563,63938,122064,0,110439,98814,0
+Suriname,South America,South America_goat,goat,Meat,2,2,1,3,0,3,2,0
+Swaziland,Southern Africa,Southern Africa_goat,goat,Meat,784,703,595,1136,0,1028,920,0
+Syrian Arab Republic,Middle East,Middle East_goat,goat,Meat,7422,6657,5633,10754,0,9730,8706,0
+Tajikistan,East Europe and CIS,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Thailand,Southern Asia,Southern Asia_goat,goat,Meat,1679,1506,1274,2433,0,2201,1969,0
+Timor-Leste,Southern Asia,Southern Asia_goat,goat,Meat,414,371,314,600,0,543,486,0
+Togo,Western Africa,Western Africa_goat,goat,Meat,2574,2309,1954,3730,0,3375,3019,0
+Tokelau,Island nation,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Tonga,Island nation,Other_goat,goat,Meat,19,17,14,27,0,24,22,0
+Trinidad and Tobago,Caribbean,Caribbean_goat,goat,Meat,44,40,34,64,0,58,52,0
+Tunisia,Northern Africa,Northern Africa_goat,goat,Meat,4968,4456,3771,7199,0,6513,5827,0
+Turkey,Middle East,Middle East_goat,goat,Meat,30499,27358,23149,44193,0,39984,35776,0
+Turkmenistan,East Europe and CIS,Other_goat,goat,Meat,6376,5719,4839,9238,0,8358,7479,0
+Tuvalu,Island nation,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Uganda,Eastern Africa,Eastern Africa_goat,goat,Meat,16500,14801,12524,23909,0,21632,19355,0
+Ukraine,East Europe and CIS,Other_goat,goat,Meat,4477,4016,3398,6487,0,5869,5251,0
+United Arab Emirates,Middle East,Middle East_goat,goat,Meat,21427,19220,16263,31048,0,28091,25134,0
+United Republic of Tanzania,Eastern Africa,Eastern Africa_goat,goat,Meat,16632,14919,12624,24100,0,21805,19509,0
+United States Virgin Islands,Caribbean,Caribbean_goat,goat,Meat,14,12,10,20,0,18,16,0
+Uruguay,South America,South America_goat,goat,Meat,0,0,0,0,0,0,0,0
+Uzbekistan,East Europe and CIS,Other_goat,goat,Meat,0,0,0,0,0,0,0,0
+Vanuatu,Island nation,Other_goat,goat,Meat,31,28,24,45,0,41,36,0
+Venezuela (Bolivarian Republic of),South America,South America_goat,goat,Meat,4675,4194,3548,6774,0,6129,5484,0
+Viet Nam,Southern Asia,Southern Asia_goat,goat,Meat,7344,6587,5574,10641,0,9628,8614,0
+Wallis and Futuna Islands,Island nation,Other_goat,goat,Meat,10,9,8,15,0,14,12,0
+Western Sahara,Northern Africa,Northern Africa_goat,goat,Meat,382,343,290,554,0,501,448,0
+Yemen,Middle East,Middle East_goat,goat,Meat,33147,29733,25158,48030,0,43455,38881,0
+Zambia,Eastern Africa,Eastern Africa_goat,goat,Meat,3960,3552,3006,5738,0,5192,4645,0
+Zimbabwe,Eastern Africa,Eastern Africa_goat,goat,Meat,5808,5210,4408,8416,0,7614,6813,0
+Afghanistan,Middle East,Middle East_sheep,sheep,Meat,57240,84606,71590,136672,0,123656,110639,0
+Algeria,Northern Africa,Northern Africa_sheep,sheep,Meat,151180,223459,189081,360973,0,326594,292216,0
+American Samoa,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Angola,Central Africa,Central Africa_sheep,sheep,Meat,1749,2585,2187,4176,0,3778,3381,0
+Antigua and Barbuda,Caribbean,Caribbean_sheep,sheep,Meat,8,11,9,18,0,16,15,0
+Argentina,South America,South America_sheep,sheep,Meat,31360,46353,39222,74878,0,67747,60616,0
+Armenia,East Europe and CIS,Other_sheep,sheep,Meat,5670,8381,7091,13538,0,12249,10960,0
+Azerbaijan,Middle East,Middle East_sheep,sheep,Meat,41430,61238,51817,98923,0,89502,80081,0
+Bahamas,Caribbean,Caribbean_sheep,sheep,Meat,19,29,24,46,0,42,37,0
+Bahrain,Middle East,Middle East_sheep,sheep,Meat,9117,13476,11403,21770,0,19696,17623,0
+Bangladesh,Middle East,Southern Asia_sheep,sheep,Meat,2268,3352,2837,5415,0,4900,4384,0
+Barbados,Caribbean,Caribbean_sheep,sheep,Meat,86,126,107,204,0,185,165,0
+Belarus,East Europe and CIS,Other_sheep,sheep,Meat,693,1024,867,1655,0,1497,1339,0
+Belize,Central America,Central America_sheep,sheep,Meat,28,41,34,66,0,59,53,0
+Benin,Western Africa,Western Africa_sheep,sheep,Meat,1386,2049,1733,3309,0,2994,2679,0
+Bhutan,Middle East,Middle East_sheep,sheep,Meat,49,72,61,116,0,105,94,0
+Bolivia (Plurinational State of),South America,South America_sheep,sheep,Meat,8074,11934,10098,19277,0,17441,15605,0
+Botswana,Southern Africa,Southern Africa_sheep,sheep,Meat,825,1220,1032,1971,0,1783,1595,0
+Brazil,South America,South America_sheep,sheep,Meat,54976,81260,68758,131266,0,118765,106263,0
+British Virgin Islands,Caribbean,Caribbean_sheep,sheep,Meat,49,72,61,117,0,106,95,0
+Brunei Darussalam,Southern Asia,Southern Asia_sheep,sheep,Meat,24,35,30,56,0,51,46,0
+Burkina Faso,Western Africa,Western Africa_sheep,sheep,Meat,6428,9501,8039,15347,0,13885,12424,0
+Burundi,Eastern Africa,Eastern Africa_sheep,sheep,Meat,542,801,678,1294,0,1171,1048,0
+Cote d'Ivoire,Western Africa,Western Africa_sheep,sheep,Meat,3863,5710,4832,9224,0,8346,7467,0
+Cabo Verde,Western Africa,Western Africa_sheep,sheep,Meat,23,34,29,55,0,49,44,0
+Cambodia,Southern Asia,Southern Asia_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Cameroon,Central Africa,Central Africa_sheep,sheep,Meat,7656,11316,9575,18280,0,16539,14798,0
+Central African Republic,Central Africa,Central Africa_sheep,sheep,Meat,1003,1483,1255,2395,0,2167,1939,0
+Chad,Central Africa,Central Africa_sheep,sheep,Meat,7049,10419,8816,16830,0,15228,13625,0
+Chile,South America,South America_sheep,sheep,Meat,5749,8498,7190,13727,0,12420,11112,0
+"China, Hong Kong SAR",Eastern Asia,Eastern Asia_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+"China, Macao SAR",Eastern Asia,Eastern Asia_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+"China, mainland",China,China_sheep,sheep,Meat,1872900,2768333,2342436,4471923,0,4046026,3620128,0
+"China, Taiwan Province of",China,China_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Colombia,South America,South America_sheep,sheep,Meat,2571,3800,3215,6138,0,5554,4969,0
+Comoros,Eastern Africa,Eastern Africa_sheep,sheep,Meat,40,60,51,97,0,87,78,0
+Congo,Central Africa,Central Africa_sheep,sheep,Meat,196,289,245,468,0,423,378,0
+Cook Islands,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Costa Rica,Central America,Central America_sheep,sheep,Meat,10,14,12,23,0,21,19,0
+Cuba,Caribbean,Caribbean_sheep,sheep,Meat,7107,10505,8889,16969,0,15353,13737,0
+Cyprus,Western Asia,Western Asia_sheep,sheep,Meat,1629,2407,2037,3889,0,3518,3148,0
+Democratic People's Republic of Korea,Eastern Asia,Eastern Asia_sheep,sheep,Meat,905,1337,1131,2160,0,1954,1748,0
+Democratic Republic of the Congo,Central Africa,Central Africa_sheep,sheep,Meat,1265,1870,1582,3020,0,2733,2445,0
+Djibouti,Eastern Africa,Eastern Africa_sheep,sheep,Meat,979,1448,1225,2339,0,2116,1893,0
+Dominica,Caribbean,Caribbean_sheep,sheep,Meat,17,24,21,40,0,36,32,0
+Dominican Republic,Caribbean,Caribbean_sheep,sheep,Meat,613,907,767,1465,0,1325,1186,0
+Ecuador,South America,South America_sheep,sheep,Meat,3674,5430,4595,8771,0,7936,7101,0
+Egypt,Northern Africa,Northern Africa_sheep,sheep,Meat,40500,59863,50653,96702,0,87492,78282,0
+El Salvador,Central America,Central America_sheep,sheep,Meat,23,34,29,55,0,50,45,0
+Equatorial Guinea,Central Africa,Central Africa_sheep,sheep,Meat,44,66,56,106,0,96,86,0
+Eritrea,Eastern Africa,Eastern Africa_sheep,sheep,Meat,2860,4227,3577,6829,0,6178,5528,0
+Ethiopia,Eastern Africa,Eastern Africa_sheep,sheep,Meat,38478,56874,48124,91874,0,83124,74374,0
+Falkland Islands (Malvinas),South America,South America_sheep,sheep,Meat,518,766,648,1238,0,1120,1002,0
+Fiji,Island nation,Other_sheep,sheep,Meat,19,29,24,46,0,42,37,0
+French Guiana,South America,South America_sheep,sheep,Meat,2,3,2,5,0,4,4,0
+French Polynesia,Island nation,Other_sheep,sheep,Meat,2,3,3,5,0,4,4,0
+Gabon,Central Africa,Central Africa_sheep,sheep,Meat,338,499,423,807,0,730,653,0
+Gambia,Western Africa,Western Africa_sheep,sheep,Meat,194,286,242,462,0,418,374,0
+Georgia,Western Asia,Western Asia_sheep,sheep,Meat,1512,2235,1891,3610,0,3266,2923,0
+Ghana,Western Africa,Western Africa_sheep,sheep,Meat,8229,12164,10292,19649,0,17778,15906,0
+Grenada,Caribbean,Caribbean_sheep,sheep,Meat,69,102,86,165,0,149,133,0
+Guadeloupe,Caribbean,Caribbean_sheep,sheep,Meat,48,71,60,115,0,104,93,0
+Guam,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Guatemala,Central America,Central America_sheep,sheep,Meat,1872,2767,2341,4470,0,4044,3618,0
+Guinea,Western Africa,Western Africa_sheep,sheep,Meat,2957,4370,3698,7060,0,6388,5715,0
+Guinea-Bissau,Western Africa,Western Africa_sheep,sheep,Meat,537,793,671,1282,0,1160,1038,0
+Guyana,South America,South America_sheep,sheep,Meat,358,530,448,856,0,774,693,0
+Haiti,Caribbean,Caribbean_sheep,sheep,Meat,593,877,742,1417,0,1282,1147,0
+Honduras,Central America,Central America_sheep,sheep,Meat,63,93,78,150,0,135,121,0
+India,Southern Asia,Southern Asia_sheep,sheep,Meat,216216,319589,270421,516259,0,467091,417924,0
+Indonesia,Southern Asia,Southern Asia_sheep,sheep,Meat,41576,61454,51999,99271,0,89817,80362,0
+Iran (Islamic Republic of),Middle East,Middle East_sheep,sheep,Meat,68418,101129,85570,163362,0,147803,132245,0
+Iraq,Middle East,Middle East_sheep,sheep,Meat,25461,37634,31844,60793,0,55003,49214,0
+Israel,Middle East,Middle East_sheep,sheep,Meat,5324,7870,6659,12713,0,11502,10292,0
+Jamaica,Caribbean,Caribbean_sheep,sheep,Meat,22,33,28,53,0,48,43,0
+Japan,Eastern Asia,Eastern Asia_sheep,sheep,Meat,150,222,188,359,0,325,291,0
+Jordan,Western Asia,Western Asia_sheep,sheep,Meat,9720,14367,12157,23208,0,20998,18788,0
+Kazakhstan,East Europe and CIS,Other_sheep,sheep,Meat,85295,126075,106679,203659,0,184263,164867,0
+Kenya,Eastern Africa,Eastern Africa_sheep,sheep,Meat,18480,27315,23113,44125,0,39922,35720,0
+Kiribati,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Kuwait,Western Asia,Western Asia_sheep,sheep,Meat,19980,29532,24989,47706,0,43163,38619,0
+Kyrgyzstan,East Europe and CIS,Other_sheep,sheep,Meat,27594,40787,34512,65886,0,59611,53336,0
+Lao People's Democratic Republic,Southern Asia,Southern Asia_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Lebanon,Middle East,Middle East_sheep,sheep,Meat,4117,6085,5149,9830,0,8894,7958,0
+Lesotho,Southern Africa,Southern Africa_sheep,sheep,Meat,1870,2764,2339,4465,0,4040,3615,0
+Liberia,Western Africa,Western Africa_sheep,sheep,Meat,374,553,468,893,0,808,723,0
+Libya,Northern Africa,Northern Africa_sheep,sheep,Meat,17415,25741,21781,41582,0,37622,33661,0
+Madagascar,Eastern Africa,Eastern Africa_sheep,sheep,Meat,1420,2099,1776,3391,0,3068,2745,0
+Malawi,Eastern Africa,Eastern Africa_sheep,sheep,Meat,624,923,781,1491,0,1349,1207,0
+Malaysia,Southern Asia,Southern Asia_sheep,sheep,Meat,470,695,588,1123,0,1016,909,0
+Mali,Western Africa,Western Africa_sheep,sheep,Meat,22660,33494,28341,54105,0,48952,43800,0
+Martinique,Caribbean,Caribbean_sheep,sheep,Meat,38,56,47,91,0,82,73,0
+Mauritania,Western Africa,Western Africa_sheep,sheep,Meat,14190,20974,17747,33881,0,30655,27428,0
+Mauritius,Eastern Africa,Eastern Africa_sheep,sheep,Meat,55,82,69,132,0,120,107,0
+Mexico,Central America,Central America_sheep,sheep,Meat,37107,54848,46410,88601,0,80163,71725,0
+Micronesia (Federated States of),Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Mongolia,Eastern Asia,Eastern Asia_sheep,sheep,Meat,83173,122937,104024,198591,0,179678,160764,0
+Montserrat,Caribbean,Caribbean_sheep,sheep,Meat,17,24,21,40,0,36,32,0
+Morocco,Northern Africa,Northern Africa_sheep,sheep,Meat,63720,94185,79695,152144,0,137654,123164,0
+Mozambique,Eastern Africa,Eastern Africa_sheep,sheep,Meat,444,656,555,1059,0,958,857,0
+Myanmar,Southern Asia,Southern Asia_sheep,sheep,Meat,6843,10115,8559,16340,0,14783,13227,0
+Namibia,Southern Africa,Southern Africa_sheep,sheep,Meat,5808,8585,7264,13868,0,12547,11226,0
+Nauru,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Nepal,Southern Asia,Southern Asia_sheep,sheep,Meat,2476,3660,3097,5912,0,5349,4786,0
+Nicaragua,Central America,Central America_sheep,sheep,Meat,15,23,19,37,0,33,30,0
+Niger,Western Africa,Western Africa_sheep,sheep,Meat,12078,17852,15106,28839,0,26092,23346,0
+Nigeria,Western Africa,Western Africa_sheep,sheep,Meat,77440,114464,96854,184903,0,167294,149684,0
+Niue,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Occupied Palestinian Territory,Middle East,Middle East_sheep,sheep,Meat,6719,9932,8404,16043,0,14516,12988,0
+Oman,Middle East,Middle East_sheep,sheep,Meat,11178,16522,13980,26690,0,24148,21606,0
+Pakistan,Middle East,Middle East_sheep,sheep,Meat,87480,129304,109411,208876,0,188983,169090,0
+Panama,Central America,Central America_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Papua New Guinea,Island nation,Other_sheep,sheep,Meat,23,34,28,54,0,49,44,0
+Paraguay,South America,South America_sheep,sheep,Meat,1795,2653,2245,4286,0,3878,3470,0
+Peru,South America,South America_sheep,sheep,Meat,22340,33021,27940,53341,0,48261,43181,0
+Philippines,Southern Asia,Southern Asia_sheep,sheep,Meat,106,157,133,254,0,230,206,0
+Puerto Rico,Central America,Central America_sheep,sheep,Meat,13,19,16,31,0,28,25,0
+Qatar,Middle East,Middle East_sheep,sheep,Meat,4860,7184,6078,11604,0,10499,9394,0
+R'union,Eastern Africa,Eastern Africa_sheep,sheep,Meat,4,5,4,8,0,8,7,0
+Republic of Korea,Eastern Asia,Eastern Asia_sheep,sheep,Meat,12,17,15,28,0,25,23,0
+Republic of Moldova,East Europe and CIS,Other_sheep,sheep,Meat,1323,1956,1655,3159,0,2858,2557,0
+Russian Federation,East Europe and CIS,Other_sheep,sheep,Meat,109193,161399,136568,260721,0,235891,211060,0
+Rwanda,Eastern Africa,Eastern Africa_sheep,sheep,Meat,845,1249,1057,2017,0,1825,1633,0
+Saint Kitts and Nevis,Central America,Central America_sheep,sheep,Meat,8,12,10,20,0,18,16,0
+Saint Lucia,Central America,Central America_sheep,sheep,Meat,64,95,80,153,0,138,124,0
+Saint Vincent and the Grenadines,Caribbean,Caribbean_sheep,sheep,Meat,43,63,54,102,0,92,83,0
+Samoa,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Sao Tome and Principe,Central Africa,Central Africa_sheep,sheep,Meat,1,1,1,2,0,2,2,0
+Saudi Arabia,Middle East,Middle East_sheep,sheep,Meat,54000,79817,67538,128936,0,116656,104377,0
+Senegal,Western Africa,Western Africa_sheep,sheep,Meat,10605,15675,13264,25321,0,22910,20498,0
+Seychelles,Eastern Africa,Eastern Africa_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Sierra Leone,Western Africa,Western Africa_sheep,sheep,Meat,857,1266,1071,2045,0,1851,1656,0
+Singapore,Southern Asia,Southern Asia_sheep,sheep,Meat,25,36,31,59,0,53,47,0
+Solomon Islands,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Somalia,Eastern Africa,Eastern Africa_sheep,sheep,Meat,20020,29592,25039,47802,0,43249,38697,0
+South Africa,Southern Africa,Southern Africa_sheep,sheep,Meat,63250,93490,79107,151022,0,136639,122256,0
+South Sudan,Eastern Africa,Eastern Africa_sheep,sheep,Meat,49720,73491,62185,118716,0,107410,96104,0
+Sri Lanka,Southern Asia,Southern Asia_sheep,sheep,Meat,91,135,114,217,0,197,176,0
+Sudan,Northern Africa,Northern Africa_sheep,sheep,Meat,175500,259407,219498,419041,0,379133,339224,0
+Suriname,South America,South America_sheep,sheep,Meat,8,12,10,20,0,18,16,0
+Swaziland,Southern Africa,Southern Africa_sheep,sheep,Meat,231,342,289,553,0,500,447,0
+Syrian Arab Republic,Middle East,Middle East_sheep,sheep,Meat,88492,130800,110677,211292,0,191169,171046,0
+Tajikistan,East Europe and CIS,Other_sheep,sheep,Meat,29862,44139,37348,71301,0,64511,57720,0
+Thailand,Southern Asia,Southern Asia_sheep,sheep,Meat,94,139,117,224,0,202,181,0
+Timor-Leste,Southern Asia,Southern Asia_sheep,sheep,Meat,60,89,75,143,0,130,116,0
+Togo,Western Africa,Western Africa_sheep,sheep,Meat,2178,3219,2724,5200,0,4705,4210,0
+Tokelau,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Tonga,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Trinidad and Tobago,Caribbean,Caribbean_sheep,sheep,Meat,135,200,169,323,0,292,261,0
+Tunisia,Northern Africa,Northern Africa_sheep,sheep,Meat,26298,38871,32891,62792,0,56812,50831,0
+Turkey,Middle East,Middle East_sheep,sheep,Meat,159300,235461,199237,380361,0,344136,307911,0
+Turkmenistan,East Europe and CIS,Other_sheep,sheep,Meat,91350,135024,114251,218116,0,197343,176570,0
+Tuvalu,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Uganda,Eastern Africa,Eastern Africa_sheep,sheep,Meat,4189,6191,5239,10002,0,9049,8097,0
+Ukraine,East Europe and CIS,Other_sheep,sheep,Meat,7304,10796,9135,17440,0,15779,14118,0
+United Arab Emirates,Middle East,Middle East_sheep,sheep,Meat,3888,5747,4863,9283,0,8399,7515,0
+United Republic of Tanzania,Eastern Africa,Eastern Africa_sheep,sheep,Meat,11088,16389,13868,26475,0,23953,21432,0
+United States Virgin Islands,Caribbean,Caribbean_sheep,sheep,Meat,10,14,12,23,0,21,19,0
+Uruguay,South America,South America_sheep,sheep,Meat,20480,30271,25614,48900,0,44243,39586,0
+Uzbekistan,East Europe and CIS,Other_sheep,sheep,Meat,77490,114538,96917,185023,0,167402,149780,0
+Vanuatu,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Venezuela (Bolivarian Republic of),South America,South America_sheep,sheep,Meat,3024,4470,3782,7220,0,6533,5845,0
+Viet Nam,Southern Asia,Southern Asia_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Wallis and Futuna Islands,Island nation,Other_sheep,sheep,Meat,0,0,0,0,0,0,0,0
+Western Sahara,Northern Africa,Northern Africa_sheep,sheep,Meat,40,59,50,95,0,86,77,0
+Yemen,Middle East,Middle East_sheep,sheep,Meat,29775,44011,37240,71094,0,64323,57552,0
+Zambia,Eastern Africa,Eastern Africa_sheep,sheep,Meat,388,574,485,927,0,838,750,0
+Zimbabwe,Eastern Africa,Eastern Africa_sheep,sheep,Meat,197,291,247,471,0,426,381,0
+Afghanistan,Middle East,Middle East_chicken,chicken,Meat,26400,5251,9918,30922,0,0,0,0
+Algeria,Northern Africa,Northern Africa_chicken,chicken,Meat,267000,53106,100312,312737,0,0,0,0
+American Samoa,Island nation,Other_chicken,chicken,Meat,24,5,9,28,0,0,0,0
+Angola,Central Africa,Central Africa_chicken,chicken,Meat,29880,5943,11226,34998,0,0,0,0
+Antigua and Barbuda,Caribbean,Caribbean_chicken,chicken,Meat,42,8,16,49,0,0,0,0
+Argentina,South America,South America_chicken,chicken,Meat,1780000,354042,668746,2084914,0,0,0,0
+Armenia,East Europe and CIS,Other_chicken,chicken,Meat,8200,1631,3081,9605,0,0,0,0
+Azerbaijan,Middle East,Middle East_chicken,chicken,Meat,97452,19383,36613,114146,0,0,0,0
+Bahamas,Caribbean,Caribbean_chicken,chicken,Meat,6720,1337,2525,7871,0,0,0,0
+Bahrain,Middle East,Middle East_chicken,chicken,Meat,6450,1283,2423,7555,0,0,0,0
+Bangladesh,Middle East,Southern Asia_chicken,chicken,Meat,173600,34529,65222,203338,0,0,0,0
+Barbados,Caribbean,Caribbean_chicken,chicken,Meat,14700,2924,5523,17218,0,0,0,0
+Belarus,East Europe and CIS,Other_chicken,chicken,Meat,382500,76079,143705,448022,0,0,0,0
+Belize,Central America,Central America_chicken,chicken,Meat,16018,3186,6018,18762,0,0,0,0
+Benin,Western Africa,Western Africa_chicken,chicken,Meat,24400,4853,9167,28580,0,0,0,0
+Bhutan,Middle East,Middle East_chicken,chicken,Meat,455,90,171,533,0,0,0,0
+Bolivia (Plurinational State of),South America,South America_chicken,chicken,Meat,379505,75484,142580,444514,0,0,0,0
+Botswana,Southern Africa,Southern Africa_chicken,chicken,Meat,7200,1432,2705,8433,0,0,0,0
+Brazil,South America,South America_chicken,chicken,Meat,12387323,2463839,4653917,14509271,0,0,0,0
+British Virgin Islands,Caribbean,Caribbean_chicken,chicken,Meat,0,0,0,0,0,0,0,0
+Brunei Darussalam,Southern Asia,Southern Asia_chicken,chicken,Meat,26580,5287,9986,31133,0,0,0,0
+Burkina Faso,Western Africa,Western Africa_chicken,chicken,Meat,38160,7590,14337,44697,0,0,0,0
+Burundi,Eastern Africa,Eastern Africa_chicken,chicken,Meat,3690,734,1386,4322,0,0,0,0
+Cote d'Ivoire,Western Africa,Western Africa_chicken,chicken,Meat,47553,9458,17866,55699,0,0,0,0
+Cabo Verde,Western Africa,Western Africa_chicken,chicken,Meat,929,185,349,1088,0,0,0,0
+Cambodia,Southern Asia,Southern Asia_chicken,chicken,Meat,17500,3481,6575,20498,0,0,0,0
+Cameroon,Central Africa,Central Africa_chicken,chicken,Meat,72000,14321,27050,84334,0,0,0,0
+Central African Republic,Central Africa,Central Africa_chicken,chicken,Meat,6000,1193,2254,7028,0,0,0,0
+Chad,Central Africa,Central Africa_chicken,chicken,Meat,5355,1065,2012,6272,0,0,0,0
+Chile,South America,South America_chicken,chicken,Meat,577503,114865,216968,676429,0,0,0,0
+"China, Hong Kong SAR",Eastern Asia,Eastern Asia_chicken,chicken,Meat,27800,5529,10444,32562,0,0,0,0
+"China, Macao SAR",Eastern Asia,Eastern Asia_chicken,chicken,Meat,3600,716,1353,4217,0,0,0,0
+"China, mainland",China,China_chicken,chicken,Meat,12785400,2543016,4803475,14975539,0,0,0,0
+"China, Taiwan Province of",China,China_chicken,chicken,Meat,555000,110390,208514,650072,0,0,0,0
+Colombia,South America,South America_chicken,chicken,Meat,1275515,253700,479211,1494011,0,0,0,0
+Comoros,Eastern Africa,Eastern Africa_chicken,chicken,Meat,576,115,216,675,0,0,0,0
+Congo,Central Africa,Central Africa_chicken,chicken,Meat,6700,1333,2517,7848,0,0,0,0
+Cook Islands,Island nation,Other_chicken,chicken,Meat,20,4,8,23,0,0,0,0
+Costa Rica,Central America,Central America_chicken,chicken,Meat,114594,22793,43053,134224,0,0,0,0
+Cuba,Caribbean,Caribbean_chicken,chicken,Meat,32448,6454,12191,38006,0,0,0,0
+Cyprus,Western Asia,Western Asia_chicken,chicken,Meat,23939,4761,8994,28040,0,0,0,0
+Democratic People's Republic of Korea,Eastern Asia,Eastern Asia_chicken,chicken,Meat,33000,6564,12398,38653,0,0,0,0
+Democratic Republic of the Congo,Central Africa,Central Africa_chicken,chicken,Meat,11700,2327,4396,13704,0,0,0,0
+Djibouti,Eastern Africa,Eastern Africa_chicken,chicken,Meat,0,0,0,0,0,0,0,0
+Dominica,Caribbean,Caribbean_chicken,chicken,Meat,340,68,128,398,0,0,0,0
+Dominican Republic,Caribbean,Caribbean_chicken,chicken,Meat,271609,54023,102044,318136,0,0,0,0
+Ecuador,South America,South America_chicken,chicken,Meat,340000,67626,127738,398242,0,0,0,0
+Egypt,Northern Africa,Northern Africa_chicken,chicken,Meat,834000,165883,313334,976864,0,0,0,0
+El Salvador,Central America,Central America_chicken,chicken,Meat,113850,22645,42773,133353,0,0,0,0
+Equatorial Guinea,Central Africa,Central Africa_chicken,chicken,Meat,244,49,92,286,0,0,0,0
+Eritrea,Eastern Africa,Eastern Africa_chicken,chicken,Meat,1743,347,655,2042,0,0,0,0
+Ethiopia,Eastern Africa,Eastern Africa_chicken,chicken,Meat,61840,12300,23233,72433,0,0,0,0
+Falkland Islands (Malvinas),South America,South America_chicken,chicken,Meat,8,2,3,9,0,0,0,0
+Fiji,Island nation,Other_chicken,chicken,Meat,16500,3282,6199,19326,0,0,0,0
+French Guiana,South America,South America_chicken,chicken,Meat,470,93,177,551,0,0,0,0
+French Polynesia,Island nation,Other_chicken,chicken,Meat,630,125,237,738,0,0,0,0
+Gabon,Central Africa,Central Africa_chicken,chicken,Meat,3920,780,1473,4591,0,0,0,0
+Gambia,Western Africa,Western Africa_chicken,chicken,Meat,1550,308,582,1816,0,0,0,0
+Georgia,Western Asia,Western Asia_chicken,chicken,Meat,10100,2009,3795,11830,0,0,0,0
+Ghana,Western Africa,Western Africa_chicken,chicken,Meat,50985,10141,19155,59719,0,0,0,0
+Grenada,Caribbean,Caribbean_chicken,chicken,Meat,710,141,267,832,0,0,0,0
+Guadeloupe,Caribbean,Caribbean_chicken,chicken,Meat,1400,278,526,1640,0,0,0,0
+Guam,Island nation,Other_chicken,chicken,Meat,120,24,45,141,0,0,0,0
+Guatemala,Central America,Central America_chicken,chicken,Meat,192308,38250,72250,225250,0,0,0,0
+Guinea,Western Africa,Western Africa_chicken,chicken,Meat,6750,1343,2536,7906,0,0,0,0
+Guinea-Bissau,Western Africa,Western Africa_chicken,chicken,Meat,1925,383,723,2255,0,0,0,0
+Guyana,South America,South America_chicken,chicken,Meat,29280,5824,11000,34296,0,0,0,0
+Haiti,Caribbean,Caribbean_chicken,chicken,Meat,8100,1611,3043,9488,0,0,0,0
+Honduras,Central America,Central America_chicken,chicken,Meat,150700,29974,56618,176515,0,0,0,0
+India,Southern Asia,Southern Asia_chicken,chicken,Meat,2328000,463039,874630,2726786,0,0,0,0
+Indonesia,Southern Asia,Southern Asia_chicken,chicken,Meat,1837903,365559,690500,2152736,0,0,0,0
+Iran (Islamic Republic of),Middle East,Middle East_chicken,chicken,Meat,1956000,389048,734869,2291063,0,0,0,0
+Iraq,Middle East,Middle East_chicken,chicken,Meat,88000,17503,33062,103074,0,0,0,0
+Israel,Middle East,Middle East_chicken,chicken,Meat,443151,88143,166492,519063,0,0,0,0
+Jamaica,Caribbean,Caribbean_chicken,chicken,Meat,103820,20650,39005,121604,0,0,0,0
+Japan,Eastern Asia,Eastern Asia_chicken,chicken,Meat,1450000,288405,544765,1698385,0,0,0,0
+Jordan,Western Asia,Western Asia_chicken,chicken,Meat,196000,38984,73637,229575,0,0,0,0
+Kazakhstan,East Europe and CIS,Other_chicken,chicken,Meat,135796,27010,51019,159058,0,0,0,0
+Kenya,Eastern Africa,Eastern Africa_chicken,chicken,Meat,20900,4157,7852,24480,0,0,0,0
+Kiribati,Island nation,Other_chicken,chicken,Meat,765,152,287,896,0,0,0,0
+Kuwait,Western Asia,Western Asia_chicken,chicken,Meat,40500,8055,15216,47438,0,0,0,0
+Kyrgyzstan,East Europe and CIS,Other_chicken,chicken,Meat,6200,1233,2329,7262,0,0,0,0
+Lao People's Democratic Republic,Southern Asia,Southern Asia_chicken,chicken,Meat,20800,4137,7815,24363,0,0,0,0
+Lebanon,Middle East,Middle East_chicken,chicken,Meat,85000,16907,31935,99561,0,0,0,0
+Lesotho,Southern Africa,Southern Africa_chicken,chicken,Meat,1600,318,601,1874,0,0,0,0
+Liberia,Western Africa,Western Africa_chicken,chicken,Meat,11600,2307,4358,13587,0,0,0,0
+Libya,Northern Africa,Northern Africa_chicken,chicken,Meat,125000,24863,46963,146413,0,0,0,0
+Madagascar,Eastern Africa,Eastern Africa_chicken,chicken,Meat,38400,7638,14427,44978,0,0,0,0
+Malawi,Eastern Africa,Eastern Africa_chicken,chicken,Meat,22800,4535,8566,26706,0,0,0,0
+Malaysia,Southern Asia,Southern Asia_chicken,chicken,Meat,1245851,247800,468066,1459265,0,0,0,0
+Mali,Western Africa,Western Africa_chicken,chicken,Meat,44136,8779,16582,51696,0,0,0,0
+Martinique,Caribbean,Caribbean_chicken,chicken,Meat,1580,314,594,1851,0,0,0,0
+Mauritania,Western Africa,Western Africa_chicken,chicken,Meat,4640,923,1743,5435,0,0,0,0
+Mauritius,Eastern Africa,Eastern Africa_chicken,chicken,Meat,47000,9348,17658,55051,0,0,0,0
+Mexico,Central America,Central America_chicken,chicken,Meat,2808032,558518,1054978,3289048,0,0,0,0
+Micronesia (Federated States of),Island nation,Other_chicken,chicken,Meat,140,28,53,164,0,0,0,0
+Mongolia,Eastern Asia,Eastern Asia_chicken,chicken,Meat,392,78,147,459,0,0,0,0
+Montserrat,Caribbean,Caribbean_chicken,chicken,Meat,84,17,32,98,0,0,0,0
+Morocco,Northern Africa,Northern Africa_chicken,chicken,Meat,602000,119738,226171,705123,0,0,0,0
+Mozambique,Eastern Africa,Eastern Africa_chicken,chicken,Meat,24300,4833,9130,28463,0,0,0,0
+Myanmar,Southern Asia,Southern Asia_chicken,chicken,Meat,1082250,215260,406601,1267639,0,0,0,0
+Namibia,Southern Africa,Southern Africa_chicken,chicken,Meat,12480,2482,4689,14618,0,0,0,0
+Nauru,Island nation,Other_chicken,chicken,Meat,4,1,2,5,0,0,0,0
+Nepal,Southern Asia,Southern Asia_chicken,chicken,Meat,42810,8515,16084,50143,0,0,0,0
+Nicaragua,Central America,Central America_chicken,chicken,Meat,123374,24539,46352,144508,0,0,0,0
+Niger,Western Africa,Western Africa_chicken,chicken,Meat,17200,3421,6462,20146,0,0,0,0
+Nigeria,Western Africa,Western Africa_chicken,chicken,Meat,170000,33813,63869,199121,0,0,0,0
+Niue,Island nation,Other_chicken,chicken,Meat,20,4,8,23,0,0,0,0
+Occupied Palestinian Territory,Middle East,Middle East_chicken,chicken,Meat,66800,13287,25097,78243,0,0,0,0
+Oman,Middle East,Middle East_chicken,chicken,Meat,6144,1222,2308,7196,0,0,0,0
+Pakistan,Middle East,Middle East_chicken,chicken,Meat,907000,180402,340760,1062369,0,0,0,0
+Panama,Central America,Central America_chicken,chicken,Meat,146000,29039,54852,171010,0,0,0,0
+Papua New Guinea,Island nation,Other_chicken,chicken,Meat,6120,1217,2299,7168,0,0,0,0
+Paraguay,South America,South America_chicken,chicken,Meat,40000,7956,15028,46852,0,0,0,0
+Peru,South America,South America_chicken,chicken,Meat,1202614,239200,451822,1408622,0,0,0,0
+Philippines,Southern Asia,Southern Asia_chicken,chicken,Meat,1046929,208234,393331,1226268,0,0,0,0
+Puerto Rico,Central America,Central America_chicken,chicken,Meat,58000,11536,21791,67935,0,0,0,0
+Qatar,Middle East,Middle East_chicken,chicken,Meat,10000,1989,3757,11713,0,0,0,0
+R'union,Eastern Africa,Eastern Africa_chicken,chicken,Meat,17200,3421,6462,20146,0,0,0,0
+Republic of Korea,Eastern Asia,Eastern Asia_chicken,chicken,Meat,616000,122522,231431,721521,0,0,0,0
+Republic of Moldova,East Europe and CIS,Other_chicken,chicken,Meat,39000,7757,14652,45681,0,0,0,0
+Russian Federation,East Europe and CIS,Other_chicken,chicken,Meat,3462656,688722,1300920,4055809,0,0,0,0
+Rwanda,Eastern Africa,Eastern Africa_chicken,chicken,Meat,2520,501,947,2952,0,0,0,0
+Saint Kitts and Nevis,Central America,Central America_chicken,chicken,Meat,168,33,63,197,0,0,0,0
+Saint Lucia,Central America,Central America_chicken,chicken,Meat,1560,310,586,1827,0,0,0,0
+Saint Vincent and the Grenadines,Caribbean,Caribbean_chicken,chicken,Meat,480,95,180,562,0,0,0,0
+Samoa,Island nation,Other_chicken,chicken,Meat,600,119,225,703,0,0,0,0
+Sao Tome and Principe,Central Africa,Central Africa_chicken,chicken,Meat,385,77,145,451,0,0,0,0
+Saudi Arabia,Middle East,Middle East_chicken,chicken,Meat,576000,114566,216403,674669,0,0,0,0
+Senegal,Western Africa,Western Africa_chicken,chicken,Meat,64507,12830,24235,75557,0,0,0,0
+Seychelles,Eastern Africa,Eastern Africa_chicken,chicken,Meat,700,139,263,820,0,0,0,0
+Sierra Leone,Western Africa,Western Africa_chicken,chicken,Meat,15120,3007,5681,17710,0,0,0,0
+Singapore,Southern Asia,Southern Asia_chicken,chicken,Meat,92000,18299,34564,107760,0,0,0,0
+Solomon Islands,Island nation,Other_chicken,chicken,Meat,288,57,108,337,0,0,0,0
+Somalia,Eastern Africa,Eastern Africa_chicken,chicken,Meat,3600,716,1353,4217,0,0,0,0
+South Africa,Southern Africa,Southern Africa_chicken,chicken,Meat,1497000,297753,562423,1753436,0,0,0,0
+South Sudan,Eastern Africa,Eastern Africa_chicken,chicken,Meat,20000,3978,7514,23426,0,0,0,0
+Sri Lanka,Southern Asia,Southern Asia_chicken,chicken,Meat,106500,21183,40012,124743,0,0,0,0
+Sudan,Northern Africa,Northern Africa_chicken,chicken,Meat,45000,8951,16907,52709,0,0,0,0
+Suriname,South America,South America_chicken,chicken,Meat,7933,1578,2980,9292,0,0,0,0
+Swaziland,Southern Africa,Southern Africa_chicken,chicken,Meat,5850,1164,2198,6852,0,0,0,0
+Syrian Arab Republic,Middle East,Middle East_chicken,chicken,Meat,107519,21386,40395,125937,0,0,0,0
+Tajikistan,East Europe and CIS,Other_chicken,chicken,Meat,1300,259,488,1523,0,0,0,0
+Thailand,Southern Asia,Southern Asia_chicken,chicken,Meat,1379000,274283,518090,1615223,0,0,0,0
+Timor-Leste,Southern Asia,Southern Asia_chicken,chicken,Meat,800,159,301,937,0,0,0,0
+Togo,Western Africa,Western Africa_chicken,chicken,Meat,32000,6365,12022,37482,0,0,0,0
+Tokelau,Island nation,Other_chicken,chicken,Meat,5,1,2,6,0,0,0,0
+Tonga,Island nation,Other_chicken,chicken,Meat,276,55,104,323,0,0,0,0
+Trinidad and Tobago,Caribbean,Caribbean_chicken,chicken,Meat,67000,13326,25172,78477,0,0,0,0
+Tunisia,Northern Africa,Northern Africa_chicken,chicken,Meat,140000,27846,52598,163982,0,0,0,0
+Turkey,Middle East,Middle East_chicken,chicken,Meat,1758363,349738,660617,2059571,0,0,0,0
+Turkmenistan,East Europe and CIS,Other_chicken,chicken,Meat,21250,4227,7984,24890,0,0,0,0
+Tuvalu,Island nation,Other_chicken,chicken,Meat,50,10,19,59,0,0,0,0
+Uganda,Eastern Africa,Eastern Africa_chicken,chicken,Meat,64500,12829,24233,75549,0,0,0,0
+Ukraine,East Europe and CIS,Other_chicken,chicken,Meat,1168300,232375,438930,1368430,0,0,0,0
+United Arab Emirates,Middle East,Middle East_chicken,chicken,Meat,43200,8592,16230,50600,0,0,0,0
+United Republic of Tanzania,Eastern Africa,Eastern Africa_chicken,chicken,Meat,87408,17385,32839,102381,0,0,0,0
+United States Virgin Islands,Caribbean,Caribbean_chicken,chicken,Meat,78,16,29,91,0,0,0,0
+Uruguay,South America,South America_chicken,chicken,Meat,44000,8752,16531,51537,0,0,0,0
+Uzbekistan,East Europe and CIS,Other_chicken,chicken,Meat,33000,6564,12398,38653,0,0,0,0
+Vanuatu,Island nation,Other_chicken,chicken,Meat,900,179,338,1054,0,0,0,0
+Venezuela (Bolivarian Republic of),South America,South America_chicken,chicken,Meat,1276178,253832,479460,1494787,0,0,0,0
+Viet Nam,Southern Asia,Southern Asia_chicken,chicken,Meat,530500,105516,199309,621375,0,0,0,0
+Wallis and Futuna Islands,Island nation,Other_chicken,chicken,Meat,48,10,18,56,0,0,0,0
+Western Sahara,Northern Africa,Northern Africa_chicken,chicken,Meat,0,0,0,0,0,0,0,0
+Yemen,Middle East,Middle East_chicken,chicken,Meat,152500,30332,57294,178623,0,0,0,0
+Zambia,Eastern Africa,Eastern Africa_chicken,chicken,Meat,46000,9149,17282,53880,0,0,0,0
+Zimbabwe,Eastern Africa,Eastern Africa_chicken,chicken,Meat,63825,12695,23979,74758,0,0,0,0
+Afghanistan,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+Algeria,Northern Africa,Northern Africa_pig,pig,Meat,120,94,51,153,24,24,35,4
+American Samoa,Island nation,Other_pig,pig,Meat,315,247,134,402,62,62,93,10
+Angola,Central Africa,Central Africa_pig,pig,Meat,93600,73457,39789,119368,18364,18364,27546,3061
+Antigua and Barbuda,Caribbean,Caribbean_pig,pig,Meat,70,55,30,89,14,14,21,2
+Argentina,South America,South America_pig,pig,Meat,416000,326477,176842,530525,81619,81619,122429,13603
+Armenia,East Europe and CIS,Other_pig,pig,Meat,12600,9888,5356,16069,2472,2472,3708,412
+Azerbaijan,Middle East,Middle East_pig,pig,Meat,743,583,316,948,146,146,219,24
+Bahamas,Caribbean,Caribbean_pig,pig,Meat,334,262,142,426,66,66,98,11
+Bahrain,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+Bangladesh,Middle East,Southern Asia_pig,pig,Meat,0,0,0,0,0,0,0,0
+Barbados,Caribbean,Caribbean_pig,pig,Meat,3040,2386,1292,3877,596,596,895,99
+Belarus,East Europe and CIS,Other_pig,pig,Meat,468900,367993,199329,597988,91998,91998,137997,15333
+Belize,Central America,Central America_pig,pig,Meat,1342,1053,570,1711,263,263,395,44
+Benin,Western Africa,Western Africa_pig,pig,Meat,5096,3999,2166,6499,1000,1000,1500,167
+Bhutan,Middle East,Middle East_pig,pig,Meat,991,778,421,1264,194,194,292,32
+Bolivia (Plurinational State of),South America,South America_pig,pig,Meat,90599,71102,38514,115541,17776,17776,26663,2963
+Botswana,Southern Africa,Southern Africa_pig,pig,Meat,500,392,213,638,98,98,147,16
+Brazil,South America,South America_pig,pig,Meat,3280000,2574144,1394328,4182984,643536,643536,965304,107256
+British Virgin Islands,Caribbean,Caribbean_pig,pig,Meat,20,16,9,26,4,4,6,1
+Brunei Darussalam,Southern Asia,Southern Asia_pig,pig,Meat,44,35,19,56,9,9,13,1
+Burkina Faso,Western Africa,Western Africa_pig,pig,Meat,32640,25616,13875,41626,6404,6404,9606,1067
+Burundi,Eastern Africa,Eastern Africa_pig,pig,Meat,5351,4199,2275,6824,1050,1050,1575,175
+Cote d'Ivoire,Western Africa,Western Africa_pig,pig,Meat,7323,5747,3113,9339,1437,1437,2155,239
+Cabo Verde,Western Africa,Western Africa_pig,pig,Meat,2960,2323,1258,3775,581,581,871,97
+Cambodia,Southern Asia,Southern Asia_pig,pig,Meat,98500,77303,41872,125617,19326,19326,28989,3221
+Cameroon,Central Africa,Central Africa_pig,pig,Meat,29400,23073,12498,37494,5768,5768,8652,961
+Central African Republic,Central Africa,Central Africa_pig,pig,Meat,17000,13342,7227,21680,3335,3335,5003,556
+Chad,Central Africa,Central Africa_pig,pig,Meat,613,481,261,782,120,120,180,20
+Chile,South America,South America_pig,pig,Meat,550033,431666,233819,701457,107916,107916,161875,17986
+"China, Hong Kong SAR",Eastern Asia,Eastern Asia_pig,pig,Meat,123700,97080,52585,157755,24270,24270,36405,4045
+"China, Macao SAR",Eastern Asia,Eastern Asia_pig,pig,Meat,8300,6514,3528,10585,1628,1628,2443,271
+"China, mainland",China,China_pig,pig,Meat,52733000,41384858,22416798,67250395,10346215,10346215,15519322,1724369
+"China, Taiwan Province of",China,China_pig,pig,Meat,887000,696118,377064,1131191,174029,174029,261044,29005
+Colombia,South America,South America_pig,pig,Meat,243133,190811,103356,310068,47703,47703,71554,7950
+Comoros,Eastern Africa,Eastern Africa_pig,pig,Meat,0,0,0,0,0,0,0,0
+Congo,Central Africa,Central Africa_pig,pig,Meat,2000,1570,850,2551,392,392,589,65
+Cook Islands,Island nation,Other_pig,pig,Meat,555,436,236,708,109,109,163,18
+Costa Rica,Central America,Central America_pig,pig,Meat,53883,42287,22906,68717,10572,10572,15858,1762
+Cuba,Caribbean,Caribbean_pig,pig,Meat,193314,151713,82178,246533,37928,37928,56892,6321
+Cyprus,Western Asia,Western Asia_pig,pig,Meat,48664,38192,20687,62061,9548,9548,14322,1591
+Democratic People's Republic of Korea,Eastern Asia,Eastern Asia_pig,pig,Meat,112500,88290,47824,143471,22073,22073,33109,3679
+Democratic Republic of the Congo,Central Africa,Central Africa_pig,pig,Meat,25000,19620,10628,31883,4905,4905,7358,818
+Djibouti,Eastern Africa,Eastern Africa_pig,pig,Meat,0,0,0,0,0,0,0,0
+Dominica,Caribbean,Caribbean_pig,pig,Meat,420,330,179,536,82,82,124,14
+Dominican Republic,Caribbean,Caribbean_pig,pig,Meat,79082,62064,33618,100853,15516,15516,23274,2586
+Ecuador,South America,South America_pig,pig,Meat,218800,171714,93012,279036,42929,42929,64393,7155
+Egypt,Northern Africa,Northern Africa_pig,pig,Meat,470,369,200,599,92,92,138,15
+El Salvador,Central America,Central America_pig,pig,Meat,7978,6261,3391,10174,1565,1565,2348,261
+Equatorial Guinea,Central Africa,Central Africa_pig,pig,Meat,167,131,71,213,33,33,49,5
+Eritrea,Eastern Africa,Eastern Africa_pig,pig,Meat,0,0,0,0,0,0,0,0
+Ethiopia,Eastern Africa,Eastern Africa_pig,pig,Meat,1875,1472,797,2391,368,368,552,61
+Falkland Islands (Malvinas),South America,South America_pig,pig,Meat,0,0,0,0,0,0,0,0
+Fiji,Island nation,Other_pig,pig,Meat,4050,3178,1722,5165,795,795,1192,132
+French Guiana,South America,South America_pig,pig,Meat,416,326,177,531,82,82,122,14
+French Polynesia,Island nation,Other_pig,pig,Meat,1600,1256,680,2040,314,314,471,52
+Gabon,Central Africa,Central Africa_pig,pig,Meat,3360,2637,1428,4285,659,659,989,110
+Gambia,Western Africa,Western Africa_pig,pig,Meat,200,157,85,255,39,39,59,7
+Georgia,Western Asia,Western Asia_pig,pig,Meat,14900,11694,6334,19002,2923,2923,4385,487
+Ghana,Western Africa,Western Africa_pig,pig,Meat,21432,16820,9111,27332,4205,4205,6307,701
+Grenada,Caribbean,Caribbean_pig,pig,Meat,250,196,106,319,49,49,74,8
+Guadeloupe,Caribbean,Caribbean_pig,pig,Meat,1500,1177,638,1913,294,294,441,49
+Guam,Island nation,Other_pig,pig,Meat,156,122,66,199,31,31,46,5
+Guatemala,Central America,Central America_pig,pig,Meat,61500,48265,26144,78431,12066,12066,18099,2011
+Guinea,Western Africa,Western Africa_pig,pig,Meat,2400,1884,1020,3061,471,471,706,78
+Guinea-Bissau,Western Africa,Western Africa_pig,pig,Meat,15200,11929,6462,19385,2982,2982,4473,497
+Guyana,South America,South America_pig,pig,Meat,572,449,243,729,112,112,168,19
+Haiti,Caribbean,Caribbean_pig,pig,Meat,33000,25898,14028,42085,6475,6475,9712,1079
+Honduras,Central America,Central America_pig,pig,Meat,13400,10516,5696,17089,2629,2629,3944,438
+India,Southern Asia,Southern Asia_pig,pig,Meat,353500,277427,150273,450819,69357,69357,104035,11559
+Indonesia,Southern Asia,Southern Asia_pig,pig,Meat,742500,582714,315637,946910,145679,145679,218518,24280
+Iran (Islamic Republic of),Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+Iraq,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+Israel,Middle East,Middle East_pig,pig,Meat,16267,12766,6915,20745,3192,3192,4787,532
+Jamaica,Caribbean,Caribbean_pig,pig,Meat,9640,7565,4098,12294,1891,1891,2837,315
+Japan,Eastern Asia,Eastern Asia_pig,pig,Meat,1309132,1027407,556512,1669536,256852,256852,385278,42809
+Jordan,Western Asia,Western Asia_pig,pig,Meat,0,0,0,0,0,0,0,0
+Kazakhstan,East Europe and CIS,Other_pig,pig,Meat,99906,78406,42470,127410,19602,19602,29402,3267
+Kenya,Eastern Africa,Eastern Africa_pig,pig,Meat,15400,12086,6547,19640,3021,3021,4532,504
+Kiribati,Island nation,Other_pig,pig,Meat,920,722,391,1173,181,181,271,30
+Kuwait,Western Asia,Western Asia_pig,pig,Meat,0,0,0,0,0,0,0,0
+Kyrgyzstan,East Europe and CIS,Other_pig,pig,Meat,16300,12792,6929,20787,3198,3198,4797,533
+Lao People's Democratic Republic,Southern Asia,Southern Asia_pig,pig,Meat,64000,50227,27206,81619,12557,12557,18835,2093
+Lebanon,Middle East,Middle East_pig,pig,Meat,770,604,327,982,151,151,227,25
+Lesotho,Southern Africa,Southern Africa_pig,pig,Meat,3700,2904,1573,4719,726,726,1089,121
+Liberia,Western Africa,Western Africa_pig,pig,Meat,9800,7691,4166,12498,1923,1923,2884,320
+Libya,Northern Africa,Northern Africa_pig,pig,Meat,0,0,0,0,0,0,0,0
+Madagascar,Eastern Africa,Eastern Africa_pig,pig,Meat,58450,45872,24847,74541,11468,11468,17202,1911
+Malawi,Eastern Africa,Eastern Africa_pig,pig,Meat,89035,69875,37849,113546,17469,17469,26203,2911
+Malaysia,Southern Asia,Southern Asia_pig,pig,Meat,231420,181618,98377,295130,45405,45405,68107,7567
+Mali,Western Africa,Western Africa_pig,pig,Meat,2600,2040,1105,3316,510,510,765,85
+Martinique,Caribbean,Caribbean_pig,pig,Meat,1100,863,468,1403,216,216,324,36
+Mauritania,Western Africa,Western Africa_pig,pig,Meat,0,0,0,0,0,0,0,0
+Mauritius,Eastern Africa,Eastern Africa_pig,pig,Meat,850,667,361,1084,167,167,250,28
+Mexico,Central America,Central America_pig,pig,Meat,1283672,1007426,545689,1637067,251856,251856,377785,41976
+Micronesia (Federated States of),Island nation,Other_pig,pig,Meat,876,687,372,1117,172,172,258,29
+Mongolia,Eastern Asia,Eastern Asia_pig,pig,Meat,527,414,224,672,103,103,155,17
+Montserrat,Caribbean,Caribbean_pig,pig,Meat,65,51,28,83,13,13,19,2
+Morocco,Northern Africa,Northern Africa_pig,pig,Meat,650,510,276,829,128,128,191,21
+Mozambique,Eastern Africa,Eastern Africa_pig,pig,Meat,129600,101710,55093,165279,25428,25428,38141,4238
+Myanmar,Southern Asia,Southern Asia_pig,pig,Meat,620620,487063,263826,791477,121766,121766,182648,20294
+Namibia,Southern Africa,Southern Africa_pig,pig,Meat,4675,3669,1987,5962,917,917,1376,153
+Nauru,Island nation,Other_pig,pig,Meat,72,57,31,92,14,14,21,2
+Nepal,Southern Asia,Southern Asia_pig,pig,Meat,18709,14683,7953,23860,3671,3671,5506,612
+Nicaragua,Central America,Central America_pig,pig,Meat,8025,6298,3411,10234,1575,1575,2362,262
+Niger,Western Africa,Western Africa_pig,pig,Meat,1485,1165,631,1894,291,291,437,49
+Nigeria,Western Africa,Western Africa_pig,pig,Meat,254250,199535,108082,324245,49884,49884,74826,8314
+Niue,Island nation,Other_pig,pig,Meat,61,48,26,78,12,12,18,2
+Occupied Palestinian Territory,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+Oman,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+Pakistan,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+Panama,Central America,Central America_pig,pig,Meat,34300,26919,14581,43743,6730,6730,10094,1122
+Papua New Guinea,Island nation,Other_pig,pig,Meat,74400,58389,31627,94882,14597,14597,21896,2433
+Paraguay,South America,South America_pig,pig,Meat,176000,138125,74818,224453,34531,34531,51797,5755
+Peru,South America,South America_pig,pig,Meat,127684,100206,54278,162835,25052,25052,37577,4175
+Philippines,Southern Asia,Southern Asia_pig,pig,Meat,1681128,1319349,714648,2143943,329837,329837,494756,54973
+Puerto Rico,Central America,Central America_pig,pig,Meat,12500,9810,5314,15941,2453,2453,3679,409
+Qatar,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+R'union,Eastern Africa,Eastern Africa_pig,pig,Meat,15000,11772,6377,19130,2943,2943,4415,491
+Republic of Korea,Eastern Asia,Eastern Asia_pig,pig,Meat,1007000,790294,428076,1284227,197573,197573,296360,32929
+Republic of Moldova,East Europe and CIS,Other_pig,pig,Meat,65500,51404,27844,83532,12851,12851,19277,2142
+Russian Federation,East Europe and CIS,Other_pig,pig,Meat,2816178,2210136,1197157,3591472,552534,552534,828801,92089
+Rwanda,Eastern Africa,Eastern Africa_pig,pig,Meat,11004,8636,4678,14033,2159,2159,3238,360
+Saint Kitts and Nevis,Central America,Central America_pig,pig,Meat,70,55,30,89,14,14,21,2
+Saint Lucia,Central America,Central America_pig,pig,Meat,1425,1118,606,1817,280,280,419,47
+Saint Vincent and the Grenadines,Caribbean,Caribbean_pig,pig,Meat,306,240,130,390,60,60,90,10
+Samoa,Island nation,Other_pig,pig,Meat,4250,3335,1807,5420,834,834,1251,139
+Sao Tome and Principe,Central Africa,Central Africa_pig,pig,Meat,361,283,153,460,71,71,106,12
+Saudi Arabia,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+Senegal,Western Africa,Western Africa_pig,pig,Meat,11548,9063,4909,14727,2266,2266,3399,378
+Seychelles,Eastern Africa,Eastern Africa_pig,pig,Meat,550,432,234,701,108,108,162,18
+Sierra Leone,Western Africa,Western Africa_pig,pig,Meat,2320,1821,986,2959,455,455,683,76
+Singapore,Southern Asia,Southern Asia_pig,pig,Meat,19600,15382,8332,24996,3846,3846,5768,641
+Solomon Islands,Island nation,Other_pig,pig,Meat,2400,1884,1020,3061,471,471,706,78
+Somalia,Eastern Africa,Eastern Africa_pig,pig,Meat,100,78,43,128,20,20,29,3
+South Africa,Southern Africa,Southern Africa_pig,pig,Meat,216000,169517,91822,275465,42379,42379,63569,7063
+South Sudan,Eastern Africa,Eastern Africa_pig,pig,Meat,0,0,0,0,0,0,0,0
+Sri Lanka,Southern Asia,Southern Asia_pig,pig,Meat,1540,1209,655,1964,302,302,453,50
+Sudan,Northern Africa,Northern Africa_pig,pig,Meat,0,0,0,0,0,0,0,0
+Suriname,South America,South America_pig,pig,Meat,1894,1486,805,2415,372,372,557,62
+Swaziland,Southern Africa,Southern Africa_pig,pig,Meat,1310,1028,557,1671,257,257,386,43
+Syrian Arab Republic,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+Tajikistan,East Europe and CIS,Other_pig,pig,Meat,3200,2511,1360,4081,628,628,942,105
+Thailand,Southern Asia,Southern Asia_pig,pig,Meat,967296,759134,411198,1233593,189783,189783,284675,31631
+Timor-Leste,Southern Asia,Southern Asia_pig,pig,Meat,10000,7848,4251,12753,1962,1962,2943,327
+Togo,Western Africa,Western Africa_pig,pig,Meat,10080,7911,4285,12855,1978,1978,2967,330
+Tokelau,Island nation,Other_pig,pig,Meat,20,16,9,26,4,4,6,1
+Tonga,Island nation,Other_pig,pig,Meat,1650,1295,701,2104,324,324,486,54
+Trinidad and Tobago,Caribbean,Caribbean_pig,pig,Meat,3500,2747,1488,4464,687,687,1030,114
+Tunisia,Northern Africa,Northern Africa_pig,pig,Meat,110,86,47,140,22,22,32,4
+Turkey,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+Turkmenistan,East Europe and CIS,Other_pig,pig,Meat,300,235,128,383,59,59,88,10
+Tuvalu,Island nation,Other_pig,pig,Meat,114,89,48,145,22,22,34,4
+Uganda,Eastern Africa,Eastern Africa_pig,pig,Meat,117000,91822,49737,149210,22955,22955,34433,3826
+Ukraine,East Europe and CIS,Other_pig,pig,Meat,748300,587266,318102,954307,146816,146816,220225,24469
+United Arab Emirates,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+United Republic of Tanzania,Eastern Africa,Eastern Africa_pig,pig,Meat,14400,11301,6121,18364,2825,2825,4238,471
+United States Virgin Islands,Caribbean,Caribbean_pig,pig,Meat,109,86,46,139,21,21,32,4
+Uruguay,South America,South America_pig,pig,Meat,23500,18443,9990,29970,4611,4611,6916,768
+Uzbekistan,East Europe and CIS,Other_pig,pig,Meat,26000,20405,11053,33158,5101,5101,7652,850
+Vanuatu,Island nation,Other_pig,pig,Meat,3519,2762,1496,4488,690,690,1036,115
+Venezuela (Bolivarian Republic of),South America,South America_pig,pig,Meat,242574,190372,103118,309355,47593,47593,71390,7932
+Viet Nam,Southern Asia,Southern Asia_pig,pig,Meat,3217900,2525408,1367929,4103788,631352,631352,947028,105225
+Wallis and Futuna Islands,Island nation,Other_pig,pig,Meat,315,247,134,402,62,62,93,10
+Western Sahara,Northern Africa,Northern Africa_pig,pig,Meat,0,0,0,0,0,0,0,0
+Yemen,Middle East,Middle East_pig,pig,Meat,0,0,0,0,0,0,0,0
+Zambia,Eastern Africa,Eastern Africa_pig,pig,Meat,35244,27659,14982,44947,6915,6915,10372,1152
+Zimbabwe,Eastern Africa,Eastern Africa_pig,pig,Meat,31900,25035,13561,40682,6259,6259,9388,1043
+Afghanistan,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,503151,129813,692336,1298129,1211587,432710,302897,0
+Algeria,Northern Africa,Northern Africa_dairy cow,dairy cow,Dairy & eggs,127033,32775,174798,327746,305896,109249,76474,0
+American Samoa,Island nation,Other_dairy cow,dairy cow,Dairy & eggs,5,1,7,13,12,4,3,0
+Angola,Central Africa,Central Africa_dairy cow,dairy cow,Dairy & eggs,34503,8902,47476,89017,83083,29672,20771,0
+Antigua and Barbuda,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,1003,259,1380,2587,2414,862,604,0
+Argentina,South America,South America_dairy cow,dairy cow,Dairy & eggs,323699,83514,445410,835144,779468,278381,194867,0
+Armenia,East Europe and CIS,Other_dairy cow,dairy cow,Dairy & eggs,44066,11369,60635,113690,106111,37897,26528,0
+Azerbaijan,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,162100,41822,223049,418218,390337,139406,97584,0
+Bahamas,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,118,30,162,304,284,101,71,0
+Bahrain,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,610,157,840,1574,1469,525,367,0
+Bangladesh,Middle East,Southern Asia_dairy cow,dairy cow,Dairy & eggs,507759,131002,698676,1310018,1222683,436673,305671,0
+Barbados,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,525,135,723,1355,1265,452,316,0
+Belarus,East Europe and CIS,Other_dairy cow,dairy cow,Dairy & eggs,220753,56954,303757,569544,531574,189848,132894,0
+Belize,Central America,Central America_dairy cow,dairy cow,Dairy & eggs,738,190,1016,1904,1777,635,444,0
+Benin,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,25573,6598,35188,65977,61579,21992,15395,0
+Bhutan,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,18681,4820,25706,48198,44985,16066,11246,0
+Bolivia (Plurinational State of),South America,South America_dairy cow,dairy cow,Dairy & eggs,27897,7198,38387,71975,67177,23992,16794,0
+Botswana,Southern Africa,Southern Africa_dairy cow,dairy cow,Dairy & eggs,33488,8640,46080,86399,80639,28800,20160,0
+Brazil,South America,South America_dairy cow,dairy cow,Dairy & eggs,3388220,874161,4662191,8741608,8158834,2913869,2039709,0
+British Virgin Islands,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,0,0,0,0,0,0,0,0
+Brunei Darussalam,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,21,5,29,54,51,18,13,0
+Burkina Faso,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,123430,31845,169840,318450,297220,106150,74305,0
+Burundi,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,12177,3142,16756,31418,29323,10473,7331,0
+Cabo Verde,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,651,168,896,1680,1568,560,392,0
+Cambodia,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,28963,7472,39853,74725,69743,24908,17436,0
+Cameroon,Central Africa,Central Africa_dairy cow,dairy cow,Dairy & eggs,32981,8509,45381,85090,79417,28363,19854,0
+Central African Republic,Central Africa,Central Africa_dairy cow,dairy cow,Dairy & eggs,29429,7593,40494,75926,70865,25309,17716,0
+Chad,Central Africa,Central Africa_dairy cow,dairy cow,Dairy & eggs,74790,19296,102911,192958,180094,64319,45024,0
+Chile,South America,South America_dairy cow,dairy cow,Dairy & eggs,150558,38844,207168,388439,362543,129480,90636,0
+"China, Hong Kong SAR",Eastern Asia,Eastern Asia_dairy cow,dairy cow,Dairy & eggs,0,0,0,0,0,0,0,0
+"China, mainland",China,China_dairy cow,dairy cow,Dairy & eggs,2511603,647994,3455966,6479936,6047940,2159979,1511985,0
+"China, Taiwan Province of",China,China_dairy cow,dairy cow,Dairy & eggs,12277,3167,16893,31674,29562,10558,7391,0
+Colombia,South America,South America_dairy cow,dairy cow,Dairy & eggs,788214,203359,1084583,2033593,1898020,677864,474505,0
+Comoros,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,1066,275,1466,2749,2566,916,641,0
+Congo,Central Africa,Central Africa_dairy cow,dairy cow,Dairy & eggs,274,71,377,707,660,236,165,0
+Costa Rica,Central America,Central America_dairy cow,dairy cow,Dairy & eggs,116166,29971,159844,299707,279727,99902,69932,0
+Cote d'Ivoire,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,29204,7535,40185,75346,70323,25115,17581,0
+Cuba,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,63703,16435,87655,164353,153396,54784,38349,0
+Cyprus,Western Asia,Western Asia_dairy cow,dairy cow,Dairy & eggs,3058,789,4207,7888,7363,2629,1841,0
+Democratic People's Republic of Korea,Eastern Asia,Eastern Asia_dairy cow,dairy cow,Dairy & eggs,8718,2249,11996,22492,20993,7497,5248,0
+Democratic Republic of the Congo,Central Africa,Central Africa_dairy cow,dairy cow,Dairy & eggs,934,241,1285,2409,2248,803,562,0
+Djibouti,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,2689,694,3700,6938,6476,2313,1619,0
+Dominica,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,1273,328,1752,3285,3066,1095,766,0
+Dominican Republic,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,70020,18065,96348,180653,168609,60218,42152,0
+Ecuador,South America,South America_dairy cow,dairy cow,Dairy & eggs,186574,48136,256725,481360,449269,160453,112317,0
+Egypt,Northern Africa,Northern Africa_dairy cow,dairy cow,Dairy & eggs,197088,50849,271193,508487,474588,169496,118647,0
+El Salvador,Central America,Central America_dairy cow,dairy cow,Dairy & eggs,41477,10701,57073,107011,99877,35670,24969,0
+Eritrea,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,72253,18641,99420,186413,173985,62138,43496,0
+Ethiopia,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,1106120,285379,1522021,2853790,2663537,951263,665884,0
+Falkland Islands (Malvinas),South America,South America_dairy cow,dairy cow,Dairy & eggs,251,65,345,647,604,216,151,0
+Fiji,Island nation,Other_dairy cow,dairy cow,Dairy & eggs,4886,1260,6723,12605,11764,4202,2941,0
+French Guiana,South America,South America_dairy cow,dairy cow,Dairy & eggs,96,25,132,247,230,82,58,0
+French Polynesia,Island nation,Other_dairy cow,dairy cow,Dairy & eggs,81,21,112,209,195,70,49,0
+Gabon,Central Africa,Central Africa_dairy cow,dairy cow,Dairy & eggs,1015,262,1396,2618,2444,873,611,0
+Gambia,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,5480,1414,7540,14138,13195,4713,3299,0
+Georgia,Western Asia,Western Asia_dairy cow,dairy cow,Dairy & eggs,75024,19356,103233,193563,180659,64521,45165,0
+Ghana,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,31966,8247,43985,82472,76974,27491,19243,0
+Grenada,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,103,27,142,267,249,89,62,0
+Guadeloupe,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,18,5,24,45,42,15,11,0
+Guatemala,Central America,Central America_dairy cow,dairy cow,Dairy & eggs,100342,25888,138071,258883,241624,86294,60406,0
+Guinea,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,63323,16337,87132,163373,152481,54458,38120,0
+Guinea-Bissau,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,10452,2697,14382,26967,25169,8989,6292,0
+Guyana,South America,South America_dairy cow,dairy cow,Dairy & eggs,5609,1447,7718,14471,13507,4824,3377,0
+Haiti,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,33737,8704,46422,87042,81239,29014,20310,0
+Honduras,Central America,Central America_dairy cow,dairy cow,Dairy & eggs,82792,21360,113922,213603,199363,71201,49841,0
+India,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,9423470,2431255,12966695,24312552,22691715,8104184,5672929,0
+Indonesia,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,133482,34438,183671,344383,321424,114794,80356,0
+Iran (Islamic Republic of),Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,368272,95014,506742,950141,886798,316714,221699,0
+Iraq,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,45707,11792,62893,117924,110062,39308,27516,0
+Israel,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,15692,4049,21593,40486,37787,13495,9447,0
+Jamaica,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,2148,554,2956,5543,5173,1848,1293,0
+Japan,Eastern Asia,Eastern Asia_dairy cow,dairy cow,Dairy & eggs,205931,53130,283361,531301,495881,177100,123970,0
+Jordan,Western Asia,Western Asia_dairy cow,dairy cow,Dairy & eggs,4845,1250,6666,12499,11666,4166,2917,0
+Kazakhstan,East Europe and CIS,Other_dairy cow,dairy cow,Dairy & eggs,316496,81656,435499,816561,762123,272187,190531,0
+Kenya,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,582489,150282,801505,1502821,1402633,500940,350658,0
+Kuwait,Western Asia,Western Asia_dairy cow,dairy cow,Dairy & eggs,1183,305,1628,3053,2849,1018,712,0
+Kyrgyzstan,East Europe and CIS,Other_dairy cow,dairy cow,Dairy & eggs,104400,26935,143654,269352,251395,89784,62849,0
+Lao People's Democratic Republic,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,7556,1949,10396,19493,18194,6498,4548,0
+Lebanon,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,8359,2157,11502,21566,20129,7189,5032,0
+Lesotho,Southern Africa,Southern Africa_dairy cow,dairy cow,Dairy & eggs,13750,3548,18921,35476,33111,11825,8278,0
+Liberia,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,660,170,908,1702,1588,567,397,0
+Libya,Northern Africa,Northern Africa_dairy cow,dairy cow,Dairy & eggs,16689,4306,22964,43057,40186,14352,10047,0
+Madagascar,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,187736,48436,258325,484359,452068,161453,113017,0
+Malawi,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,12177,3142,16756,31418,29323,10473,7331,0
+Malaysia,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,32531,8393,44763,83930,78335,27977,19584,0
+Mali,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,223254,57599,307197,575994,537595,191998,134399,0
+Martinique,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,25,7,35,66,61,22,15,0
+Mauritania,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,36532,9425,50269,94254,87970,31418,21993,0
+Mauritius,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,457,118,628,1178,1100,393,275,0
+Mexico,Central America,Central America_dairy cow,dairy cow,Dairy & eggs,355772,91789,489543,917893,856700,305964,214175,0
+Mongolia,Eastern Asia,Eastern Asia_dairy cow,dairy cow,Dairy & eggs,147375,38023,202788,380228,354879,126743,88720,0
+Montserrat,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,398,103,547,1026,958,342,240,0
+Morocco,Northern Africa,Northern Africa_dairy cow,dairy cow,Dairy & eggs,200015,51604,275221,516038,481636,172013,120409,0
+Mozambique,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,41606,10734,57250,107344,100188,35781,25047,0
+Myanmar,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,545680,140785,750855,1407854,1313997,469285,328499,0
+Namibia,Southern Africa,Southern Africa_dairy cow,dairy cow,Dairy & eggs,22630,5838,31139,58385,54493,19462,13623,0
+Nepal,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,215248,55534,296181,555339,518317,185113,129579,0
+Nicaragua,Central America,Central America_dairy cow,dairy cow,Dairy & eggs,149820,38654,206152,386535,360766,128845,90192,0
+Niger,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,155263,40058,213641,400578,373873,133526,93468,0
+Nigeria,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,239998,61919,330237,619194,577914,206398,144479,0
+Niue,Island nation,Other_dairy cow,dairy cow,Dairy & eggs,13,3,18,33,31,11,8,0
+Occupied Palestinian Territory,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,2770,715,3811,7146,6669,2382,1667,0
+Oman,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,21421,5527,29476,55267,51582,18422,12896,0
+Pakistan,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,1407203,363058,1936312,3630585,3388546,1210195,847136,0
+Panama,Central America,Central America_dairy cow,dairy cow,Dairy & eggs,24355,6284,33512,62836,58647,20945,14662,0
+Papua New Guinea,Island nation,Other_dairy cow,dairy cow,Dairy & eggs,286,74,394,739,690,246,172,0
+Paraguay,South America,South America_dairy cow,dairy cow,Dairy & eggs,33211,8569,45699,85685,79973,28562,19993,0
+Peru,South America,South America_dairy cow,dairy cow,Dairy & eggs,117273,30256,161367,302564,282393,100855,70598,0
+Philippines,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,1154,298,1588,2978,2780,993,695,0
+Puerto Rico,Central America,Central America_dairy cow,dairy cow,Dairy & eggs,14761,3808,20311,38082,35543,12694,8886,0
+Qatar,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,648,167,891,1671,1559,557,390,0
+Republic of Korea,Eastern Asia,Eastern Asia_dairy cow,dairy cow,Dairy & eggs,42760,11032,58837,110320,102965,36773,25741,0
+Republic of Moldova,East Europe and CIS,Other_dairy cow,dairy cow,Dairy & eggs,19528,5038,26871,50383,47024,16794,11756,0
+R'union,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,2638,681,3631,6807,6353,2269,1588,0
+Russian Federation,East Europe and CIS,Other_dairy cow,dairy cow,Dairy & eggs,1128435,291136,1552726,2911362,2717271,970454,679318,0
+Rwanda,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,28820,7436,39656,74356,69399,24785,17350,0
+Saint Lucia,Central America,Central America_dairy cow,dairy cow,Dairy & eggs,118,30,162,305,284,102,71,0
+Saint Vincent and the Grenadines,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,159,41,219,411,383,137,96,0
+Samoa,Island nation,Other_dairy cow,dairy cow,Dairy & eggs,239,62,329,616,575,205,144,0
+Sao Tome and Principe,Central Africa,Central Africa_dairy cow,dairy cow,Dairy & eggs,105,27,144,270,252,90,63,0
+Saudi Arabia,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,31136,8033,42843,80330,74975,26777,18744,0
+Senegal,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,81792,21102,112546,211023,196955,70341,49239,0
+Seychelles,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,2,1,3,5,5,2,1,0
+Sierra Leone,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,12076,3116,16617,31156,29079,10385,7270,0
+Solomon Islands,Island nation,Other_dairy cow,dairy cow,Dairy & eggs,350,90,482,903,843,301,211,0
+Somalia,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,125326,32334,172449,323342,301786,107781,75447,0
+South Africa,Southern Africa,Southern Africa_dairy cow,dairy cow,Dairy & eggs,101479,26182,139635,261816,244361,87272,61090,0
+South Sudan,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,761092,196362,1047262,1963617,1832709,654539,458177,0
+Sri Lanka,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,62846,16214,86475,162141,151332,54047,37833,0
+Sudan,Northern Africa,Northern Africa_dairy cow,dairy cow,Dairy & eggs,1843226,475552,2536279,4755523,4438488,1585174,1109622,0
+Suriname,South America,South America_dairy cow,dairy cow,Dairy & eggs,295,76,406,762,711,254,178,0
+Swaziland,Southern Africa,Southern Africa_dairy cow,dairy cow,Dairy & eggs,14917,3849,20526,38487,35921,12829,8980,0
+Syrian Arab Republic,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,77006,19868,105960,198676,185431,66225,46358,0
+Tajikistan,East Europe and CIS,Other_dairy cow,dairy cow,Dairy & eggs,151455,39075,208402,390753,364703,130251,91176,0
+Thailand,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,76605,19764,105409,197641,184465,65880,46116,0
+Togo,Western Africa,Western Africa_dairy cow,dairy cow,Dairy & eggs,5784,1492,7959,14923,13929,4974,3482,0
+Tonga,Island nation,Other_dairy cow,dairy cow,Dairy & eggs,41,11,56,106,99,35,25,0
+Trinidad and Tobago,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,2228,575,3066,5748,5365,1916,1341,0
+Tunisia,Northern Africa,Northern Africa_dairy cow,dairy cow,Dairy & eggs,78213,20179,107621,201788,188336,67263,47084,0
+Turkey,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,698343,180172,960919,1801724,1681609,600575,420402,0
+Turkmenistan,East Europe and CIS,Other_dairy cow,dairy cow,Dairy & eggs,145299,37487,199932,374872,349881,124957,87470,0
+Uganda,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,350102,90326,481741,903264,843046,301088,210762,0
+Ukraine,East Europe and CIS,Other_dairy cow,dairy cow,Dairy & eggs,365588,94322,503049,943216,880335,314405,220084,0
+United Arab Emirates,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,4733,1221,6512,12210,11396,4070,2849,0
+United Republic of Tanzania,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,705278,181962,970463,1819618,1698310,606539,424578,0
+United States Virgin Islands,Caribbean,Caribbean_dairy cow,dairy cow,Dairy & eggs,132,34,182,341,318,114,80,0
+Uruguay,South America,South America_dairy cow,dairy cow,Dairy & eggs,112180,28943,154360,289425,270130,96475,67533,0
+Uzbekistan,East Europe and CIS,Other_dairy cow,dairy cow,Dairy & eggs,583682,150590,803146,1505900,1405506,501967,351377,0
+Vanuatu,Island nation,Other_dairy cow,dairy cow,Dairy & eggs,2387,616,3285,6159,5748,2053,1437,0
+Venezuela (Bolivarian Republic of),South America,South America_dairy cow,dairy cow,Dairy & eggs,317500,81915,436880,819150,764540,273050,191135,0
+Viet Nam,Southern Asia,Southern Asia_dairy cow,dairy cow,Dairy & eggs,31901,8231,43896,82305,76818,27435,19205,0
+Wallis and Futuna Islands,Island nation,Other_dairy cow,dairy cow,Dairy & eggs,5,1,7,13,12,4,3,0
+Yemen,Middle East,Middle East_dairy cow,dairy cow,Dairy & eggs,51685,13335,71119,133347,124458,44449,31114,0
+Zambia,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,29936,7724,41192,77236,72087,25745,18022,0
+Zimbabwe,Eastern Africa,Eastern Africa_dairy cow,dairy cow,Dairy & eggs,93868,24218,129162,242179,226034,80726,56509,0
+Afghanistan,Middle East,Middle East_hen,hen,Dairy & eggs,129825,68820,65198,148506,0,0,3622,0
+Algeria,Northern Africa,Northern Africa_hen,hen,Dairy & eggs,355309,188350,178436,406438,0,0,9913,0
+American Samoa,Island nation,Other_hen,hen,Dairy & eggs,137,72,69,156,0,0,4,0
+Angola,Central Africa,Central Africa_hen,hen,Dairy & eggs,11958,6339,6005,13678,0,0,334,0
+Antigua and Barbuda,Caribbean,Caribbean_hen,hen,Dairy & eggs,1162,616,583,1329,0,0,32,0
+Argentina,South America,South America_hen,hen,Dairy & eggs,573961,304257,288243,656554,0,0,16014,0
+Armenia,East Europe and CIS,Other_hen,hen,Dairy & eggs,34164,18111,17157,39081,0,0,953,0
+Azerbaijan,Middle East,Middle East_hen,hen,Dairy & eggs,182615,96804,91709,208894,0,0,5095,0
+Bahamas,Caribbean,Caribbean_hen,hen,Dairy & eggs,1913,1014,961,2189,0,0,53,0
+Bahrain,Middle East,Middle East_hen,hen,Dairy & eggs,3963,2101,1990,4533,0,0,111,0
+Bangladesh,Middle East,Southern Asia_hen,hen,Dairy & eggs,2446168,1296714,1228466,2798172,0,0,68248,0
+Belarus,East Europe and CIS,Other_hen,hen,Dairy & eggs,251450,133293,126278,287633,0,0,7015,0
+Benin,Western Africa,Western Africa_hen,hen,Dairy & eggs,35531,18835,17844,40644,0,0,991,0
+Bhutan,Middle East,Middle East_hen,hen,Dairy & eggs,2050,1087,1029,2345,0,0,57,0
+Bolivia (Plurinational State of),South America,South America_hen,hen,Dairy & eggs,66101,35040,33196,75613,0,0,1844,0
+Botswana,Southern Africa,Southern Africa_hen,hen,Dairy & eggs,11753,6230,5902,13444,0,0,328,0
+Brazil,South America,South America_hen,hen,Dairy & eggs,4099723,2173263,2058881,4689673,0,0,114382,0
+Brunei Darussalam,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,23232,12315,11667,26575,0,0,648,0
+Burkina Faso,Western Africa,Western Africa_hen,hen,Dairy & eggs,234368,124238,117699,268093,0,0,6539,0
+Burundi,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,10933,5795,5490,12506,0,0,305,0
+Cabo Verde,Western Africa,Western Africa_hen,hen,Dairy & eggs,3936,2086,1977,4502,0,0,110,0
+Cambodia,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,71062,37670,35687,81288,0,0,1983,0
+Cameroon,Central Africa,Central Africa_hen,hen,Dairy & eggs,62862,33323,31569,71908,0,0,1754,0
+Cayman Islands,Caribbean,Caribbean_hen,hen,Dairy & eggs,14,7,7,16,0,0,0,0
+Central African Republic,Central Africa,Central Africa_hen,hen,Dairy & eggs,8199,4347,4118,9379,0,0,229,0
+Chad,Central Africa,Central Africa_hen,hen,Dairy & eggs,15032,7969,7549,17195,0,0,419,0
+Chile,South America,South America_hen,hen,Dairy & eggs,154669,81990,77675,176926,0,0,4315,0
+"China, Hong Kong SAR",Eastern Asia,Eastern Asia_hen,hen,Dairy & eggs,916,485,460,1047,0,0,26,0
+"China, Macao SAR",Eastern Asia,Eastern Asia_hen,hen,Dairy & eggs,1435,761,721,1641,0,0,40,0
+"China, mainland",China,China_hen,hen,Dairy & eggs,35804250,18979833,17980895,40956482,0,0,998939,0
+"China, Taiwan Province of",China,China_hen,hen,Dairy & eggs,505633,268036,253929,578393,0,0,14107,0
+Colombia,South America,South America_hen,hen,Dairy & eggs,573961,304257,288243,656554,0,0,16014,0
+Comoros,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,2938,1557,1476,3361,0,0,82,0
+Congo,Central Africa,Central Africa_hen,hen,Dairy & eggs,6833,3622,3431,7816,0,0,191,0
+Cook Islands,Island nation,Other_hen,hen,Dairy & eggs,82,43,41,94,0,0,2,0
+Costa Rica,Central America,Central America_hen,hen,Dairy & eggs,44414,23544,22305,50805,0,0,1239,0
+Cote d'Ivoire,Western Africa,Western Africa_hen,hen,Dairy & eggs,157156,83308,78924,179771,0,0,4385,0
+Cuba,Caribbean,Caribbean_hen,hen,Dairy & eggs,138639,73493,69625,158589,0,0,3868,0
+Cyprus,Western Asia,Western Asia_hen,hen,Dairy & eggs,8336,4419,4186,9536,0,0,233,0
+Democratic People's Republic of Korea,Eastern Asia,Eastern Asia_hen,hen,Dairy & eggs,232318,123152,116670,265748,0,0,6482,0
+Democratic Republic of the Congo,Central Africa,Central Africa_hen,hen,Dairy & eggs,39631,21008,19903,45334,0,0,1106,0
+Dominica,Caribbean,Caribbean_hen,hen,Dairy & eggs,683,362,343,782,0,0,19,0
+Dominican Republic,Caribbean,Caribbean_hen,hen,Dairy & eggs,92927,49261,46668,106299,0,0,2593,0
+Ecuador,South America,South America_hen,hen,Dairy & eggs,109326,57954,54904,125058,0,0,3050,0
+Egypt,Northern Africa,Northern Africa_hen,hen,Dairy & eggs,368975,195594,185299,422071,0,0,10294,0
+El Salvador,Central America,Central America_hen,hen,Dairy & eggs,73795,39119,37060,84414,0,0,2059,0
+Equatorial Guinea,Central Africa,Central Africa_hen,hen,Dairy & eggs,929,493,467,1063,0,0,26,0
+Eritrea,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,7790,4129,3912,8910,0,0,217,0
+Ethiopia,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,127775,67733,64168,146161,0,0,3565,0
+Fiji,Island nation,Other_hen,hen,Dairy & eggs,7653,4057,3843,8754,0,0,214,0
+French Guiana,South America,South America_hen,hen,Dairy & eggs,1367,724,686,1563,0,0,38,0
+French Polynesia,Island nation,Other_hen,hen,Dairy & eggs,2597,1376,1304,2970,0,0,72,0
+Gabon,Central Africa,Central Africa_hen,hen,Dairy & eggs,6150,3260,3088,7035,0,0,172,0
+Gambia,Western Africa,Western Africa_hen,hen,Dairy & eggs,3143,1666,1578,3595,0,0,88,0
+Georgia,Western Asia,Western Asia_hen,hen,Dairy & eggs,31431,16662,15785,35954,0,0,877,0
+Ghana,Western Africa,Western Africa_hen,hen,Dairy & eggs,204986,108663,102944,234484,0,0,5719,0
+Grenada,Caribbean,Caribbean_hen,hen,Dairy & eggs,2050,1087,1029,2345,0,0,57,0
+Guadeloupe,Caribbean,Caribbean_hen,hen,Dairy & eggs,2460,1304,1235,2814,0,0,69,0
+Guam,Island nation,Other_hen,hen,Dairy & eggs,1230,652,618,1407,0,0,34,0
+Guatemala,Central America,Central America_hen,hen,Dairy & eggs,241884,128223,121474,276691,0,0,6749,0
+Guinea,Western Africa,Western Africa_hen,hen,Dairy & eggs,95660,50709,48041,109426,0,0,2669,0
+Guinea-Bissau,Western Africa,Western Africa_hen,hen,Dairy & eggs,4100,2173,2059,4690,0,0,114,0
+Guyana,South America,South America_hen,hen,Dairy & eggs,2528,1340,1270,2892,0,0,71,0
+Haiti,Caribbean,Caribbean_hen,hen,Dairy & eggs,7790,4129,3912,8910,0,0,217,0
+Honduras,Central America,Central America_hen,hen,Dairy & eggs,59241,31404,29751,67766,0,0,1653,0
+India,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,4673685,2477520,2347124,5346228,0,0,130396,0
+Indonesia,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,3279779,1738611,1647105,3751739,0,0,91506,0
+Iran (Islamic Republic of),Middle East,Middle East_hen,hen,Dairy & eggs,912872,483913,458444,1044234,0,0,25469,0
+Iraq,Middle East,Middle East_hen,hen,Dairy & eggs,68329,36221,34315,78161,0,0,1906,0
+Israel,Middle East,Middle East_hen,hen,Dairy & eggs,124536,66016,62542,142457,0,0,3475,0
+Jamaica,Caribbean,Caribbean_hen,hen,Dairy & eggs,20499,10866,10294,23448,0,0,572,0
+Japan,Eastern Asia,Eastern Asia_hen,hen,Dairy & eggs,1885873,999701,947085,2157250,0,0,52616,0
+Jordan,Western Asia,Western Asia_hen,hen,Dairy & eggs,24598,13040,12353,28138,0,0,686,0
+Kazakhstan,East Europe and CIS,Other_hen,hen,Dairy & eggs,242239,128411,121652,277097,0,0,6758,0
+Kenya,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,273315,144884,137259,312645,0,0,7625,0
+Kiribati,Island nation,Other_hen,hen,Dairy & eggs,1913,1014,961,2189,0,0,53,0
+Kuwait,Western Asia,Western Asia_hen,hen,Dairy & eggs,97027,51434,48727,110989,0,0,2707,0
+Kyrgyzstan,East Europe and CIS,Other_hen,hen,Dairy & eggs,47830,25355,24020,54713,0,0,1334,0
+Lao People's Democratic Republic,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,38264,20284,19216,43770,0,0,1068,0
+Lebanon,Middle East,Middle East_hen,hen,Dairy & eggs,34164,18111,17157,39081,0,0,953,0
+Lesotho,Southern Africa,Southern Africa_hen,hen,Dairy & eggs,4783,2535,2402,5471,0,0,133,0
+Liberia,Western Africa,Western Africa_hen,hen,Dairy & eggs,15032,7969,7549,17195,0,0,419,0
+Libya,Northern Africa,Northern Africa_hen,hen,Dairy & eggs,122992,65198,61766,140690,0,0,3431,0
+Madagascar,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,51247,27166,25736,58621,0,0,1430,0
+Malawi,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,75162,39843,37746,85977,0,0,2097,0
+Malaysia,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,1161588,615758,583350,1328741,0,0,32408,0
+Mali,Western Africa,Western Africa_hen,hen,Dairy & eggs,106593,56505,53531,121932,0,0,2974,0
+Martinique,Caribbean,Caribbean_hen,hen,Dairy & eggs,1367,724,686,1563,0,0,38,0
+Mauritania,Western Africa,Western Africa_hen,hen,Dairy & eggs,23232,12315,11667,26575,0,0,648,0
+Mauritius,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,16399,8693,8236,18759,0,0,458,0
+Mexico,Central America,Central America_hen,hen,Dairy & eggs,2615350,1386397,1313429,2991699,0,0,72968,0
+Micronesia (Federated States of),Island nation,Other_hen,hen,Dairy & eggs,1230,652,618,1407,0,0,34,0
+Mongolia,Eastern Asia,Eastern Asia_hen,hen,Dairy & eggs,1093,580,549,1251,0,0,31,0
+Montserrat,Caribbean,Caribbean_hen,hen,Dairy & eggs,273,145,137,313,0,0,8,0
+Morocco,Northern Africa,Northern Africa_hen,hen,Dairy & eggs,628624,333234,315695,719083,0,0,17539,0
+Mozambique,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,125725,66647,63139,143817,0,0,3508,0
+Myanmar,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,867775,460007,435797,992648,0,0,24211,0
+Namibia,Southern Africa,Southern Africa_hen,hen,Dairy & eggs,14759,7824,7412,16883,0,0,412,0
+Nauru,Island nation,Other_hen,hen,Dairy & eggs,55,29,27,63,0,0,2,0
+Nepal,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,112510,59642,56503,128700,0,0,3139,0
+Nicaragua,Central America,Central America_hen,hen,Dairy & eggs,51930,27528,26079,59402,0,0,1449,0
+Niger,Western Africa,Western Africa_hen,hen,Dairy & eggs,45097,23906,22648,51586,0,0,1258,0
+Nigeria,Western Africa,Western Africa_hen,hen,Dairy & eggs,1940536,1028678,974537,2219779,0,0,54141,0
+Niue,Island nation,Other_hen,hen,Dairy & eggs,55,29,27,63,0,0,2,0
+Occupied Palestinian Territory,Middle East,Middle East_hen,hen,Dairy & eggs,24284,12873,12195,27778,0,0,678,0
+Oman,Middle East,Middle East_hen,hen,Dairy & eggs,11616,6158,5834,13287,0,0,324,0
+Pakistan,Middle East,Middle East_hen,hen,Dairy & eggs,1674054,887416,840710,1914950,0,0,46706,0
+Panama,Central America,Central America_hen,hen,Dairy & eggs,47830,25355,24020,54713,0,0,1334,0
+Papua New Guinea,Island nation,Other_hen,hen,Dairy & eggs,23915,12677,12010,27356,0,0,667,0
+Paraguay,South America,South America_hen,hen,Dairy & eggs,133924,70993,67257,153196,0,0,3736,0
+Peru,South America,South America_hen,hen,Dairy & eggs,251450,133293,126278,287633,0,0,7015,0
+Philippines,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,1147923,608514,576487,1313109,0,0,32027,0
+Puerto Rico,Central America,Central America_hen,hen,Dairy & eggs,15716,8331,7892,17977,0,0,438,0
+Qatar,Middle East,Middle East_hen,hen,Dairy & eggs,4920,2608,2471,5628,0,0,137,0
+Republic of Korea,Eastern Asia,Eastern Asia_hen,hen,Dairy & eggs,885868,469599,444883,1013345,0,0,24716,0
+Republic of Moldova,East Europe and CIS,Other_hen,hen,Dairy & eggs,38264,20284,19216,43770,0,0,1068,0
+R'union,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,7311,3876,3672,8363,0,0,204,0
+Russian Federation,East Europe and CIS,Other_hen,hen,Dairy & eggs,2375626,1259319,1193039,2717478,0,0,66280,0
+Rwanda,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,13119,6954,6588,15007,0,0,366,0
+Saint Kitts and Nevis,Central America,Central America_hen,hen,Dairy & eggs,670,355,336,766,0,0,19,0
+Saint Lucia,Central America,Central America_hen,hen,Dairy & eggs,2187,1159,1098,2501,0,0,61,0
+Saint Vincent and the Grenadines,Caribbean,Caribbean_hen,hen,Dairy & eggs,1093,580,549,1251,0,0,31,0
+Samoa,Island nation,Other_hen,hen,Dairy & eggs,998,529,501,1141,0,0,28,0
+Sao Tome and Principe,Central Africa,Central Africa_hen,hen,Dairy & eggs,1708,906,858,1954,0,0,48,0
+Saudi Arabia,Middle East,Middle East_hen,hen,Dairy & eggs,286981,152128,144122,328277,0,0,8007,0
+Senegal,Western Africa,Western Africa_hen,hen,Dairy & eggs,98393,52158,49413,112552,0,0,2745,0
+Seychelles,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,1777,942,892,2032,0,0,50,0
+Sierra Leone,Western Africa,Western Africa_hen,hen,Dairy & eggs,71062,37670,35687,81288,0,0,1983,0
+Singapore,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,32798,17386,16471,37517,0,0,915,0
+Solomon Islands,Island nation,Other_hen,hen,Dairy & eggs,2255,1195,1132,2579,0,0,63,0
+Somalia,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,10591,5614,5319,12115,0,0,295,0
+South Africa,Southern Africa,Southern Africa_hen,hen,Dairy & eggs,628624,333234,315695,719083,0,0,17539,0
+Sri Lanka,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,170822,90553,85787,195403,0,0,4766,0
+Sudan,Northern Africa,Northern Africa_hen,hen,Dairy & eggs,103860,55056,52158,118805,0,0,2898,0
+Suriname,South America,South America_hen,hen,Dairy & eggs,9156,4854,4598,10474,0,0,255,0
+Swaziland,Southern Africa,Southern Africa_hen,hen,Dairy & eggs,3007,1594,1510,3439,0,0,84,0
+Syrian Arab Republic,Middle East,Middle East_hen,hen,Dairy & eggs,172530,91458,86645,197357,0,0,4814,0
+Tajikistan,East Europe and CIS,Other_hen,hen,Dairy & eggs,37622,19943,18894,43036,0,0,1050,0
+Thailand,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,1161588,615758,583350,1328741,0,0,32408,0
+Timor-Leste,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,1913,1014,961,2189,0,0,53,0
+Togo,Western Africa,Western Africa_hen,hen,Dairy & eggs,25965,13764,13040,29701,0,0,724,0
+Tokelau,Island nation,Other_hen,hen,Dairy & eggs,27,14,14,31,0,0,1,0
+Tonga,Island nation,Other_hen,hen,Dairy & eggs,957,507,480,1094,0,0,27,0
+Trinidad and Tobago,Caribbean,Caribbean_hen,hen,Dairy & eggs,12299,6520,6177,14069,0,0,343,0
+Tunisia,Northern Africa,Northern Africa_hen,hen,Dairy & eggs,300646,159373,150985,343909,0,0,8388,0
+Turkey,Middle East,Middle East_hen,hen,Dairy & eggs,1212425,642706,608880,1386893,0,0,33827,0
+Turkmenistan,East Europe and CIS,Other_hen,hen,Dairy & eggs,45097,23906,22648,51586,0,0,1258,0
+Tuvalu,Island nation,Other_hen,hen,Dairy & eggs,137,72,69,156,0,0,4,0
+Uganda,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,122992,65198,61766,140690,0,0,3431,0
+Ukraine,East Europe and CIS,Other_hen,hen,Dairy & eggs,2614257,1385818,1312880,2990448,0,0,72938,0
+United Arab Emirates,Middle East,Middle East_hen,hen,Dairy & eggs,35531,18835,17844,40644,0,0,991,0
+United Republic of Tanzania,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,174922,92726,87846,200093,0,0,4880,0
+Uruguay,South America,South America_hen,hen,Dairy & eggs,81995,43465,41178,93794,0,0,2288,0
+Uzbekistan,East Europe and CIS,Other_hen,hen,Dairy & eggs,355309,188350,178436,406438,0,0,9913,0
+Vanuatu,Island nation,Other_hen,hen,Dairy & eggs,2323,1232,1167,2658,0,0,65,0
+Venezuela (Bolivarian Republic of),South America,South America_hen,hen,Dairy & eggs,225485,119529,113238,257932,0,0,6291,0
+Viet Nam,Southern Asia,Southern Asia_hen,hen,Dairy & eggs,977101,517961,490700,1117705,0,0,27261,0
+Wallis and Futuna Islands,Island nation,Other_hen,hen,Dairy & eggs,150,80,75,172,0,0,4,0
+Yemen,Middle East,Middle East_hen,hen,Dairy & eggs,129825,68820,65198,148506,0,0,3622,0
+Zambia,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,170822,90553,85787,195403,0,0,4766,0
+Zimbabwe,Eastern Africa,Eastern Africa_hen,hen,Dairy & eggs,84728,44914,42550,96920,0,0,2364,0
+Argentina,South America,South America_marine fish,marine fish,Seafood,6,4,2,2,0,0,0,0
+Bahrain,Middle East,Middle East_marine fish,marine fish,Seafood,6,3,2,3,0,0,0,0
+"Bonaire, Saint Eustatius and Saba",Caribbean,Caribbean_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Cambodia,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,750,356,333,367,11,0,0,0
+Chile,South America,South America_marine fish,marine fish,Seafood,899438,605502,247705,288989,27523,0,0,0
+"China, Hong Kong SAR",Eastern Asia,Eastern Asia_marine fish,marine fish,Seafood,1255,672,326,576,38,0,0,0
+"China, mainland",China,China_marine fish,marine fish,Seafood,1189667,254827,655269,910095,0,0,0,0
+Colombia,South America,South America_marine fish,marine fish,Seafood,150,101,41,48,5,0,0,0
+Costa Rica,Central America,Central America_marine fish,marine fish,Seafood,260,139,123,119,0,0,0,0
+Cuba,Caribbean,Caribbean_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Cyprus,Western Asia,Western Asia_marine fish,marine fish,Seafood,4769,3137,1459,1532,73,0,0,0
+Dominican Republic,Caribbean,Caribbean_marine fish,marine fish,Seafood,350,187,134,139,5,0,0,0
+Ecuador,South America,South America_marine fish,marine fish,Seafood,5,3,1,2,0,0,0,0
+French Polynesia,Island nation,Other_marine fish,marine fish,Seafood,13,6,5,6,0,0,0,0
+Georgia,Western Asia,Western Asia_marine fish,marine fish,Seafood,20,13,6,6,0,0,0,0
+Guadeloupe,Caribbean,Caribbean_marine fish,marine fish,Seafood,15,8,6,6,0,0,0,0
+Indonesia,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,782316,371052,347113,383022,11969,0,0,0
+Israel,Middle East,Middle East_marine fish,marine fish,Seafood,3073,1599,1316,1458,47,0,0,0
+Japan,Eastern Asia,Eastern Asia_marine fish,marine fish,Seafood,237963,127429,61894,109225,7282,0,0,0
+Democratic People's Republic of Korea,Eastern Asia,Eastern Asia_marine fish,marine fish,Seafood,100,54,26,46,3,0,0,0
+Republic of Korea,Eastern Asia,Eastern Asia_marine fish,marine fish,Seafood,83438,44681,21702,38298,2553,0,0,0
+Kuwait,Western Asia,Western Asia_marine fish,marine fish,Seafood,297,195,91,95,5,0,0,0
+Libya,Northern Africa,Northern Africa_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Marshall Islands,Island nation,Other_marine fish,marine fish,Seafood,1,0,0,0,0,0,0,0
+Martinique,Caribbean,Caribbean_marine fish,marine fish,Seafood,59,32,23,23,1,0,0,0
+Mauritius,Eastern Africa,Eastern Africa_marine fish,marine fish,Seafood,703,237,463,366,0,0,0,0
+Mayotte,Eastern Africa,Eastern Africa_marine fish,marine fish,Seafood,120,40,79,62,0,0,0,0
+Mexico,Central America,Central America_marine fish,marine fish,Seafood,8761,4691,4155,4021,0,0,0,0
+Morocco,Northern Africa,Northern Africa_marine fish,marine fish,Seafood,237,116,109,109,4,0,0,0
+Mozambique,Eastern Africa,Eastern Africa_marine fish,marine fish,Seafood,150,50,99,78,0,0,0,0
+Myanmar,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,1845,875,819,903,28,0,0,0
+Oman,Middle East,Middle East_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Palau,Island nation,Other_marine fish,marine fish,Seafood,20,10,8,9,0,0,0,0
+Panama,Central America,Central America_marine fish,marine fish,Seafood,1459,781,692,670,0,0,0,0
+Peru,South America,South America_marine fish,marine fish,Seafood,6,4,2,2,0,0,0,0
+Philippines,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,373021,176924,165509,182631,5707,0,0,0
+Puerto Rico,Central America,Central America_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Qatar,Middle East,Middle East_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+R'union,Eastern Africa,Eastern Africa_marine fish,marine fish,Seafood,5,2,3,3,0,0,0,0
+Russian Federation,East Europe and CIS,Other_marine fish,marine fish,Seafood,18790,9487,7762,8337,287,0,0,0
+Saudi Arabia,Middle East,Middle East_marine fish,marine fish,Seafood,4830,2513,2069,2291,74,0,0,0
+Singapore,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,3719,1764,1650,1821,57,0,0,0
+South Africa,Southern Africa,Southern Africa_marine fish,marine fish,Seafood,150,101,62,48,0,0,0,0
+"China, Taiwan Province of",China,China_marine fish,marine fish,Seafood,100484,21524,55347,76870,0,0,0,0
+Tunisia,Northern Africa,Northern Africa_marine fish,marine fish,Seafood,10089,4940,4631,4631,154,0,0,0
+Turkey,Middle East,Middle East_marine fish,marine fish,Seafood,126063,65578,54005,59792,1929,0,0,0
+Tuvalu,Island nation,Other_marine fish,marine fish,Seafood,3,1,1,1,0,0,0,0
+Ukraine,East Europe and CIS,Other_marine fish,marine fish,Seafood,917,463,379,407,14,0,0,0
+Russian Federation,East Europe and CIS,Other_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+United Arab Emirates,Middle East,Middle East_marine fish,marine fish,Seafood,290,151,124,138,4,0,0,0
+Viet Nam,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,208445,98865,92487,102055,3189,0,0,0
+Yugoslavia,East Europe and CIS,Other_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Sri Lanka,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,18,8,8,9,0,0,0,0
+Eritrea,Eastern Africa,Eastern Africa_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Brunei Darussalam,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,114,54,50,56,2,0,0,0
+Guam,Island nation,Other_marine fish,marine fish,Seafood,30,15,12,13,0,0,0,0
+Guyana,South America,South America_marine fish,marine fish,Seafood,90,61,25,29,3,0,0,0
+India,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,90000,42687,39933,44064,1377,0,0,0
+Fiji,Island nation,Other_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Bangladesh,Middle East,Southern Asia_marine fish,marine fish,Seafood,93657,44422,41556,45854,1433,0,0,0
+Thailand,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,19163,9089,8503,9382,293,0,0,0
+Saint Kitts and Nevis,Central America,Central America_marine fish,marine fish,Seafood,1,1,0,0,0,0,0,0
+Malaysia,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,64274,30485,28518,31469,983,0,0,0
+Jordan,Western Asia,Western Asia_marine fish,marine fish,Seafood,205,135,63,66,3,0,0,0
+United Republic of Tanzania,Eastern Africa,Eastern Africa_marine fish,marine fish,Seafood,210,71,138,109,0,0,0,0
+Suriname,South America,South America_marine fish,marine fish,Seafood,2,1,0,1,0,0,0,0
+Iran (Islamic Republic of),Middle East,Middle East_marine fish,marine fish,Seafood,123,64,53,58,2,0,0,0
+Algeria,Northern Africa,Northern Africa_marine fish,marine fish,Seafood,1035,507,475,475,16,0,0,0
+Timor-Leste,Southern Asia,Southern Asia_marine fish,marine fish,Seafood,5,2,2,2,0,0,0,0
+Occupied Palestinian Territory,Middle East,Middle East_marine fish,marine fish,Seafood,150,78,64,71,2,0,0,0
+Micronesia (Federated States of),Island nation,Other_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Nauru,Island nation,Other_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Samoa,Island nation,Other_marine fish,marine fish,Seafood,3,1,1,1,0,0,0,0
+Senegal,Western Africa,Western Africa_marine fish,marine fish,Seafood,264,73,170,162,0,0,0,0
+Zanzibar,Island nation,Other_marine fish,marine fish,Seafood,11,5,4,5,0,0,0,0
+Nigeria,Western Africa,Western Africa_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Aruba,Caribbean,Caribbean_marine fish,marine fish,Seafood,0,0,0,0,0,0,0,0
+Kiribati,Island nation,Other_marine fish,marine fish,Seafood,2,1,1,1,0,0,0,0
+Papua New Guinea,Island nation,Other_marine fish,marine fish,Seafood,1,1,0,0,0,0,0,0
+El Salvador,Central America,Central America_marine fish,marine fish,Seafood,1,1,0,0,0,0,0,0
+Egypt,Northern Africa,Northern Africa_marine fish,marine fish,Seafood,901423,441337,413753,413753,13792,0,0,0
+Vanuatu,Island nation,Other_marine fish,marine fish,Seafood,2,1,1,1,0,0,0,0
+Cote d'Ivoire,Western Africa,Western Africa_marine fish,marine fish,Seafood,820,226,527,502,0,0,0,0
+Bahamas,Caribbean,Caribbean_marine crustacean,marine crustacean,Seafood,8,3,2,3,0,0,0,0
+Brazil,South America,South America_marine crustacean,marine crustacean,Seafood,65028,33476,13695,15977,1522,0,0,0
+Cambodia,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,170,62,58,64,2,0,0,0
+"China, mainland",China,China_marine crustacean,marine crustacean,Seafood,118836,19465,50054,69519,0,0,0,0
+Colombia,South America,South America_marine crustacean,marine crustacean,Seafood,2862,1473,603,703,67,0,0,0
+Costa Rica,Central America,Central America_marine crustacean,marine crustacean,Seafood,2973,1217,1078,1044,0,0,0,0
+Cuba,Caribbean,Caribbean_marine crustacean,marine crustacean,Seafood,4121,1688,1205,1254,48,0,0,0
+Cyprus,Western Asia,Western Asia_marine crustacean,marine crustacean,Seafood,23,12,5,6,0,0,0,0
+Dominican Republic,Caribbean,Caribbean_marine crustacean,marine crustacean,Seafood,450,184,132,137,5,0,0,0
+Ecuador,South America,South America_marine crustacean,marine crustacean,Seafood,340000,175032,71604,83538,7956,0,0,0
+French Polynesia,Island nation,Other_marine crustacean,marine crustacean,Seafood,89,34,28,30,1,0,0,0
+Indonesia,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,598609,217115,203108,224119,7004,0,0,0
+Japan,Eastern Asia,Eastern Asia_marine crustacean,marine crustacean,Seafood,1582,648,315,555,37,0,0,0
+Republic of Korea,Eastern Asia,Eastern Asia_marine crustacean,marine crustacean,Seafood,4501,1843,895,1580,105,0,0,0
+Madagascar,Eastern Africa,Eastern Africa_marine crustacean,marine crustacean,Seafood,4696,1209,2363,1868,0,0,0,0
+Mauritius,Eastern Africa,Eastern Africa_marine crustacean,marine crustacean,Seafood,1,0,1,0,0,0,0,0
+Mexico,Central America,Central America_marine crustacean,marine crustacean,Seafood,86973,35615,31545,30527,0,0,0,0
+Mozambique,Eastern Africa,Eastern Africa_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+Myanmar,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,42000,15233,14251,15725,491,0,0,0
+Nicaragua,Central America,Central America_marine crustacean,marine crustacean,Seafood,30528,12501,11073,10715,0,0,0,0
+Oman,Middle East,Middle East_marine crustacean,marine crustacean,Seafood,277,110,91,100,3,0,0,0
+Pakistan,Middle East,Middle East_marine crustacean,marine crustacean,Seafood,115,46,38,42,1,0,0,0
+Panama,Central America,Central America_marine crustacean,marine crustacean,Seafood,8611,3526,3123,3022,0,0,0,0
+Peru,South America,South America_marine crustacean,marine crustacean,Seafood,21484,11060,4524,5279,503,0,0,0
+Philippines,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,74617,27064,25318,27937,873,0,0,0
+Saudi Arabia,Middle East,Middle East_marine crustacean,marine crustacean,Seafood,12980,5163,4252,4708,152,0,0,0
+Seychelles,Eastern Africa,Eastern Africa_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+Singapore,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,265,96,90,99,3,0,0,0
+"China, Taiwan Province of",China,China_marine crustacean,marine crustacean,Seafood,7406,1213,3120,4333,0,0,0,0
+Tunisia,Northern Africa,Northern Africa_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+Turkey,Middle East,Middle East_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+United Arab Emirates,Middle East,Middle East_marine crustacean,marine crustacean,Seafood,350,139,115,127,4,0,0,0
+Viet Nam,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,651861,236430,221176,244057,7627,0,0,0
+Sri Lanka,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,5152,1868,1748,1929,60,0,0,0
+Belize,Central America,Central America_marine crustacean,marine crustacean,Seafood,7164,2933,2598,2514,0,0,0,0
+Eritrea,Eastern Africa,Eastern Africa_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+"China, mainland",China,China_marine crustacean,marine crustacean,Seafood,1314927,215385,553847,769232,0,0,0,0
+Brunei Darussalam,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,591,214,201,221,7,0,0,0
+Guam,Island nation,Other_marine crustacean,marine crustacean,Seafood,10,4,3,3,0,0,0,0
+Guatemala,Central America,Central America_marine crustacean,marine crustacean,Seafood,11212,4591,4067,3935,0,0,0,0
+Guyana,South America,South America_marine crustacean,marine crustacean,Seafood,140,72,30,34,3,0,0,0
+India,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,377059,136759,127936,141171,4412,0,0,0
+Fiji,Island nation,Other_marine crustacean,marine crustacean,Seafood,9,3,3,3,0,0,0,0
+Bangladesh,Middle East,Southern Asia_marine crustacean,marine crustacean,Seafood,80693,29267,27379,30211,944,0,0,0
+Ghana,Western Africa,Western Africa_marine crustacean,marine crustacean,Seafood,10,2,5,5,0,0,0,0
+Thailand,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,280007,101559,95006,104835,3276,0,0,0
+Saint Kitts and Nevis,Central America,Central America_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+Malaysia,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,61433,22282,20844,23000,719,0,0,0
+United Republic of Tanzania,Eastern Africa,Eastern Africa_marine crustacean,marine crustacean,Seafood,391,101,197,156,0,0,0,0
+Venezuela (Bolivarian Republic of),South America,South America_marine crustacean,marine crustacean,Seafood,22500,11583,4739,5528,527,0,0,0
+Suriname,South America,South America_marine crustacean,marine crustacean,Seafood,74,38,16,18,2,0,0,0
+Iran (Islamic Republic of),Middle East,Middle East_marine crustacean,marine crustacean,Seafood,22475,8941,7363,8152,263,0,0,0
+Algeria,Northern Africa,Northern Africa_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+Timor-Leste,Southern Asia,Southern Asia_marine crustacean,marine crustacean,Seafood,1,0,0,0,0,0,0,0
+Lebanon,Middle East,Middle East_marine crustacean,marine crustacean,Seafood,10,4,3,4,0,0,0,0
+Uruguay,South America,South America_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+Senegal,Western Africa,Western Africa_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+Yemen,Middle East,Middle East_marine crustacean,marine crustacean,Seafood,0,0,0,0,0,0,0,0
+Papua New Guinea,Island nation,Other_marine crustacean,marine crustacean,Seafood,14,5,4,5,0,0,0,0
+El Salvador,Central America,Central America_marine crustacean,marine crustacean,Seafood,812,333,295,285,0,0,0,0
+Egypt,Northern Africa,Northern Africa_marine crustacean,marine crustacean,Seafood,7235,2709,2539,2539,85,0,0,0
+Vanuatu,Island nation,Other_marine crustacean,marine crustacean,Seafood,13,5,4,4,0,0,0,0
+Honduras,Central America,Central America_marine crustacean,marine crustacean,Seafood,32000,13104,11606,11232,0,0,0,0
+Afghanistan,Middle East,Middle East_fw fish,fw fish,Seafood,1100,456,376,416,13,40,0,0
+Algeria,Northern Africa,Northern Africa_fw fish,fw fish,Seafood,1345,525,492,492,16,49,0,0
+American Samoa,Island nation,Other_fw fish,fw fish,Seafood,20,8,7,7,0,1,0,0
+Angola,Central Africa,Central Africa_fw fish,fw fish,Seafood,305,71,160,141,0,0,0,0
+Argentina,South America,South America_fw fish,fw fish,Seafood,3977,2135,873,1019,97,534,0,0
+Armenia,East Europe and CIS,Other_fw fish,fw fish,Seafood,13352,5376,4398,4724,163,977,0,0
+Azerbaijan,Middle East,Middle East_fw fish,fw fish,Seafood,270,112,92,102,3,10,0,0
+Bangladesh,Middle East,Southern Asia_fw fish,fw fish,Seafood,1532067,579428,542045,598119,18691,56074,0,0
+Barbados,Caribbean,Caribbean_fw fish,fw fish,Seafood,20,9,6,6,0,2,0,0
+Belarus,East Europe and CIS,Other_fw fish,fw fish,Seafood,8760,3527,2886,3099,107,641,0,0
+Belize,Central America,Central America_fw fish,fw fish,Seafood,47,20,18,17,0,0,0,0
+Benin,Western Africa,Western Africa_fw fish,fw fish,Seafood,1425,313,730,695,0,0,0,0
+Bhutan,Middle East,Middle East_fw fish,fw fish,Seafood,135,56,46,51,2,5,0,0
+Bolivia (Plurinational State of),South America,South America_fw fish,fw fish,Seafood,1400,752,307,359,34,188,0,0
+Brazil,South America,South America_fw fish,fw fish,Seafood,475976,255504,104524,121945,11614,63876,0,0
+Brunei Darussalam,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,6,2,2,2,0,0,0,0
+Burkina Faso,Western Africa,Western Africa_fw fish,fw fish,Seafood,200,44,102,98,0,0,0,0
+Burundi,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,165,44,87,68,0,0,0,0
+Cote d'Ivoire,Western Africa,Western Africa_fw fish,fw fish,Seafood,2930,643,1501,1430,0,0,0,0
+Cambodia,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,114965,43480,40675,44882,1403,4208,0,0
+Cameroon,Central Africa,Central Africa_fw fish,fw fish,Seafood,840,195,441,389,0,0,0,0
+Central African Republic,Central Africa,Central Africa_fw fish,fw fish,Seafood,140,32,73,65,0,0,0,0
+Chad,Central Africa,Central Africa_fw fish,fw fish,Seafood,3,1,2,1,0,0,0,0
+Chile,South America,South America_fw fish,fw fish,Seafood,68664,36859,15079,17592,1675,9215,0,0
+"China, Hong Kong SAR",Eastern Asia,Eastern Asia_fw fish,fw fish,Seafood,1632,697,338,597,40,259,0,0
+"China, mainland",China,China_fw fish,fw fish,Seafood,18600759,3177010,8169453,11346463,0,0,0,0
+Colombia,South America,South America_fw fish,fw fish,Seafood,88990,47770,19542,22799,2171,11942,0,0
+Congo,Central Africa,Central Africa_fw fish,fw fish,Seafood,134,31,70,62,0,0,0,0
+Democratic Republic of the Congo,Central Africa,Central Africa_fw fish,fw fish,Seafood,2871,665,1506,1331,0,0,0,0
+Cook Islands,Island nation,Other_fw fish,fw fish,Seafood,2,1,1,1,0,0,0,0
+Costa Rica,Central America,Central America_fw fish,fw fish,Seafood,23514,10040,8893,8606,0,0,0,0
+Cuba,Caribbean,Caribbean_fw fish,fw fish,Seafood,7981,3408,2434,2532,97,876,0,0
+Cyprus,Western Asia,Western Asia_fw fish,fw fish,Seafood,43,22,10,11,1,5,0,0
+Czechoslovakia,East Europe and CIS,Other_fw fish,fw fish,Seafood,0,0,0,0,0,0,0,0
+Dominica,Caribbean,Caribbean_fw fish,fw fish,Seafood,5,2,2,2,0,1,0,0
+Dominican Republic,Caribbean,Caribbean_fw fish,fw fish,Seafood,1267,541,386,402,15,139,0,0
+Ecuador,South America,South America_fw fish,fw fish,Seafood,28202,15139,6193,7225,688,3785,0,0
+Egypt,Northern Africa,Northern Africa_fw fish,fw fish,Seafood,228433,89180,83606,83606,2787,8361,0,0
+El Salvador,Central America,Central America_fw fish,fw fish,Seafood,832,355,315,305,0,0,0,0
+Equatorial Guinea,Central Africa,Central Africa_fw fish,fw fish,Seafood,15,3,8,7,0,0,0,0
+Ethiopia,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,86,23,45,35,0,0,0,0
+Fiji,Island nation,Other_fw fish,fw fish,Seafood,170,68,56,60,2,12,0,0
+French Guiana,South America,South America_fw fish,fw fish,Seafood,3,2,1,1,0,0,0,0
+French Polynesia,Island nation,Other_fw fish,fw fish,Seafood,0,0,0,0,0,0,0,0
+Gabon,Central Africa,Central Africa_fw fish,fw fish,Seafood,45,10,24,21,0,0,0,0
+Gambia,Western Africa,Western Africa_fw fish,fw fish,Seafood,15,3,8,7,0,0,0,0
+Georgia,Western Asia,Western Asia_fw fish,fw fish,Seafood,550,289,134,141,7,67,0,0
+Ghana,Western Africa,Western Africa_fw fish,fw fish,Seafood,38535,8462,19745,18805,0,0,0,0
+Guadeloupe,Caribbean,Caribbean_fw fish,fw fish,Seafood,4,2,1,1,0,0,0,0
+Guam,Island nation,Other_fw fish,fw fish,Seafood,70,28,23,25,1,5,0,0
+Guatemala,Central America,Central America_fw fish,fw fish,Seafood,9550,4078,3612,3495,0,0,0,0
+Guinea,Western Africa,Western Africa_fw fish,fw fish,Seafood,250,55,128,122,0,0,0,0
+Guyana,South America,South America_fw fish,fw fish,Seafood,137,74,30,35,3,18,0,0
+Haiti,Caribbean,Caribbean_fw fish,fw fish,Seafood,1010,431,308,320,12,111,0,0
+Honduras,Central America,Central America_fw fish,fw fish,Seafood,29750,12703,11251,10889,0,0,0,0
+India,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,4071080,1539682,1440348,1589350,49667,149002,0,0
+Indonesia,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,2857551,1080726,1011001,1115588,34862,104586,0,0
+Iran (Islamic Republic of),Middle East,Middle East_fw fish,fw fish,Seafood,195301,81011,66715,73863,2383,7148,0,0
+Iraq,Middle East,Middle East_fw fish,fw fish,Seafood,26359,10934,9004,9969,322,965,0,0
+Israel,Middle East,Middle East_fw fish,fw fish,Seafood,16941,7027,5787,6407,207,620,0,0
+Jamaica,Caribbean,Caribbean_fw fish,fw fish,Seafood,710,303,217,225,9,78,0,0
+Japan,Eastern Asia,Eastern Asia_fw fish,fw fish,Seafood,33871,14463,7025,12397,826,5372,0,0
+Jordan,Western Asia,Western Asia_fw fish,fw fish,Seafood,680,357,166,174,8,83,0,0
+Kazakhstan,East Europe and CIS,Other_fw fish,fw fish,Seafood,408,164,134,144,5,30,0,0
+Kenya,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,24098,6468,12642,9996,0,0,0,0
+Democratic People's Republic of Korea,Eastern Asia,Eastern Asia_fw fish,fw fish,Seafood,4450,1900,923,1629,109,706,0,0
+Republic of Korea,Eastern Asia,Eastern Asia_fw fish,fw fish,Seafood,17218,7352,3571,6302,420,2731,0,0
+Kyrgyzstan,East Europe and CIS,Other_fw fish,fw fish,Seafood,434,175,143,154,5,32,0,0
+Lao People's Democratic Republic,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,88310,33399,31244,34476,1077,3232,0,0
+Lebanon,Middle East,Middle East_fw fish,fw fish,Seafood,1115,463,381,422,14,41,0,0
+Lesotho,Southern Africa,Southern Africa_fw fish,fw fish,Seafood,901,483,297,231,0,33,0,0
+Liberia,Western Africa,Western Africa_fw fish,fw fish,Seafood,40,9,20,20,0,0,0,0
+Libya,Northern Africa,Northern Africa_fw fish,fw fish,Seafood,10,4,4,4,0,0,0,0
+Madagascar,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,3773,1013,1979,1565,0,0,0,0
+Malawi,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,4742,1273,2487,1967,0,0,0,0
+Malaysia,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,104957,39695,37134,40975,1280,3841,0,0
+Mali,Western Africa,Western Africa_fw fish,fw fish,Seafood,1953,429,1001,953,0,0,0,0
+Martinique,Caribbean,Caribbean_fw fish,fw fish,Seafood,6,3,2,2,0,1,0,0
+Mauritius,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,70,19,37,29,0,0,0,0
+Mexico,Central America,Central America_fw fish,fw fish,Seafood,83802,35784,31694,30672,0,0,0,0
+Morocco,Northern Africa,Northern Africa_fw fish,fw fish,Seafood,650,254,238,238,8,24,0,0
+Mozambique,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,1029,276,540,427,0,0,0,0
+Myanmar,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,879358,332573,311117,343301,10728,32185,0,0
+Namibia,Southern Africa,Southern Africa_fw fish,fw fish,Seafood,65,35,21,17,0,2,0,0
+Nepal,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,27835,10527,9848,10867,340,1019,0,0
+Nicaragua,Central America,Central America_fw fish,fw fish,Seafood,38,16,14,14,0,0,0,0
+Niger,Western Africa,Western Africa_fw fish,fw fish,Seafood,329,72,169,161,0,0,0,0
+Nigeria,Western Africa,Western Africa_fw fish,fw fish,Seafood,313231,68786,160500,152857,0,0,0,0
+Oman,Middle East,Middle East_fw fish,fw fish,Seafood,5,2,2,2,0,0,0,0
+Pakistan,Middle East,Middle East_fw fish,fw fish,Seafood,123444,51205,42168,46687,1506,4518,0,0
+Occupied Palestinian Territory,Middle East,Middle East_fw fish,fw fish,Seafood,90,37,31,34,1,3,0,0
+Panama,Central America,Central America_fw fish,fw fish,Seafood,262,112,99,96,0,0,0,0
+Papua New Guinea,Island nation,Other_fw fish,fw fish,Seafood,2135,860,703,755,26,156,0,0
+Paraguay,South America,South America_fw fish,fw fish,Seafood,7500,4026,1647,1922,183,1007,0,0
+Peru,South America,South America_fw fish,fw fish,Seafood,38605,20723,8478,9891,942,5181,0,0
+Philippines,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,299265,113182,105880,116833,3651,10953,0,0
+Puerto Rico,Central America,Central America_fw fish,fw fish,Seafood,8,3,3,3,0,0,0,0
+Qatar,Middle East,Middle East_fw fish,fw fish,Seafood,56,23,19,21,1,2,0,0
+R'union,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,60,16,31,25,0,0,0,0
+Russian Federation,East Europe and CIS,Other_fw fish,fw fish,Seafood,115986,46696,38206,41036,1415,8490,0,0
+Rwanda,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,1584,425,831,657,0,0,0,0
+Saint Lucia,Central America,Central America_fw fish,fw fish,Seafood,8,4,3,3,0,0,0,0
+Samoa,Island nation,Other_fw fish,fw fish,Seafood,3,1,1,1,0,0,0,0
+Saudi Arabia,Middle East,Middle East_fw fish,fw fish,Seafood,6060,2514,2070,2292,74,222,0,0
+Senegal,Western Africa,Western Africa_fw fish,fw fish,Seafood,499,110,256,244,0,0,0,0
+Sierra Leone,Western Africa,Western Africa_fw fish,fw fish,Seafood,75,16,38,37,0,0,0,0
+Singapore,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,482,182,171,188,6,18,0,0
+Solomon Islands,Island nation,Other_fw fish,fw fish,Seafood,2,1,1,1,0,0,0,0
+South Africa,Southern Africa,Southern Africa_fw fish,fw fish,Seafood,1750,939,576,448,0,64,0,0
+South Sudan,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,20,5,10,8,0,0,0,0
+Sri Lanka,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,28734,10867,10166,11218,351,1052,0,0
+Sudan,Northern Africa,Northern Africa_fw fish,fw fish,Seafood,2000,781,732,732,24,73,0,0
+Sudan,Northern Africa,Northern Africa_fw fish,fw fish,Seafood,0,0,0,0,0,0,0,0
+Suriname,South America,South America_fw fish,fw fish,Seafood,7,4,1,2,0,1,0,0
+Swaziland,Southern Africa,Southern Africa_fw fish,fw fish,Seafood,100,54,33,26,0,4,0,0
+Syrian Arab Republic,Middle East,Middle East_fw fish,fw fish,Seafood,2998,1244,1024,1134,37,110,0,0
+"China, Taiwan Province of",China,China_fw fish,fw fish,Seafood,113964,19465,50053,69518,0,0,0,0
+Tajikistan,East Europe and CIS,Other_fw fish,fw fish,Seafood,234,94,77,83,3,17,0,0
+United Republic of Tanzania,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,3011,808,1580,1249,0,0,0,0
+Thailand,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,394746,149293,139661,154109,4816,14448,0,0
+Timor-Leste,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,50,19,18,20,1,2,0,0
+Togo,Western Africa,Western Africa_fw fish,fw fish,Seafood,25,5,13,12,0,0,0,0
+Trinidad and Tobago,Caribbean,Caribbean_fw fish,fw fish,Seafood,5,2,2,2,0,1,0,0
+Tunisia,Northern Africa,Northern Africa_fw fish,fw fish,Seafood,1034,404,378,378,13,38,0,0
+Turkey,Middle East,Middle East_fw fish,fw fish,Seafood,108189,44877,36957,40917,1320,3960,0,0
+Turkmenistan,East Europe and CIS,Other_fw fish,fw fish,Seafood,15,6,5,5,0,1,0,0
+Uganda,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,111023,29799,58243,46052,0,0,0,0
+Ukraine,East Europe and CIS,Other_fw fish,fw fish,Seafood,12862,5178,4237,4551,157,941,0,0
+Russian Federation,East Europe and CIS,Other_fw fish,fw fish,Seafood,0,0,0,0,0,0,0,0
+United Arab Emirates,Middle East,Middle East_fw fish,fw fish,Seafood,148,61,51,56,2,5,0,0
+Uruguay,South America,South America_fw fish,fw fish,Seafood,215,115,47,55,5,29,0,0
+Uzbekistan,East Europe and CIS,Other_fw fish,fw fish,Seafood,14669,5906,4832,5190,179,1074,0,0
+Vanuatu,Island nation,Other_fw fish,fw fish,Seafood,65,26,21,23,1,5,0,0
+Venezuela (Bolivarian Republic of),South America,South America_fw fish,fw fish,Seafood,8224,4415,1806,2107,201,1104,0,0
+Viet Nam,Southern Asia,Southern Asia_fw fish,fw fish,Seafood,2270155,858573,803181,886269,27696,83088,0,0
+Yugoslavia,East Europe and CIS,Other_fw fish,fw fish,Seafood,0,0,0,0,0,0,0,0
+Zambia,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,19281,5175,10115,7998,0,0,0,0
+Zimbabwe,Eastern Africa,Eastern Africa_fw fish,fw fish,Seafood,10600,2845,5561,4397,0,0,0,0
+Argentina,South America,South America_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Armenia,East Europe and CIS,Other_fw crustacean,fw crustacean,Seafood,30,18,14,16,1,3,0,0
+Bangladesh,Middle East,Southern Asia_fw crustacean,fw crustacean,Seafood,49499,27467,25695,28353,886,2658,0,0
+Barbados,Caribbean,Caribbean_fw crustacean,fw crustacean,Seafood,1,0,0,0,0,0,0,0
+Brazil,South America,South America_fw crustacean,fw crustacean,Seafood,100,79,32,38,4,20,0,0
+Cambodia,Southern Asia,Southern Asia_fw crustacean,fw crustacean,Seafood,150,83,78,86,3,8,0,0
+"China, mainland",China,China_fw crustacean,fw crustacean,Seafood,2559693,641459,1649466,2290925,0,0,0,0
+Colombia,South America,South America_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Costa Rica,Central America,Central America_fw crustacean,fw crustacean,Seafood,1,0,0,0,0,0,0,0
+Dominica,Caribbean,Caribbean_fw crustacean,fw crustacean,Seafood,1,1,0,0,0,0,0,0
+Dominican Republic,Caribbean,Caribbean_fw crustacean,fw crustacean,Seafood,16,10,7,7,0,3,0,0
+El Salvador,Central America,Central America_fw crustacean,fw crustacean,Seafood,1,1,1,1,0,0,0,0
+Fiji,Island nation,Other_fw crustacean,fw crustacean,Seafood,15,9,7,8,0,2,0,0
+French Polynesia,Island nation,Other_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Guadeloupe,Caribbean,Caribbean_fw crustacean,fw crustacean,Seafood,6,4,3,3,0,1,0,0
+Guam,Island nation,Other_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Guyana,South America,South America_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+India,Southern Asia,Southern Asia_fw crustacean,fw crustacean,Seafood,8680,4817,4506,4972,155,466,0,0
+Indonesia,Southern Asia,Southern Asia_fw crustacean,fw crustacean,Seafood,15283,8481,7933,8754,274,821,0,0
+Iran (Islamic Republic of),Middle East,Middle East_fw crustacean,fw crustacean,Seafood,70,43,35,39,1,4,0,0
+Republic of Korea,Eastern Asia,Eastern Asia_fw crustacean,fw crustacean,Seafood,39,24,12,21,1,9,0,0
+Malaysia,Southern Asia,Southern Asia_fw crustacean,fw crustacean,Seafood,475,263,246,272,8,25,0,0
+Martinique,Caribbean,Caribbean_fw crustacean,fw crustacean,Seafood,8,5,3,3,0,1,0,0
+Mauritius,Eastern Africa,Eastern Africa_fw crustacean,fw crustacean,Seafood,1,0,1,1,0,0,0,0
+Mexico,Central America,Central America_fw crustacean,fw crustacean,Seafood,18,11,10,10,0,0,0,0
+Myanmar,Southern Asia,Southern Asia_fw crustacean,fw crustacean,Seafood,800,444,415,458,14,43,0,0
+Pakistan,Middle East,Middle East_fw crustacean,fw crustacean,Seafood,142,86,71,79,3,8,0,0
+Panama,Central America,Central America_fw crustacean,fw crustacean,Seafood,4,2,2,2,0,0,0,0
+Peru,South America,South America_fw crustacean,fw crustacean,Seafood,78,62,25,29,3,15,0,0
+Philippines,Southern Asia,Southern Asia_fw crustacean,fw crustacean,Seafood,9,5,5,5,0,0,0,0
+Puerto Rico,Central America,Central America_fw crustacean,fw crustacean,Seafood,12,8,7,6,0,0,0,0
+R'union,Eastern Africa,Eastern Africa_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Russian Federation,East Europe and CIS,Other_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Saint Lucia,Central America,Central America_fw crustacean,fw crustacean,Seafood,7,5,4,4,0,0,0,0
+Samoa,Island nation,Other_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+South Africa,Southern Africa,Southern Africa_fw crustacean,fw crustacean,Seafood,5,4,2,2,0,0,0,0
+Sri Lanka,Southern Asia,Southern Asia_fw crustacean,fw crustacean,Seafood,72,40,37,41,1,4,0,0
+Suriname,South America,South America_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+"China, Taiwan Province of",China,China_fw crustacean,fw crustacean,Seafood,14509,3636,9350,12986,0,0,0,0
+Thailand,Southern Asia,Southern Asia_fw crustacean,fw crustacean,Seafood,16906,9381,8776,9684,303,908,0,0
+Trinidad and Tobago,Caribbean,Caribbean_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Ukraine,East Europe and CIS,Other_fw crustacean,fw crustacean,Seafood,1,1,0,1,0,0,0,0
+Vanuatu,Island nation,Other_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Viet Nam,Southern Asia,Southern Asia_fw crustacean,fw crustacean,Seafood,5801,3219,3011,3323,104,312,0,0
+Zimbabwe,Eastern Africa,Eastern Africa_fw crustacean,fw crustacean,Seafood,0,0,0,0,0,0,0,0
+Algeria,Northern Africa,Northern Africa_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Argentina,South America,South America_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Brazil,South America,South America_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Cambodia,Southern Asia,Southern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Chile,South America,South America_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+"China, mainland",China,China_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+"China, Hong Kong SAR",Eastern Asia,Eastern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Cook Islands,Island nation,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Costa Rica,Central America,Central America_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Cuba,Caribbean,Caribbean_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Dominican Republic,Caribbean,Caribbean_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+El Salvador,Central America,Central America_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Falkland Islands (Malvinas),South America,South America_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Fiji,Island nation,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+French Polynesia,Island nation,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Gambia,Western Africa,Western Africa_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+India,Southern Asia,Southern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Indonesia,Southern Asia,Southern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Japan,Eastern Asia,Eastern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Democratic People's Republic of Korea,Eastern Asia,Eastern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Republic of Korea,Eastern Asia,Eastern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Malaysia,Southern Asia,Southern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Mauritius,Eastern Africa,Eastern Africa_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Mexico,Central America,Central America_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Micronesia (Federated States of),Island nation,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Morocco,Northern Africa,Northern Africa_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Namibia,Southern Africa,Southern Africa_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Palau,Island nation,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Peru,South America,South America_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Philippines,Southern Asia,Southern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Puerto Rico,Central America,Central America_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Russian Federation,East Europe and CIS,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Samoa,Island nation,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Senegal,Western Africa,Western Africa_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Seychelles,Eastern Africa,Eastern Africa_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Singapore,Southern Asia,Southern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+South Africa,Southern Africa,Southern Africa_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+"China, Taiwan Province of",China,China_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Thailand,Southern Asia,Southern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Tonga,Island nation,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Tunisia,Northern Africa,Northern Africa_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Ukraine,East Europe and CIS,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Russian Federation,East Europe and CIS,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Venezuela (Bolivarian Republic of),South America,South America_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Viet Nam,Southern Asia,Southern Asia_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
+Yugoslavia,East Europe and CIS,Other_mollusc,mollusc,seafood,0,0,0,0,0,0,0,0
