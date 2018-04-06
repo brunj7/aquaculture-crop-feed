@@ -1,3 +1,5 @@
+source("sim_functions.R")
+
 # load required libraries
 library(ggplot2)
 library(maps)
@@ -13,7 +15,7 @@ library(data.table)
 library(dplyr)
 
 
-rm(list=ls())
+#rm(list=ls())
 #Total production (FAO)
 prod<-read.csv("All_ProductionScenarios_ONFEED.csv")
 head(prod)
@@ -99,14 +101,15 @@ for(i in 1:500){
   length(new_prod$Country) 
 
   #Calculate total feed AND adjust (harmonize) feed at country level
-  wheat[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Wheat)*ff$Farm_factor_wheat
-  corn[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Maize)*ff$Farm_factor_corn
-  soy[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Soy)*ff$Farm_factor_soy
-  rapeseed[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Rapeseed)*ff$Farm_factor_rapeseed
-  pulses[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Pulses)*ff$Farm_factor_pulses
-  barley[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Barley)*ff$Farm_factor_barley
-  cv[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Cassava)*ff$Farm_factor_cassava
-  
+  feed_harmonizer("meanBAU2050_onfeed")
+  # wheat[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Wheat)*ff$Farm_factor_wheat
+  # corn[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Maize)*ff$Farm_factor_corn
+  # soy[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Soy)*ff$Farm_factor_soy
+  # rapeseed[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Rapeseed)*ff$Farm_factor_rapeseed
+  # pulses[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Pulses)*ff$Farm_factor_pulses
+  # barley[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Barley)*ff$Farm_factor_barley
+  # cv[,i] = (new_prod$meanBAU2050_onfeed*new_prod$fcrs*new_prod$Cassava)*ff$Farm_factor_cassava
+  # 
   df_harmz = as.data.frame(cbind(wheat[,i],corn[,i],soy[,i],rapeseed[,i], pulses[,i],barley[,i],cv[,i]))
   names(df_harmz) = c("wheat","corn","soy","rapeseed","pulses","barley","cv")
   df_harmz$Country = new_prod$Country
